@@ -92,6 +92,6 @@ Information about booth/table prices, application process, vendor FAQ is availab
 </div>
 
 
-[vendorlink]: ./vendors/
+[vendorlink]: /vendors/
 [reglink]: https://reg.goblfc.org/
 {:title="Sign up as a dealer!" target="_blank" rel="noopener noreferrer" class="button"}
