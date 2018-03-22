@@ -73,5 +73,5 @@ $('#page-content').removeClass('home-scroll');
 </li>
 </ol>
 <div class="clear"></div>
-<p>We're glad you chose BLFC for your first fur con! We hope you have fun.</p>
+<p>We hope you have fun!</p>
 </div>
