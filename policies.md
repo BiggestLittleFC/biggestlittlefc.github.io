@@ -33,7 +33,7 @@ General Conduct *Keep it legal.*
 
   Do not display, draw conspicuously, or otherwise 'have out' any sexually explicit or adult artwork that you may have purchased or brought with you. Please be mindful of the safety of yourself and others; don't throw things, don't tackle people from behind, etc. 
 
-  No panhandling. No selling anything unless you are an authorized dealer or artist. If you want to sell things, please talk to the staff and we will help you obtain a temporary Reno business license (it's pretty easy). Note that because of state laws, you cannot sell raffle or drawin
+  No panhandling. No selling anything unless you are an authorized dealer or artist. If you want to sell things, please talk to the staff and we will help you obtain a temporary Reno business license (it's pretty easy). Note that because of state laws, you cannot sell raffle or drawing tickets.
 
 
 Heckling *Be nice.*
