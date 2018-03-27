@@ -1,13 +1,13 @@
 ---
 title: Help with the Conbook
-deadline: "TBD"
+deadline: "May 1st"
 status: LIVE
 ---
 ## Theme and Deadline
 
 **All submissions must be in by {{ page.deadline }}.**
 
-Submissions are more likely to be used if they follow <a href="/theme/">this year's theme</a>. Please email con book lead (<a href="mailto:conbook@goblfc.org">conbook@goblfc.org</a>) for instructions on where to email your submissions.
+Submissions are more likely to be used if they follow <a href="/theme/">this year's theme</a>. Please email con book lead (<a href="mailto:conbook@goblfc.org">conbook@goblfc.org</a>) to submit your work.
 
 **Note:** our con book is a PDF download and is not printed as a physical book.
 
