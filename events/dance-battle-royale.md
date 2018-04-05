@@ -18,7 +18,7 @@ layout: fullwidth
 
 
 {::comment}
-<div class="one-full bg-two hide">
+<div class="one-full bg-three hide">
 <div class="page-wrapper">
 
 ## Location &amp; Times
@@ -31,7 +31,7 @@ TIMES TO GO HERE!
 
 
 
-<div class="one-full bg-two hide">
+<div class="one-full bg-two">
 <div class="page-wrapper">
 
 
