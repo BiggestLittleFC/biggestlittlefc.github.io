@@ -94,6 +94,11 @@ button, a.button, .button a, .button, html input[type="button"], input[type="res
 	font-weight: normal;
 	text-transform: none;
 }
+p.button {
+	background: none;
+	box-shadow: none;
+	padding: 0;
+}
 #page-title {
 	background: url("/assets/theme/bg-page-title.jpg") no-repeat scroll center center/cover;
 	text-align: center;
