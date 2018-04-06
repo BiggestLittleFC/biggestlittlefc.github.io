@@ -36,6 +36,8 @@ toc:
     subfolderitems:
 #      - page: All events
 #        url: "/events/"
+      - page: Dance Battle Royale
+        url: "/events/dance-battle-royale/"
       - page: Dance Comp.
         url: "/events/dance-comp/"
       - page: Competitions
