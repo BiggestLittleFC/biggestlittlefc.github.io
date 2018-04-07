@@ -53,7 +53,7 @@ layout: empty
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(triumphant)</p>
-<p>Ah-HA!! There you are!</p>
+<p>Ah-Ha!! There you are!</p>
 </div>
 <p>Thistle holds up a green and yellow shirt. It unfolds to reveal the text "Good Boix" in cursive typeface printed on the front. He bunches up the shirt and hugs it, squeezing it to his cheek fluff with a big smile. He caresses it for a moment. Without a second thought the dark blue work polo is stripped, and he quickly dawns the Good Boix shirt, tail wagging all the while.</p>
 <p>He shoulders the backpack and wheels the suitcase out into the hallway. He pauses to look into his apartment, takes a deep breath, then shuts the door.</p>
