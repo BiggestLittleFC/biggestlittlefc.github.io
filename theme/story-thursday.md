@@ -314,7 +314,7 @@ One weekend. This weekend!</p>
 <p>FLIGHT ATTENDANT #1, a short gray ferret with kind eyes, leans in.</p>
 <div class="dialogue">
 <h4>FLIGHT ATTENDANT #1</h4>
-<p>Sir? Excuse me sir?</p>
+<p>Sir? Excuse me, sir?</p>
 </div>
 <p>Thistle looks up towards her. She points down at his bag.</p>
 <p>FLIGHT ATTENDANT #1, a short gray ferret with kind eyes, leans in.</p>
@@ -358,7 +358,7 @@ One weekend. This weekend!</p>
 <div class="dialogue">
 <h4>FLIGHT ATTENDANT #1</h4>
 <p class="parenthetical">(to himself)</p>
-<p>Here you are sweetie. Oh, I'm sorry, but I'll have to ask you to turn your phone off during this flight. As soon as they clean up the fuss outside, we'll be taking off.</p>
+<p>Here you are, sweetie. Oh, I'm sorry, but I'll have to ask you to turn your phone off during this flight. As soon as they clean up the fuss outside, we'll be taking off.</p>
 </div>
 <p>Thistle thanks the nice lady with a brief smile and nod. Opening the packet of crackers, he places one on his tongue and holds it in his mouth.</p>
 <div class="dialogue">
@@ -377,9 +377,9 @@ One weekend. This weekend!</p>
 <p>Thistle looks on with awe. His face nearly pressed to the window, tear shimmering in his eye and the biggest of all smiles.</p>
 <p>He turns back to his seat, pulling out his phone. He pauses and returns it to his pocket. Turning again to the view.</p>
 <h2>DISSOLVE TO:</h2>
-<p>Thistle reclines with his tray table down, reading from an in-flight catalog of useless novelties. The seat belt indicator bings over head. He glances up, sets his magazine aside and locks his tray table in place. He peeks out the window.</p>
+<p>Thistle reclines with his tray table down, reading from an in-flight catalog of useless novelties. The seat belt indicator bings overhead. He glances up, sets his magazine aside and locks his tray table in place. He peeks out the window.</p>
 <p>The plane is engulfed in layers of white as it passes through the middle of a cloud. It breaks through the cloud to reveal patches of residential areas below. Strips of land blend into the surrounding sea. The whole sight seems a million miles down. An inaudible mumble of the captain barks out over the intercom.</p>
-<p>Thistle leans away from the window, looking as if he's about to faint. He claps his hand to his forehead, sighing. He takes a deep breath and closes the window blind. Grabbing the arm rests, he presses into his seat.</p>
+<p>Thistle leans away from the window, looking as if he's about to faint. He claps his hand to his forehead, sighing. He takes a deep breath and closes the window blind. Grabbing the armrests, he presses into his seat.</p>
 <p>The plane rumbles as it touches down. Thistle jumps. The plane slows down and the engine whine quiets. The audio overhead barked out a garbled message, about the only clear thing said:</p>
 <div class="dialogue">
 <h4>PILOT (INTERCOM)</h4>
@@ -460,7 +460,7 @@ One weekend. This weekend!</p>
 <p>Diego stops to rub his temples and nervously runs his fingers through his disheveled hair again letting out a long yawn. He pauses long enough for Karen to interject.</p>
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Chief, are you sleep deprived already? If you need to go take care of yourself, we can go over everything later. We’ve got this. In fact we need you bright eyed and bushy tailed for when things really start going.
+<p>Chief, are you sleep deprived already? If you need to go take care of yourself, we can go over everything later. We’ve got this. In fact, we need you bright eyed and bushy tailed for when things really start going.
 <br>
 
 
@@ -502,7 +502,7 @@ Karen trails off as the Yeen gets further and further away. Karen gives up the p
 </div>
 <h2>MATCH CUT TO:</h2>
 <h3>INT. AIRPLANE #2 - DAY</h3>
-<p>Thistle rushs down another terminal corridor.</p>
+<p>Thistle rushes down another terminal corridor.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p>Wait!</p>
@@ -560,7 +560,7 @@ Karen trails off as the Yeen gets further and further away. Karen gives up the p
 </div>
 <p>Velcro rips as Baz opens the top flap of her messenger bag, she rummages through it. Clover lightly presses his fingers against her arm. She stops and looks at him. He slides the tea and cookies next to his items. Baz smiles and mouths "Thank you".</p>
 <h3>INT. CLOVER'S SUV - DAY</h3>
-<p>Baz, Sahny, and Clover exit the gas station with their snacks in hand, and climb into the SUV. In the rear view mirror, Clover watches Sahny struggle to settle down between a fursuit bin and wine boxes.</p>
+<p>Baz, Sahny, and Clover exit the gas station with their snacks in hand, and climb into the SUV. In the rearview mirror, Clover watches Sahny struggle to settle down between a fursuit bin and wine boxes.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p>You gonna be able to buckle up with all that junk?</p>
@@ -817,7 +817,7 @@ But, weather ain't breakin' this smile.
 <br>
 This'll be my first time off of the ground.</p>
 </div>
-<p>Thistle counts on his fingers, as if to list off each line in the following verse.</p>
+<p>Thistle counts on his fingers as if to list off each line in the following verse.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p>Call Jesse as I hit arrivals.
@@ -831,7 +831,7 @@ Trunk clicks open, stick my bag inside.
 Now it's only us for a thirteen-minute ride.</p>
 </div>
 <h3>EXT. RENO AIRPORT PICKUP - NIGHT</h3>
-<p>Clover's car is parked outside of the Reno Airport in the arrivals section. Thistle sets his bag down inside the cabin, and leans his head in.</p>
+<p>Clover's car is parked outside of the Reno Airport in the arrivals section. Thistle sets his bag down inside the cabin and leans his head in.</p>
 <p>Clover sits behind the wheel, he reaches out a hand toward Thistle.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
@@ -872,7 +872,7 @@ Get my badge and gooooo
 <p>The SUV door shuts and they drive away.</p>
 <h3>INT. REGISTRATION ROOM - NIGHT</h3>
 <p>Droves of animal folk in all different shapes, sizes, and colors form several queues in front of tables with volunteers taking their identification in exchange for a conference badge.</p>
-<p>A handful even get a bag of swag given to them. DASH, a slender, griffin male with a RADIO on his shoulder, hurries alongside Diego behind the registration tables. Diego is dressed up in a satiny purple dress shirt, black button up vest and shiny slacks with a chain hanging from the back pocket.</p>
+<p>A handful even get a bag of swag given to them. DASH, a slender, griffin male with a RADIO on his shoulder, hurries alongside Diego behind the registration tables. Diego is dressed up in a satiny purple dress shirt, black button-up vest and shiny slacks with a chain hanging from the back pocket.</p>
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(annoyed)</p>
@@ -891,7 +891,7 @@ I wish we could get ONE thing to start on time!</p>
 <p class="parenthetical">(singing)</p>
 <p>Here's my next disaster!</p>
 </div>
-<p>Diego grabs the radio off Dash's shoulder, and speaks into it. The cord attached to the radio tugs Dash along as Diego quickly turns around.</p>
+<p>Diego grabs the radio off Dash's shoulder and speaks into it. The cord attached to the radio tugs Dash along as Diego quickly turns around.</p>
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(singing, to radio)</p>
@@ -1046,7 +1046,7 @@ Reg Line!</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(excited)</p>
-<p>Oh, really?! That's gonna be great! Then, we can be the first in line. Grab our stuff and go to the panel. We'll be a little late, but should catch the interesting parts.</p>
+<p>Oh, really?! That's gonna be great! Then, we can be the first in line. Grab our stuff and go to the panel. We'll be a little late but should catch the interesting parts.</p>
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
@@ -1192,7 +1192,7 @@ Reg Line!</p>
 <span class="italic">Whatever's open</span>.</p>
 </div>
 <p>Baz smirks, throws a quick wave, and exits.</p>
-<p>Clover lays on his back, staring up at the ceiling. He takes a drawn out deep breath and closes his eyes.</p>
+<p>Clover lays on his back, staring up at the ceiling. He takes a drawn-out deep breath and closes his eyes.</p>
 <h2>FADE OUT.</h2>
 
 
