@@ -12,6 +12,7 @@ layout: empty
 </div>
 
 <div id="script" class="us-letter dpi100">
+
 <div class="page title-page">
 <h1>
 <span class="bold">ONE WEEKEND</span>
@@ -22,8 +23,9 @@ layout: empty
 <p class="contact">www.goblfc.org</p>
 <p class="copyright">Copyright (c) 2018 R.A.A.A.R.</p>
 </div>
+
 <div class="page">
-<div class="page">
+
 <p>SUPERIMPOSE: "Thursday"</p>
 <p>FADE IN:</p>
 <h3>EXT. RENO, NEVADA ABOVE F.U.R.S. - DAY</h3>
@@ -1040,6 +1042,8 @@ layout: empty
 <p>Baz smirks, throws a quick wave, and exits.</p>
 <p>Clover lays on his back, staring up at the ceiling. He takes a drawn out deep breath and closes his eyes.</p>
 <h2>FADE OUT.</h2>
-</div>
+
+
+
 </div>
 </div>
