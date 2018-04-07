@@ -93,7 +93,7 @@ layout: empty
 <div class="dialogue">
 <h4>ON SCREEN</h4>
 <p>
-<span class="bold">BAZERI - TABLE 22 @ FURSUASION<br>I can't work for free... Give me da money, Sahny!</span>
+<span class="bold">BAZERI - TABLE 22 @ FURSUASION<br>I can't work for free. . . Give me da money, Sahny!</span>
 </p>
 </div>
 <p>Baz slurps a noodle. Little bits of juice sprinkle on the desk next to some various crushed beverage cans and emptied noodle cartons. In the background, a campy old western plays on a TV. The computer dings and a small notification appears in the bottom right corner of the screen. She leans toward it.</p>
@@ -327,7 +327,7 @@ layout: empty
 <p>The plane rumbles as it touches down. Thistle jumps. The plane slows down and the engine whine quiets. The garbled message of the audio over head, to about the only clear thing said.</p>
 <div class="dialogue">
 <h4>PILOT (INTERCOM)</h4>
-<p>... you may switch on your mobile device and ...</p>
+<p>. . . you may switch on your mobile device and . . .</p>
 </div>
 <p>Thistle doesn't hesitate in whipping his device out, slamming down on the power button until that welcome message flashes and the home screen renders. He breathes a sigh of relief as his posture relaxes. He wipes his palm to his eye. He shoots forward, gripping his phone with both hands.</p>
 <div class="dialogue">
@@ -414,7 +414,7 @@ layout: empty
 </div>
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Diego! We put Hawk there for a reason! I’m sure he can...<br>
+<p>Diego! We put Hawk there for a reason! I’m sure he can. . .<br>
 <br>Karen trails off as the Yeen gets further and further away. Karen gives up the pursuit and lets out a deep sigh, looking annoyed and tired. She rests her hands on her knees to catch her breath. Diego yells back at Karen.</p>
 </div>
 <div class="dialogue">
@@ -424,7 +424,7 @@ layout: empty
 <div class="dialogue">
 <h4>KAREN</h4>
 <p class="parenthetical">(panting)</p>
-<p>...can handle ... moving printers... It's ... so hard ... to run in heels...</p>
+<p>. . .can handle . . . moving printers. . . It's . . . so hard . . . to run in heels. . .</p>
 </div>
 <p>She steps off into a jog again.</p>
 <div class="dialogue">
@@ -541,11 +541,11 @@ layout: empty
 <p>Sahny watches the scenery out one window, Baz out the other.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>Okay, my turn! I spy something ... dead.</p>
+<p>Okay, my turn! I spy something . . . dead.</p>
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Sahny, again the plants aren't dead. They're just the color ... dead.</p>
+<p>Sahny, again the plants aren't dead. They're just the color . . . dead.</p>
 </div>
 <div class="dialogue">
 <h4>BAZ</h4>
@@ -713,7 +713,7 @@ layout: empty
 <div class="dialogue">
 <h4>CLOVER AND SAHNY</h4>
 <p class="parenthetical">(singing)</p>
-<p>What is this our fifth con this year?<br>I bet they already got our spot saved, in the...<br>Reg line!<br>Where they'll need to know what's your name and...<br>Do you have your ID?<br>Reg line!<br>Get your badge and goooooo, make the con your own!</p>
+<p>What is this our fifth con this year?<br>I bet they already got our spot saved, in the. . .<br>Reg line!<br>Where they'll need to know what's your name and. . .<br>Do you have your ID?<br>Reg line!<br>Get your badge and goooooo, make the con your own!</p>
 </div>
 <p>The SUV rounds a bend in the freeway. Through the windshield, just beyond a set of trees, the F.U.R.S on the horizon glistens in the setting sun. Sahny points to it from the back seat. Baz looks up from her phone.</p>
 <h3>INT. AIRPORT #2 - DAY</h3>
@@ -753,7 +753,7 @@ layout: empty
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Well...</p>
+<p>Well. . .</p>
 </div>
 <div class="dialogue">
 <h4>THISTLE</h4>
@@ -761,7 +761,7 @@ layout: empty
 <p>Take me to the Reg line!<br>Gotta get my alter-ego's identification.<br>Reg Line!<br>Get my badge and gooooo<br>
 </p>
 <p class="parenthetical">(spoken)</p>
-<p>... find my hotel room.</p>
+<p>. . . find my hotel room.</p>
 </div>
 <p>The SUV door shuts and they drive away.</p>
 <h3>INT. REGISTRATION ROOM - NIGHT</h3>
@@ -788,10 +788,10 @@ layout: empty
 <p>What do you MEAN "the system's down"?<br>
 </p>
 <p class="parenthetical">(spoken, to radio)</p>
-<p>Ugh... just start writing it down.<br>
+<p>Ugh. . . just start writing it down.<br>
 </p>
 <p class="parenthetical">(singing)</p>
-<p>And we'll put it all in later!<br>The con has barely started and we're nearly undone.<br>Did we rent a damn piano?<br>Seems the only thing that's moving is the...<br>
+<p>And we'll put it all in later!<br>The con has barely started and we're nearly undone.<br>Did we rent a damn piano?<br>Seems the only thing that's moving is the. . .<br>
 </p>
 <p class="parenthetical">(pause. exaggerated breath)</p>
 <p>Reg line!</p>
@@ -872,7 +872,7 @@ layout: empty
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(whining)</p>
-<p>Nooo! We were too late! This is awful! They don't open until ten tomorrow! And we're going to miss the first panel! And we're...</p>
+<p>Nooo! We were too late! This is awful! They don't open until ten tomorrow! And we're going to miss the first panel! And we're. . .</p>
 </div>
 <p>Thistle carries on as he turns into Clover's side and becomes muffled and incoherent.</p>
 <p>King approaches the bear and hands him two tickets. Still falling apart against his taller companion, Thistle misses a short inaudible conversation between the lion and the bear.</p>
@@ -981,7 +981,7 @@ layout: empty
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(defensive)</p>
-<p>What, I was working! Setting up my table ... and stuff...</p>
+<p>What, I was working! Setting up my table . . . and stuff. . .</p>
 </div>
 <p>Baz places her hand on her arm and stares off to the side as her words trail off. Passed a raised eyebrow, Clover looks her over. With a sigh, he turns his glare into a sympathetic gaze.</p>
 <div class="dialogue">
@@ -1035,7 +1035,7 @@ layout: empty
 </div>
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>Heh. You know that one, they're at...<br>
+<p>Heh. You know that one, they're at. . .<br>
 </p>
 <p class="parenthetical">(in air quotes)</p>
 <p>
