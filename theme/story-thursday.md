@@ -73,7 +73,11 @@ layout: empty
 <div class="dialogue">
 <h4>ON SCREEN</h4>
 <p>
-<span class="bold">SAHNY @ FURSUASION<br>cya at con, my luvies!<br>0 likes</span>
+<span class="bold">SAHNY @ FURSUASION
+<br>
+cya at con, my luvies!
+<br>
+0 likes</span>
 </p>
 </div>
 <div class="dialogue">
@@ -93,7 +97,9 @@ layout: empty
 <div class="dialogue">
 <h4>ON SCREEN</h4>
 <p>
-<span class="bold">BAZERI - TABLE 22 @ FURSUASION<br>I can't work for free. . . Give me da money, Sahny!</span>
+<span class="bold">BAZERI - TABLE 22 @ FURSUASION
+<br>
+I can't work for free... Give me da money, Sahny!</span>
 </p>
 </div>
 <p>Baz slurps a noodle. Little bits of juice sprinkle on the desk next to some various crushed beverage cans and emptied noodle cartons. In the background, a campy old western plays on a TV. The computer dings and a small notification appears in the bottom right corner of the screen. She leans toward it.</p>
@@ -110,21 +116,65 @@ layout: empty
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(singing)</p>
-<p>Perhaps my expectations aren't realistic.<br>To think that any single conference could defy,<br>a trend a decade long where I rot working retail.<br>And now I'm giving up before it all begins!<br>One weekend where I can finally have a say.<br>One weekend that lets me get out and away.<br>So as I clutch an airline ticket and a suitcase, say a prayer for my one weekend. One, three-day weekend.<br>One weekend, all it takes to find and make the place you want to live in.<br>One weekend, time enough to find the stuff you're missing out on.<br>One weekend, every issue, every problem, every complication.<br>One weekend, give me just a few more days so I can get my.<br>One weekend. One weekend. One weekend!</p>
+<p>Perhaps my expectations aren't realistic.
+<br>
+To think that any single conference could defy,
+<br>
+a trend a decade long where I rot working retail.
+<br>
+And now I'm giving up before it all begins!
+<br>
+One weekend, where I can finally have a say.
+<br>
+One weekend, that lets me get out and away.
+<br>
+So as I clutch an airline ticket and a suitcase, say a prayer for my one weekend.
+<br>
+One, three-day weekend.
+<br>
+One weekend, all it takes to find and make the place you want to live in.
+<br>
+One weekend, time enough to find the stuff you're missing out on.
+<br>
+One weekend, every issue, every problem, every complication.
+<br>
+One weekend, give me just a few more days so I can get my.
+<br>
+One weekend. One weekend. One weekend!</p>
 </div>
 <h3>INT. BAZ'S PLACE - DAY</h3>
 <p>Baz kicks away from her desk and spins in her chair as she opens with her lines. She continues dancing around her room on, around, and with her furniture.</p>
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(singing)</p>
-<p>I have a problem, with my bank account!<br>Buy my commissions! It's what this con is all about!<br>I might get paid this time.<br>Soon they'll all wait in line for ME.<br>this one weekend.<br>One weekend.<br>One weekend, time to make it back, the flights, the rooms, the gasoline.<br>One weekend, draw and sketch and sell my soul to pay the bills.<br>One weekend, sure this can be fun but overall this is a business.<br>One weekend, God, I hope you've all been saving up for this.<br>One weekend.<br>One weekend.</p>
+<p>I have a problem, with my bank account!
+<br>
+Buy my commissions! It's what this con is all about!
+<br>
+I might get paid this time.
+<br>
+Soon they'll all wait in line for <span class="italic">me</span>, this one weekend.
+<br>
+One weekend.
+<br>
+One weekend, time to make it back, the flights, the rooms, the gasoline.
+<br>
+One weekend, draw and sketch and sell my soul to pay the bills.
+<br>
+One weekend, sure this can be fun but overall this is a business.
+<br>
+One weekend, God, I hope you've all been saving up for this.
+<br>
+One weekend.
+<br>
+One weekend.</p>
 </div>
 <h3>EXT. SAHNY'S APARTMENT - DAY</h3>
 <p>Clover and Sahny load up the SUV while dancing with Sahny's luggage and props.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(singing)</p>
-<p>Don't worry darlin. It'll all be fine.<br>I've checked every box, this train is runnin', and it's runnin' on time!</p>
+<p>Don't worry darlin. It'll all be fine. I've checked every box, this train is runnin', and it's runnin' on time!</p>
 </div>
 <div class="dialogue">
 <h4>SAHNY</h4>
@@ -138,19 +188,19 @@ layout: empty
 </div>
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>Hey! I need those!</p>
+<p>Whoa, whoa! I need those!</p>
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>You can take 2.</p>
+<p>You can take two.</p>
 </div>
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>I need all 8 for the game to work!</p>
+<p>I need all eight for the game to work!</p>
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Okay, 4.</p>
+<p>Okay, four.</p>
 </div>
 <div class="dialogue">
 <h4>SAHNY</h4>
@@ -159,7 +209,7 @@ layout: empty
 <div class="dialogue">
 <h4>SAHNY AND CLOVER</h4>
 <p class="parenthetical">(singing)</p>
-<p>One weekend</p>
+<p>One weekend.</p>
 </div>
 <div class="dialogue">
 <h4>SAHNY</h4>
@@ -174,7 +224,7 @@ layout: empty
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(singing)</p>
-<p>Maybe <span class="italic">this</span> year you can find your way back to your bed <span class="italic">alone</span>
+<p>Maybe <span class="italic">this</span> year you can find your way back to your bed <span class="italic">alone</span>.
 </p>
 </div>
 <div class="dialogue">
@@ -185,7 +235,7 @@ layout: empty
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(sung, simultaneous)</p>
-<p>Reno hasn’t gotten over what <span class="italic">I</span> did there last year</p>
+<p>Reno hasn’t gotten over what <span class="italic">I</span> did there last year</p>.
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
@@ -195,7 +245,11 @@ layout: empty
 <div class="dialogue">
 <h4>SAHNY AND CLOVER</h4>
 <p class="parenthetical">(sung)</p>
-<p>One Weekend.<br>And you know that we can't wait to do it all again<br>One weekend. This weekend!</p>
+<p>One Weekend.
+<br>
+And you know that we can't wait to do it all again
+<br>
+One weekend. This weekend!</p>
 </div>
 <p>Both sit inside the SUV. The door slams and the music becomes muffled as if it's in the SUV.</p>
 <p>( END: "ONE WEEKEND" )</p>
@@ -203,7 +257,9 @@ layout: empty
 <p>Clover clutches the wheel at the "ten-n-two". 80's rock plays low on the radio. Sahny scrolls down on their phone. Clover clears his throat and leans toward Sahny.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Okay, so you can take shotgun for the drive to Baz's, but then you're on your own.<br>
+<p>Okay, so you can take shotgun for the drive to Baz's, but then you're on your own.
+<br>
+
 </p>
 <p class="parenthetical">(chuckles)</p>
 <p>Hope the wine can support your weight!</p>
@@ -327,7 +383,7 @@ layout: empty
 <p>The plane rumbles as it touches down. Thistle jumps. The plane slows down and the engine whine quiets. The garbled message of the audio over head, to about the only clear thing said.</p>
 <div class="dialogue">
 <h4>PILOT (INTERCOM)</h4>
-<p>. . . you may switch on your mobile device and . . .</p>
+<p>... you may switch on your mobile device and ...</p>
 </div>
 <p>Thistle doesn't hesitate in whipping his device out, slamming down on the power button until that welcome message flashes and the home screen renders. He breathes a sigh of relief as his posture relaxes. He wipes his palm to his eye. He shoots forward, gripping his phone with both hands.</p>
 <div class="dialogue">
@@ -404,18 +460,30 @@ layout: empty
 <p>Diego stops to rub his temples and nervously runs his fingers through his disheveled hair again letting out a long yawn. He pauses long enough for Karen to interject.</p>
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Chief, are you sleep deprived already? If you need to go take care of yourself, we can go over everything later. We’ve got this. In fact we need you bright eyed and bushy tailed for when things really start going.<br>
-<br>Diego snorts and considers what he was just told. Without even looking at Karen he breaks into a light jog toward con-ops.</p>
+<p>Chief, are you sleep deprived already? If you need to go take care of yourself, we can go over everything later. We’ve got this. In fact we need you bright eyed and bushy tailed for when things really start going.
+<br>
+
+
+<br>
+Diego snorts and considers what he was just told. Without even looking at Karen he breaks into a light jog toward con-ops.</p>
 </div>
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>Nope! I gotta make sure those printers get to reg.<br>
-<br>Karen struggles to keep up and yells after him as he gets farther away.</p>
+<p>Nope! I gotta make sure those printers get to reg.
+<br>
+
+
+<br>
+Karen struggles to keep up and yells after him as he gets farther away.</p>
 </div>
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Diego! We put Hawk there for a reason! I’m sure he can. . .<br>
-<br>Karen trails off as the Yeen gets further and further away. Karen gives up the pursuit and lets out a deep sigh, looking annoyed and tired. She rests her hands on her knees to catch her breath. Diego yells back at Karen.</p>
+<p>Diego! We put Hawk there for a reason! I’m sure he can...
+<br>
+
+
+<br>
+Karen trails off as the Yeen gets further and further away. Karen gives up the pursuit and lets out a deep sigh, looking annoyed and tired. She rests her hands on her knees to catch her breath. Diego yells back at Karen.</p>
 </div>
 <div class="dialogue">
 <h4>DIEGO</h4>
@@ -424,7 +492,7 @@ layout: empty
 <div class="dialogue">
 <h4>KAREN</h4>
 <p class="parenthetical">(panting)</p>
-<p>. . .can handle . . . moving printers. . . It's . . . so hard . . . to run in heels. . .</p>
+<p>...can handle ... moving printers... It's ... so hard ... to run in heels...</p>
 </div>
 <p>She steps off into a jog again.</p>
 <div class="dialogue">
@@ -541,11 +609,11 @@ layout: empty
 <p>Sahny watches the scenery out one window, Baz out the other.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>Okay, my turn! I spy something . . . dead.</p>
+<p>Okay, my turn! I spy something ... dead.</p>
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Sahny, again the plants aren't dead. They're just the color . . . dead.</p>
+<p>Sahny, again the plants aren't dead. They're just the color ... dead.</p>
 </div>
 <div class="dialogue">
 <h4>BAZ</h4>
@@ -698,7 +766,9 @@ layout: empty
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(singing)</p>
-<p>On the road, gonna beat the traffic.<br>There isn't much at 4am.</p>
+<p>On the road, gonna beat the traffic.
+<br>
+There isn't much at 4am.</p>
 </div>
 <div class="dialogue">
 <h4>BAZ</h4>
@@ -708,12 +778,28 @@ layout: empty
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(singing, blissful)</p>
-<p>In the back you can see "the magic",<br>Mesh eyes starin' back towards home.<br>800 miles can't be that far.</p>
+<p>In the back you can see "the magic",
+<br>
+Mesh eyes starin' back towards home.
+<br>
+800 miles can't be that far.</p>
 </div>
 <div class="dialogue">
 <h4>CLOVER AND SAHNY</h4>
 <p class="parenthetical">(singing)</p>
-<p>What is this our fifth con this year?<br>I bet they already got our spot saved, in the. . .<br>Reg line!<br>Where they'll need to know what's your name and. . .<br>Do you have your ID?<br>Reg line!<br>Get your badge and goooooo, make the con your own!</p>
+<p>What is this our fifth con this year?
+<br>
+I bet they already got our spot saved, in the...
+<br>
+Reg line!
+<br>
+Where they'll need to know what's your name and...
+<br>
+Do you have your ID?
+<br>
+Reg line!
+<br>
+Get your badge and goooooo, make the con your own!</p>
 </div>
 <p>The SUV rounds a bend in the freeway. Through the windshield, just beyond a set of trees, the F.U.R.S on the horizon glistens in the setting sun. Sahny points to it from the back seat. Baz looks up from her phone.</p>
 <h3>INT. AIRPORT #2 - DAY</h3>
@@ -725,12 +811,24 @@ layout: empty
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(singing)</p>
-<p>Got a two-hour delay sitting at the airport.<br>But, weather ain't breakin' this smile.<br>This'll be my first time off of the ground.</p>
+<p>Got a two-hour delay sitting at the airport.
+<br>
+But, weather ain't breakin' this smile.
+<br>
+This'll be my first time off of the ground.</p>
 </div>
 <p>Thistle counts on his fingers, as if to list off each line in the follow verse.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
-<p>Call Jesse as I hit arrivals.<br>Countdown till the moment we meet.<br>I step out at door two and I see their car.<br>Trunk clicks open, stick my bag inside.<br>Now it's only us for a thirteen-minute ride.</p>
+<p>Call Jesse as I hit arrivals.
+<br>
+Countdown till the moment we meet.
+<br>
+I step out at door two and I see their car.
+<br>
+Trunk clicks open, stick my bag inside.
+<br>
+Now it's only us for a thirteen-minute ride.</p>
 </div>
 <h3>EXT. RENO AIRPORT PICKUP - NIGHT</h3>
 <p>Clover's car is parked outside of pickup in the Reno Airport. Thistle sets his bag down inside the cabin, and leans his head in.</p>
@@ -753,15 +851,23 @@ layout: empty
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Well. . .</p>
+<p>Well...</p>
 </div>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(singing)</p>
-<p>Take me to the Reg line!<br>Gotta get my alter-ego's identification.<br>Reg Line!<br>Get my badge and gooooo<br>
+<p>Take me to the Reg line!
+<br>
+Gotta get my alter-ego's identification.
+<br>
+Reg Line!
+<br>
+Get my badge and gooooo
+<br>
+
 </p>
 <p class="parenthetical">(spoken)</p>
-<p>. . . find my hotel room.</p>
+<p>... find my hotel room.</p>
 </div>
 <p>The SUV door shuts and they drive away.</p>
 <h3>INT. REGISTRATION ROOM - NIGHT</h3>
@@ -770,7 +876,11 @@ layout: empty
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(annoyed)</p>
-<p>Ugh, we've had some lights down and an elevator.<br>So far nothing to scrape off the walls.<br>I wish we could get ONE thing to start on time!</p>
+<p>Ugh, we've had some lights down and an elevator.
+<br>
+So far nothing to scrape off the walls.
+<br>
+I wish we could get ONE thing to start on time!</p>
 </div>
 <div class="dialogue">
 <h4>RADIO</h4>
@@ -785,13 +895,25 @@ layout: empty
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(singing, to radio)</p>
-<p>What do you MEAN "the system's down"?<br>
+<p>What do you MEAN "the system's down"?
+<br>
+
 </p>
 <p class="parenthetical">(spoken, to radio)</p>
-<p>Ugh. . . just start writing it down.<br>
+<p>Ugh... just start writing it down.
+<br>
+
 </p>
 <p class="parenthetical">(singing)</p>
-<p>And we'll put it all in later!<br>The con has barely started and we're nearly undone.<br>Did we rent a damn piano?<br>Seems the only thing that's moving is the. . .<br>
+<p>And we'll put it all in later!
+<br>
+The con has barely started and we're nearly undone.
+<br>
+Did we rent a damn piano?
+<br>
+Seems the only thing that's moving is the...
+<br>
+
 </p>
 <p class="parenthetical">(pause. exaggerated breath)</p>
 <p>Reg line!</p>
@@ -800,7 +922,15 @@ layout: empty
 <div class="dialogue">
 <h4>REGISTRANTS</h4>
 <p class="parenthetical">(singing)</p>
-<p>Reg Line!<br>Tell your friends you're heading down.<br>And where they can meet you is the Reg Line!<br>Better get yourself into a suit, and stand still for hours.<br>Reg Line!</p>
+<p>Reg Line!
+<br>
+Tell your friends you're heading down.
+<br>
+And where they can meet you is the Reg Line!
+<br>
+Better get yourself into a suit, and stand still for hours.
+<br>
+Reg Line!</p>
 </div>
 <div class="dialogue">
 <h4>DIEGO</h4>
@@ -810,7 +940,21 @@ layout: empty
 <div class="dialogue">
 <h4>REGISTRANTS</h4>
 <p class="parenthetical">(singing)</p>
-<p>Reg Line!<br>Get yourself a bunch of stuff to forget in your hotel room.<br>Reg Line!<br>Reg Line!<br>Reg Line!<br>Reg Line!<br>AAAAHHH!!!<br>Reg Line!</p>
+<p>Reg Line!
+<br>
+Get yourself a bunch of stuff to forget in your hotel room.
+<br>
+Reg Line!
+<br>
+Reg Line!
+<br>
+Reg Line!
+<br>
+Reg Line!
+<br>
+AAAAHHH!!!
+<br>
+Reg Line!</p>
 </div>
 <p>The volunteers and the registrants return to the positions they were a moment ago.</p>
 <p>( END: "REG LINE" )</p>
@@ -872,7 +1016,7 @@ layout: empty
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(whining)</p>
-<p>Nooo! We were too late! This is awful! They don't open until ten tomorrow! And we're going to miss the first panel! And we're. . .</p>
+<p>Nooo! We were too late! This is awful! They don't open until ten tomorrow! And we're going to miss the first panel! And we're...</p>
 </div>
 <p>Thistle carries on as he turns into Clover's side and becomes muffled and incoherent.</p>
 <p>King approaches the bear and hands him two tickets. Still falling apart against his taller companion, Thistle misses a short inaudible conversation between the lion and the bear.</p>
@@ -944,7 +1088,9 @@ layout: empty
 </div>
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>I got the idea from you. I'm just glad you like it.<br>
+<p>I got the idea from you. I'm just glad you like it.
+<br>
+
 </p>
 <p class="parenthetical">(looking off to the side)</p>
 <p>Nobody else really seems to.</p>
@@ -967,7 +1113,9 @@ layout: empty
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Poor little guy, he's been flying all day.<br>
+<p>Poor little guy, he's been flying all day.
+<br>
+
 </p>
 <p class="parenthetical">(yawning)</p>
 <p>And, we've been driving all day.</p>
@@ -981,7 +1129,7 @@ layout: empty
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(defensive)</p>
-<p>What, I was working! Setting up my table . . . and stuff. . .</p>
+<p>What, I was working! Setting up my table ... and stuff...</p>
 </div>
 <p>Baz places her hand on her arm and stares off to the side as her words trail off. Passed a raised eyebrow, Clover looks her over. With a sigh, he turns his glare into a sympathetic gaze.</p>
 <div class="dialogue">
@@ -1035,7 +1183,9 @@ layout: empty
 </div>
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>Heh. You know that one, they're at. . .<br>
+<p>Heh. You know that one, they're at...
+<br>
+
 </p>
 <p class="parenthetical">(in air quotes)</p>
 <p>
