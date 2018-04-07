@@ -55,7 +55,7 @@ layout: empty
 <p class="parenthetical">(triumphant)</p>
 <p>Ah-Ha!! There you are!</p>
 </div>
-<p>Thistle holds up a green and yellow shirt. It unfolds to reveal the text "Good Boix" in cursive typeface printed on the front. He bunches up the shirt and hugs it, squeezing it to his cheek fluff with a big smile. He caresses it for a moment. Without a second thought the dark blue work polo is stripped, and he quickly dawns the Good Boix shirt, tail wagging all the while.</p>
+<p>Thistle holds up a green and yellow shirt. It unfolds to reveal the text "Good Boix" in cursive typeface printed on the front. He bunches up the shirt and hugs it, squeezing it to his cheek fluff with a big smile. He caresses it for a moment. Without a second thought, the dark blue work polo is stripped and he quickly dawns the Good Boix shirt, tail wagging all the while.</p>
 <p>He shoulders the backpack and wheels the suitcase out into the hallway. He pauses to look into his apartment, takes a deep breath, then shuts the door.</p>
 <h3>EXT. GAS STATION - DAY</h3>
 <p>CLOVER, a mature polar bear with a dad-bod and sport coat, leans against his car. A gas pump chugs fuel into a beat-up, paint-worn SUV. He thumbs out a message on his phone.</p>
@@ -111,7 +111,7 @@ I can't work for free... Give me da money, Sahny!</span>
 </div>
 <p>Baz sets down the noodle cup. She places her hand to her brow, closes her eyes, leans back, and sighs.</p>
 <h3>INT. AIRPORT #1 - DAY</h3>
-<p>Thistle stands with his wheeled suitcase and backpack in front of gigantic windows overlooking an airport runway. A commercial aircraft rolls into a gate. Thistle reads over a boarding pass. He closes his eyes takes a slow, deep breath. The opening chords for "ONE WEEKEND" strum in. He sings and dances across the terminal.</p>
+<p>Thistle stands with his wheeled suitcase and backpack in front of gigantic windows overlooking an airport runway. A commercial aircraft rolls into a gate. Thistle reads over a boarding pass. He closes his eyes, takes a slow deep breath. The opening chords for "ONE WEEKEND" strum in. He sings and dances across the terminal.</p>
 <p>( MUSIC : "ONE WEEKEND" )</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
@@ -268,7 +268,7 @@ One weekend. This weekend!</p>
 <h4>SAHNY</h4>
 <p>Ha! I'll just drink it all to make some room!</p>
 </div>
-<p>Sahny smirks. Clover looks over at them with a face of annoyance, that fades to parental disappointment.</p>
+<p>Sahny smirks. Clover looks over at them with a look of annoyance that fades to parental disappointment.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p>Kidding!</p>
@@ -353,7 +353,7 @@ One weekend. This weekend!</p>
 </div>
 <p>Thistle looks astounded at the intercom speaker, his floppy ears perked, eyes wide and concerned. The pilot is drowned out as Thistle's side of the plane grows louder with shouts and laughter. Thistle blinks, looking out the window.</p>
 <p>A naked deer runs across the view of Thistle's window being chased by airport security.</p>
-<p>Thistle glows bright red, he covers his eyes and blindly pulls down the window screen, just in time for the flash from the airport security taser. The other passengers shout out a "OOOH!".</p>
+<p>Thistle glows bright red, he covers his eyes and blindly pulls down the window screen, just in time for the flash from the airport security taser. The other passengers shout out an "OOOH!".</p>
 <p>Thistle fidgets with his phone's tactile buttons, blankly staring past the screen. He shakes it off when the attendant returns with a few packs of crackers.</p>
 <div class="dialogue">
 <h4>FLIGHT ATTENDANT #1</h4>
@@ -366,21 +366,21 @@ One weekend. This weekend!</p>
 <p class="parenthetical">(to himself)</p>
 <p>Okay, take-off.</p>
 </div>
-<p>The plane starts rolling across the tarmac. Thistle takes a deep breath. Some garbled message over the intercom is drown out by the sound of his breathing. The plane rounds a corner and halts. The engines' whir builds to a full roar. He grabs the edge of the armrest. The plane rumbles as it gains speed down the runway. He presses against the seat. His breath grows shorter, louder. The murmur of the rest of the passengers is but a hush. The plane tips up. Thistle presses even harder against the seat, his claws dig into the armrest. He takes a deep breath, closes his eyes.</p>
+<p>The plane starts rolling across the tarmac. Thistle takes a deep breath. Some garbled message over the intercom is drowned out by the sound of his breathing. The plane rounds a corner and halts. The engines' whir builds to a full roar. He grabs the edge of the armrest. The plane rumbles as it gains speed down the runway. He presses against the seat. His breath grows shorter, louder. The murmur of the rest of the passengers is but a hush. The plane tips up. Thistle presses even harder against the seat, his claws dig into the armrest. He takes a deep breath, closes his eyes.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(whispers)</p>
 <p>For Clover.</p>
 </div>
-<p>His breath softens as the plane's rumbles smooths out to steady swaying in the air. Thistle remains with his eyes closed, pressed against the seat. His legs bouncing.</p>
-<p>He takes a deep breath and his eyes peel open to glance at the window shade. He reaches toward the shade, hesitates. Then, eases the shade to reveal the sun shining across a clear blue sky. Below, a scene like a Bob Ross painting with fluffy white clouds, lines etching out roads on a green landscape of lush fields, and happy little trees.</p>
+<p>His breath softens as the plane's rumbles smooth out to steady swaying in the air. Thistle remains with his eyes closed, pressed against the seat. His legs bouncing.</p>
+<p>He takes a deep breath and his eyes peel open to glance at the window shade. He reaches toward the shade, hesitates. Then, eases the shade to reveal the sun shining across a clear blue sky. Below, there's a scene like a Bob Ross painting, complete with fluffy white clouds, lines etching out roads on a green landscape of lush fields and happy little trees.</p>
 <p>Thistle looks on with awe. His face nearly pressed to the window, tear shimmering in his eye and the biggest of all smiles.</p>
 <p>He turns back to his seat, pulling out his phone. He pauses and returns it to his pocket. Turning again to the view.</p>
 <h2>DISSOLVE TO:</h2>
 <p>Thistle reclines with his tray table down, reading from an in-flight catalog of useless novelties. The seat belt indicator bings over head. He glances up, sets his magazine aside and locks his tray table in place. He peeks out the window.</p>
-<p>The plane is engulfed in layers of white as it passes through the middle of a cloud. It breaks through the cloud to reveal patches of residential areas below. An inaudible mumble of the captain barks out over the intercom. Strips of land blend into the surrounding sea. The whole sight seems a million miles down.</p>
+<p>The plane is engulfed in layers of white as it passes through the middle of a cloud. It breaks through the cloud to reveal patches of residential areas below. Strips of land blend into the surrounding sea. The whole sight seems a million miles down. An inaudible mumble of the captain barks out over the intercom.</p>
 <p>Thistle leans away from the window, looking as if he's about to faint. He claps his hand to his forehead, sighing. He takes a deep breath and closes the window blind. Grabbing the arm rests, he presses into his seat.</p>
-<p>The plane rumbles as it touches down. Thistle jumps. The plane slows down and the engine whine quiets. The garbled message of the audio over head, to about the only clear thing said.</p>
+<p>The plane rumbles as it touches down. Thistle jumps. The plane slows down and the engine whine quiets. The audio overhead barked out a garbled message, about the only clear thing said:</p>
 <div class="dialogue">
 <h4>PILOT (INTERCOM)</h4>
 <p>... you may switch on your mobile device and ...</p>
@@ -396,7 +396,7 @@ One weekend. This weekend!</p>
 <h4>THISTLE</h4>
 <p>Oh, no!</p>
 </div>
-<p>He scrambles his belt loose. Grabs his backpack and runs up the aisles. He gets near the front before the LEAD FLIGHT ATTENDANT, a heavy-set badger who looks very crowded in the small aircraft, blocks the aisle with her palm out.</p>
+<p>He scrambles his seat belt loose. Grabs his backpack and runs up the aisles. He makes his way to the front where the LEAD FLIGHT ATTENDANT, a heavy-set badger who looks very crowded in the small aircraft, blocks the aisle with her palm out.</p>
 <div class="dialogue">
 <h4>LEAD FLIGHT ATTENDANT</h4>
 <p class="parenthetical">(stern)</p>
@@ -438,7 +438,7 @@ One weekend. This weekend!</p>
 <h4>LEAD FLIGHT ATTENDANT</h4>
 <p>That's not even the same airline! But, I'll see what I can do.</p>
 </div>
-<p>The plane docks with the terminal. Flight attendant #1 opens the door. Thistle shoots out of the opening, running down the corridor.</p>
+<p>The plane docks with the terminal. Flight attendant #1 opens the cabin door. Thistle shoots out of the opening, running down the corridor.</p>
 <h2>MATCH CUT TO:</h2>
 <h3>INT. F.U.R.S. - DAY</h3>
 <div class="dialogue">
@@ -533,7 +533,7 @@ Karen trails off as the Yeen gets further and further away. Karen gives up the p
 <p>Clover stands behind an old sheep lady in line, he carries a soda and sunflower seeds. He pulls the phone from his pocket and scans it. Sahny steps up behind him, carrying an aggressive energy drink and a cylinder of chips. Baz holds a large drink can of tea and a box of cookies. He turns to the two of them.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Looks like Thistle's flights were delayed. He'll probably be arriving about the same time as us. So I'll drop you two off then pick him up.</p>
+<p>Looks like Thistle's flight is arriving shortly after we get to the con. So I'll drop you two off and then pick him up.</p>
 </div>
 <p>His phone chimes again, they step up to the cashier as the old sheep shuffles out of the line. Clover reads his phone and clicks his tongue.</p>
 <div class="dialogue">
@@ -576,7 +576,7 @@ Karen trails off as the Yeen gets further and further away. Karen gives up the p
 <p>Sahny blows raspberries as they shimmy into a spot and buckle in.</p>
 <p>The SUV creaks as it takes the slight dip out of the parking lot and onto the road.</p>
 <h2>DISSOLVE TO:</h2>
-<p>Baz doodles on her phone, Clover relaxed at the wheel. She lowers her phone.</p>
+<p>Baz doodles on her phone, Clover relaxed at the wheel, she lowers her phone.</p>
 <div class="dialogue">
 <h4>BAZ</h4>
 <p>Hey! This will be the first time you'll be meeting Thistle, yeah?</p>
@@ -633,7 +633,7 @@ Karen trails off as the Yeen gets further and further away. Karen gives up the p
 <p>Maybe we should <span class="italic">play</span> something else.</p>
 </div>
 <h2>DISSOLVE TO:</h2>
-<p>Sahny's feet press against the car door as they lay in the crowded bench seat, playing some game on their phone. Clover quickly looks toward Baz and clears his throat.</p>
+<p>Sahny's foot paws press against the car door as they lay in the crowded bench seat, playing some game on their phone. Clover quickly looks toward Baz and clears his throat.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p>So, how's your art been going?</p>
@@ -750,7 +750,7 @@ Karen trails off as the Yeen gets further and further away. Karen gives up the p
 <h4>SAHNY</h4>
 <p>Break you too, gray muzz!</p>
 </div>
-<p>Sahny lets out a little hyena giggle. All the laughs fads. Baz turns back to Sahny.</p>
+<p>Sahny lets out a little hyena giggle. All the laughs fade. Baz turns back to Sahny.</p>
 <div class="dialogue">
 <h4>BAZ</h4>
 <p>You're gonna win this year, tho. Yeah?</p>
@@ -762,7 +762,7 @@ Karen trails off as the Yeen gets further and further away. Karen gives up the p
 </div>
 <p>Baz nods, then turns back to look out the window.</p>
 <p>( MUSIC : "REG LINE" )</p>
-<p>Several landscapes fade in and out as the SUV drives down the long stretch of road. The sun disappears and the sky fades to night. The guitar strums in for "REG LINE". Sahny turns around in the seat and grins at the fursuit head facing out the rear window. Baz yawns and stretches in the seat. Clover bobs his head to the music.</p>
+<p>Several landscapes fade in and out as the SUV drives down the long stretch of road. The sun disappears and the sky fades to night. The guitar strums in for "REG LINE". Sahny turns around in the seat and grins at the fursuit head facing out the rear window. Baz yawns and stretches in her seat. Clover bobs his head to the music.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(singing)</p>
@@ -803,7 +803,7 @@ Get your badge and goooooo, make the con your own!</p>
 </div>
 <p>The SUV rounds a bend in the freeway. Through the windshield, just beyond a set of trees, the F.U.R.S on the horizon glistens in the setting sun. Sahny points to it from the back seat. Baz looks up from her phone.</p>
 <h3>INT. AIRPORT #2 - DAY</h3>
-<p>Thistle stands in a queue, lined up to behind the ticket checker to board the flight. He advances little by little with the song advancement.</p>
+<p>Thistle stands in a queue, lined up behind the ticket checker to board the flight. He advances little by little with the song advancement.</p>
 <div class="dialogue">
 <h4>FLIGHT ANNOUNCER (OVER P.A.)</h4>
 <p>Now boarding, flight three-oh-five for Reno, Nevada.</p>
@@ -817,7 +817,7 @@ But, weather ain't breakin' this smile.
 <br>
 This'll be my first time off of the ground.</p>
 </div>
-<p>Thistle counts on his fingers, as if to list off each line in the follow verse.</p>
+<p>Thistle counts on his fingers, as if to list off each line in the following verse.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p>Call Jesse as I hit arrivals.
@@ -831,7 +831,7 @@ Trunk clicks open, stick my bag inside.
 Now it's only us for a thirteen-minute ride.</p>
 </div>
 <h3>EXT. RENO AIRPORT PICKUP - NIGHT</h3>
-<p>Clover's car is parked outside of pickup in the Reno Airport. Thistle sets his bag down inside the cabin, and leans his head in.</p>
+<p>Clover's car is parked outside of the Reno Airport in the arrivals section. Thistle sets his bag down inside the cabin, and leans his head in.</p>
 <p>Clover sits behind the wheel, he reaches out a hand toward Thistle.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
@@ -1131,7 +1131,7 @@ Reg Line!</p>
 <p class="parenthetical">(defensive)</p>
 <p>What, I was working! Setting up my table ... and stuff...</p>
 </div>
-<p>Baz places her hand on her arm and stares off to the side as her words trail off. Passed a raised eyebrow, Clover looks her over. With a sigh, he turns his glare into a sympathetic gaze.</p>
+<p>Baz places her hand on her arm and stares off to the side as her words trail off. Past a raised eyebrow, Clover looks her over. With a sigh, he turns his glare into a sympathetic gaze.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p>I'm sure you'll do fine.</p>
