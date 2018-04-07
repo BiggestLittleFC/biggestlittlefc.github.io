@@ -261,6 +261,8 @@ layout: empty
 <p>Sir? Excuse me sir?</p>
 </div>
 <p>Thistle looks up towards her. She points down at his bag.</p>
+<p>FLIGHT ATTENDANT #1, a short gray ferret with kind eyes, leans in.</p>
+<div class="dialogue">
 <h4>FLIGHT ATTENDANT #1</h4>
 <p>I'm sorry sir. But, you'll have to stow your bag under the seat in front of you before take-off.</p>
 </div>
