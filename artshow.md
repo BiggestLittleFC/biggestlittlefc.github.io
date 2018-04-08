@@ -1,5 +1,6 @@
 ---
 title: "Art Show"
+layout: fullwidth
 status: LIVE
 duedates:
 	mailin: "TBD"
@@ -17,15 +18,14 @@ price:
   hiprice: "7.75"
   taxrate: "7.75"
   confee:  "7.36"
-layout: fullwidth
 ---
-
 <div class="one-full bg-one textcenter">
 <div class="page-wrapper">
 
 ## Artist Application
 
-<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSfvrXIbEIklK24eTtylEfjmZa5Oq1ZXM--fWTwRcR9Vf_4yGg/viewform?usp=sf_link" target="_blank" >Sign Up Now</a>
+[Sign up now][reglink]
+{: class="button"}
 
 </div>
 </div>
@@ -167,3 +167,7 @@ What Happens if You Can't Pay
 
 
 {:/comment}
+
+
+[reglink]: https://docs.google.com/forms/d/e/1FAIpQLSfvrXIbEIklK24eTtylEfjmZa5Oq1ZXM--fWTwRcR9Vf_4yGg/viewform?usp=sf_link
+{:title="Sign up for the battle royale!" target="_blank" rel="noopener noreferrer"}
