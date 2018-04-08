@@ -1,6 +1,6 @@
 ---
 title: Art Show
-status: LIVEx
+status: LIVE
 
 duedates:
 	mailin: "TBD"
@@ -20,10 +20,19 @@ price:
   confee:  "7.36"
 ---
 
-## Artist Signup
+<div class="one-full bg-one textcenter">
+<div class="page-wrapper">
 
-The artist application sign up is coming soon. Please stay tuned!
-<!--
+## Artist Application
+
+<a class="button" href="https://docs.google.com/forms/d/e/1FAIpQLSfvrXIbEIklK24eTtylEfjmZa5Oq1ZXM--fWTwRcR9Vf_4yGg/viewform?usp=sf_link" target="_blank" >Sign Up Now</a>
+
+</div>
+</div>
+
+
+
+{::comment}
 
 ## Rules for Artists
 
@@ -69,7 +78,10 @@ Donate Profits to Charity
 
 
 
-## Hours & Location
+<div class="one-full bg-three hide">
+<div class="page-wrapper">
+
+## Location &amp; Times
 
 Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
 
@@ -91,6 +103,9 @@ Art Show will be located downstairs, connected to the hangout space in the <a hr
 <span>Friday <br> 10AM-1PM - <small>Artist Setup</small> <br> 1-7PM - <small>Bidding Open</small>
 <span>Saturday <br> 1-7PM - <small>Bidding Open</small> <br> 7-8PM - <small>Final Bidding</small>
 <span>Sunday <br> 11AM-8PM - <small>Pickup</small> <br> 2-5PM - <small>Artist Checkout</small>
+
+</div>
+</div>
 
 
 ## Rules for Bidders
@@ -130,4 +145,6 @@ What Happens if You Can't Pay
 
 </div>
 
--->
+
+
+{:/comment}
