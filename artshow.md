@@ -1,7 +1,6 @@
 ---
-title: Art Show
+title: "Art Show"
 status: LIVE
-
 duedates:
 	mailin: "TBD"
 	atcon: "TBD"
@@ -18,6 +17,7 @@ price:
   hiprice: "7.75"
   taxrate: "7.75"
   confee:  "7.36"
+layout: fullwidth
 ---
 
 <div class="one-full bg-one textcenter">
@@ -53,11 +53,6 @@ Art Show will be located downstairs, connected to the hangout space in the <a hr
 - {:.one_third } **Friday** - {{ page.setup.friday }}
 - {:.one_third } **Saturday** - {{ page.setup.saturday }}
 - {:.one_third } **Sunday** - {{ page.setup.sunday }}
-
-<span>Thursday <br> 6-11PM - <small>Artist Setup</small>
-<span>Friday <br> 10AM-1PM - <small>Artist Setup</small> <br> 1-7PM - <small>Bidding Open</small>
-<span>Saturday <br> 1-7PM - <small>Bidding Open</small> <br> 7-8PM - <small>Final Bidding</small>
-<span>Sunday <br> 11AM-8PM - <small>Pickup</small> <br> 2-5PM - <small>Artist Checkout</small>
 
 </div>
 </div>
