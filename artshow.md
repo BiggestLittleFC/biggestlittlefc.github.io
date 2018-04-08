@@ -39,7 +39,7 @@ price:
 <div class="accordion-list">
 
 Pricing & Sharing
-: Putting art in the show is free (except "high value" and "not for sale" pieces); the convention will take a 15% commission on any items sold ({{ page.price.taxrate }}% for sales tax, and {{ page.price.taxrate }}% for the convention). Artists may share any space if desired; please <a href="/contact/">contact art show</a>.
+: Putting art in the show is free (except "high value" and "not for sale" pieces); the convention will take a 15% commission on any items sold ({{ page.price.taxrate }}% for sales tax, and {{ page.price.confee }}% for the convention). Artists may share any space if desired; please <a href="/contact/">contact art show</a>.
 
 'High Value' and 'Not For Sale' Pieces
 : For items with starting bids $100 or higher, or not-for-sale pieces, a $3 listing fee applies. The listing fee is refunded if the item sells.
@@ -57,7 +57,7 @@ Mail-in Art
 : Artists are welcome to mail in artwork for the art show. We will happily hang it up for you. Artists are encouraged to submit a diagram indicating placement of their work; staff will do their best to follow the diagram. Please make sure that all artwork is well-protected for transit, and bid sheets are clearly filled out. After the con, BLFC will return payment along with the unsold artwork, using your packaging. Return postage will be deducted from the artist's payment.
 
 Payment & Commission
-: BLFC will be accepting payment for sold artwork from the winning bidders. BLFC will deduct a 7.36% commission on final bid price (the panel is free; you don't pay if you don't sell). Sales tax of 7.64% will be deducted from the final bids, so we recommend adjusting starting bid prices up by 8%. BLFC will deduct 15% total for tax and commission, deduct return postage for unsold art if applicable, deduct optional charity donation, and remit the remainder to the artist before July 15, 2017. The state and county sales tax must be handled by BLFC; the artist will not need to file any tax paperwork.
+: BLFC will be accepting payment for sold artwork from the winning bidders. BLFC will deduct a {{ page.price.confee }}% commission on final bid price (the panel is free; you don't pay if you don't sell). Sales tax of {{ page.price.taxrate }}% will be deducted from the final bids, so we recommend adjusting starting bid prices up by 8%. BLFC will deduct 15% total for tax and commission, deduct return postage for unsold art if applicable, deduct optional charity donation, and remit the remainder to the artist before July 15, 2017. The state and county sales tax must be handled by BLFC; the artist will not need to file any tax paperwork.
 
 Charity Auction Items
 : Anyone can donate items to be auctioned for charity. Items should be in generally-good condition and not require any more than basic assembly. All charity auction items will be displayed in the art show. Some will be sold in the live auction on Sunday; these items will be labeled. The rest will be sold directly in the art show. If an artist submits for-sale items along with items for the charity auction, each must be clearly labeled.
