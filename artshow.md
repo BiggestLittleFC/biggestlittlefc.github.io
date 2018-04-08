@@ -49,10 +49,10 @@ Art Show will be located downstairs, connected to the hangout space in the <a hr
 
 ### Setup time
 
-- {:.one_third } **Thursday** - {{ page.setup.thursday }}
-- {:.one_third } **Friday** - {{ page.setup.friday }}
-- {:.one_third } **Saturday** - {{ page.setup.saturday }}
-- {:.one_third } **Sunday** - {{ page.setup.sunday }}
+- {:.one_fourth } **Thursday** - {{ page.setup.thursday }}
+- {:.one_fourth } **Friday** - {{ page.setup.friday }}
+- {:.one_fourth } **Saturday** - {{ page.setup.saturday }}
+- {:.one_fourth } **Sunday** - {{ page.setup.sunday }}
 
 </div>
 </div>
