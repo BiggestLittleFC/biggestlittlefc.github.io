@@ -32,7 +32,42 @@ price:
 
 
 
-{::comment}
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
+
+## Location &amp; Times
+
+Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
+
+**Times may be subject to change.**
+
+- {:.one_third } **Friday** - {{ page.open.friday }}
+- {:.one_third } **Saturday** - {{ page.open.saturday }}
+- {:.one_third } **Sunday** - {{ page.open.sunday }}
+
+
+### Setup time
+
+- {:.one_third } **Thursday** - {{ page.setup.thursday }}
+- {:.one_third } **Friday** - {{ page.setup.friday }}
+- {:.one_third } **Saturday** - {{ page.setup.saturday }}
+- {:.one_third } **Sunday** - {{ page.setup.sunday }}
+
+<span>Thursday <br> 6-11PM - <small>Artist Setup</small>
+<span>Friday <br> 10AM-1PM - <small>Artist Setup</small> <br> 1-7PM - <small>Bidding Open</small>
+<span>Saturday <br> 1-7PM - <small>Bidding Open</small> <br> 7-8PM - <small>Final Bidding</small>
+<span>Sunday <br> 11AM-8PM - <small>Pickup</small> <br> 2-5PM - <small>Artist Checkout</small>
+
+</div>
+</div>
+
+
+
+
+
+<div class="one-full bg-three">
+<div class="page-wrapper">
 
 ## Rules for Artists
 
@@ -77,35 +112,21 @@ Donate Profits to Charity
 </div>
 
 
+</div>
+</div>
 
-<div class="one-full bg-three hide">
+
+
+{::comment}
+
+
+
+
+
+
+<div class="one-full bg-three">
 <div class="page-wrapper">
 
-## Location &amp; Times
-
-Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
-
-**Times may be subject to change.**
-
-- {:.one_third } **Friday** - {{ page.open.friday }}
-- {:.one_third } **Saturday** - {{ page.open.saturday }}
-- {:.one_third } **Sunday** - {{ page.open.sunday }}
-
-
-### Setup time
-
-- {:.one_third } **Thursday** - {{ page.setup.thursday }}
-- {:.one_third } **Friday** - {{ page.setup.friday }}
-- {:.one_third } **Saturday** - {{ page.setup.saturday }}
-- {:.one_third } **Sunday** - {{ page.setup.sunday }}
-
-<span>Thursday <br> 6-11PM - <small>Artist Setup</small>
-<span>Friday <br> 10AM-1PM - <small>Artist Setup</small> <br> 1-7PM - <small>Bidding Open</small>
-<span>Saturday <br> 1-7PM - <small>Bidding Open</small> <br> 7-8PM - <small>Final Bidding</small>
-<span>Sunday <br> 11AM-8PM - <small>Pickup</small> <br> 2-5PM - <small>Artist Checkout</small>
-
-</div>
-</div>
 
 
 ## Rules for Bidders
@@ -145,6 +166,9 @@ What Happens if You Can't Pay
 
 </div>
 
+
+</div>
+</div>
 
 
 {:/comment}
