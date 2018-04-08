@@ -3,8 +3,8 @@ title: "Art Show"
 layout: fullwidth
 status: LIVE
 duedates:
-	mailin: "TBD"
-	atcon: "TBD"
+  mailin: "TBD"
+  atcon: "TBD"
 times: 
   friday: "TBD"
   saturday: "TBD"
