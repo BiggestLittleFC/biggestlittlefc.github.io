@@ -17,7 +17,7 @@ setup:
 price:
   hiprice: "7.75"
   taxrate: "7.75"
-  confee:  "7.36"
+  confee: "7.36"
 ---
 <div class="one-full bg-one textcenter">
 <div class="page-wrapper">
