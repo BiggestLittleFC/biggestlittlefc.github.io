@@ -5,7 +5,7 @@ status: LIVE
 duedates:
   mailin: "TBD"
   atcon: "TBD"
-times: 
+public: 
   friday: "TBD"
   saturday: "TBD"
   sunday: "TBD"
@@ -29,36 +29,6 @@ price:
 
 </div>
 </div>
-
-
-
-
-<div class="one-full bg-two">
-<div class="page-wrapper">
-
-## Location &amp; Times
-
-Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
-
-**Times may be subject to change.**
-
-- {:.one_third } **Friday** - {{ page.open.friday }}
-- {:.one_third } **Saturday** - {{ page.open.saturday }}
-- {:.one_third } **Sunday** - {{ page.open.sunday }}
-
-
-### Setup time
-
-- {:.one_fourth } **Thursday** - {{ page.setup.thursday }}
-- {:.one_fourth } **Friday** - {{ page.setup.friday }}
-- {:.one_fourth } **Saturday** - {{ page.setup.saturday }}
-- {:.one_fourth } **Sunday** - {{ page.setup.sunday }}
-
-</div>
-</div>
-
-
-
 
 
 <div class="one-full bg-three">
@@ -118,6 +88,32 @@ Donate Profits to Charity
 
 
 
+<div class="one-full bg-two">
+<div class="page-wrapper">
+
+## Location &amp; Times
+
+Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
+
+**Times may be subject to change.**
+
+- {:.one_third } **Friday** - {{ page.public.friday }}
+- {:.one_third } **Saturday** - {{ page.public.saturday }}
+- {:.one_third } **Sunday** - {{ page.public.sunday }}
+
+
+### Setup time
+
+- {:.one_fourth } **Thursday** - {{ page.setup.thursday }}
+- {:.one_fourth } **Friday** - {{ page.setup.friday }}
+- {:.one_fourth } **Saturday** - {{ page.setup.saturday }}
+- {:.one_fourth } **Sunday** - {{ page.setup.sunday }}
+
+</div>
+</div>
+
+
+
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
@@ -135,29 +131,25 @@ Auction Format
 : Bidding is completely digital. After signing a bidder agreement and registering with a staff member you'll be able to submit bids to the art show system using a bidding terminal or a wireless device of your own. You have unlimited bids. Some charity items will also be up for bid during the art show, like the regular items. Some charity items will be sold by voice auction on Sunday afternoon, and labeled as such.
 
 Bidding Procedure (read carefully)
-:  
-1. Walk to the art show. The bidding system is Wi-Fi, but only at the art show itself.
-2. Use a bidding terminal, your smart phone, or any Wi-Fi enabled device to connect to the "Art Show" wireless network. No password required.
-3. Use a web browser to navigate to 192.168.0.10
-4. Follow instructions presented on the web page.
+: The process is being revised.
 
 Final Bidding
-:  Final bidding begins on Saturday at 6pm. We will turn off the Wi-Fi bidding system and finalize bids panel by panel on paper. Our goal is to finish by 7pm but it may take longer.
+: Final bidding begins on Saturday at 6pm. We will turn off the Wi-Fi bidding system and finalize bids panel by panel on paper. Our goal is to finish by 7pm but it may take longer.
 
 Checkout Procedure
-:  The final auction winnings will be publicly posted by Sunday morning (probably Saturday night). Checkout begins at noon. If you leave contact information, staff will also contact you. On Sunday, bring your photo ID to the art show to pay your balance due and claim your winnings. If you do not claim your auction winnings by 5:00pm on Sunday, you will become responsible for both the amount of your art show win, and shipping.
+: The final auction winnings will be publicly posted by Sunday morning (probably Saturday night). Checkout begins at noon. If you leave contact information, staff will also contact you. On Sunday, bring your photo ID to the art show to pay your balance due and claim your winnings. If you do not claim your auction winnings by 5:00pm on Sunday, you will become responsible for both the amount of your art show win, and shipping.
 
 Proxy Bidding
-:  If you cannot make it to the close of the auction, you can leave "sealed bids" which staff will un-seal at the close of auction, and bid on your behalf up to your maximum. Ask art show staff for details.
+: If you cannot make it to the close of the auction, you can leave "sealed bids" which staff will un-seal at the close of auction, and bid on your behalf up to your maximum. Ask art show staff for details.
 
 Hands Off
-:  To protect the art on display from damage, the art show is strictly hands-off unless labeled otherwise. Please do not touch artwork that is on display.
+: To protect the art on display from damage, the art show is strictly hands-off unless labeled otherwise. Please do not touch artwork that is on display.
 
 Bags, Food & Drink
-:  Bidders entering the art show area must check bags, cameras, sketchbooks, folders, and any food or drink with art show staff. Staff might eat food you leave with them if it looks very very tasty.
+: Bidders entering the art show area must check bags, cameras, sketchbooks, folders, and any food or drink with art show staff. Staff might eat food you leave with them if it looks very very tasty.
 
 What Happens if You Can't Pay
-:  You will be charged a 25% fine on any bids you don't pay for, and will be banned from participating in next year's art show. You will also be banned from attending BLFC until your fine is paid.
+: You will be charged a 25% fine on any bids you don't pay for, and will be banned from participating in next year's art show. You will also be banned from attending BLFC until your fine is paid.
 
 </div>
 
