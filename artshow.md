@@ -52,7 +52,7 @@ Displaying Art
 : Art will be displayed on 2-foot-wide wire grid sections. Tables are also available for unhangable artwork. We will provide hanging hardware, or you are welcome to use your own. Artists are encouraged to enclose their artwork in clear plastic film for protection. It is highly recommended that art is hanged pre-framed or matted to standard frame sizes. Your bidders will love you for doing so!
 
 What Happens When Someone Doesn't Pay
-: Bidders who do not pay their bids by 5:00pm Sunday will be fined for 25% of their total unpaid bids, will be banned from bidding in next year's art show, and will also be blocked from attending the con again until their fine is paid. In this event, the artist will be contacted and given the option to either offer the piece to the 2nd highest bidder, or cancel the item and have it returned. Any fines collected from the bidder will be paid to the artist along with their art show payment.
+: Bidders who do not pay their bids by 8pm Sunday will be fined for 25% of their total unpaid bids, will be banned from bidding in next year's art show, and will also be blocked from attending the con again until their fine is paid. In this event, the artist will be contacted and given the option to either offer the piece to the 2nd highest bidder, or cancel the item and have it returned. Any fines collected from the bidder will be paid to the artist along with their art show payment.
 
 Mail-in Art
 : We no longer allow you to mail in artwork to the BLFC art show. Instead, you can tell us the name of an agent. Your agent will bring your art, hang your art, and take your unsold art back out with them, on your behalf. The check for art sales will still be written to the artist.
@@ -131,7 +131,7 @@ Final Bidding
 :  On Saturday evening, we will go through the panels one at a time, asking for any final bids. After the panel is closed, no more bids will be accepted. Items never go to "voice auction," we will simply keep adding bid sheets if needed.
 
 Checkout Procedure
-: The final auction winnings will be publicly posted by Sunday morning (probably Saturday night). Checkout begins at 11am. If you leave contact information, staff will also contact you. On Sunday, bring your photo ID to the art show to pay your balance due and claim your winnings. If you do not claim your auction winnings by 5pm on Sunday, you will need to pay shipping in addition to your art show win.
+: The final auction winnings will be publicly posted by Sunday morning (probably Saturday night). Checkout begins at 11am. If you leave contact information, staff will also contact you. On Sunday, bring your photo ID to the art show to pay your balance due and claim your winnings. If you do not claim your auction winnings by 8pm on Sunday, you will need to pay shipping in addition to your art show win.
 
 Charity Items
 : Some charity items will be up for bid during the art show, like the regular items, and will *not* be in the voice auction on Sunday afternoon. Select items will be sold by voice auction on Sunday afternoon; they will be on display in the art show for Friday and Saturday.
