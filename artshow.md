@@ -42,7 +42,7 @@ Pricing & Sharing
 : Putting art in the show is free (except "high value" and "not for sale" pieces); the convention will take a {{ (page.price.taxrate + page.price.confee) }}% commission on any items sold ({{ page.price.taxrate }}% for sales tax, and {{ page.price.confee }}% for the convention). Artists may share any space if desired; please <a href="/contact/">contact art show</a>.
 
 'High Value' and 'Not For Sale' Pieces
-: For items with starting bids ${{page.price.hiprice}} or higher, or not-for-sale pieces, a ${{page.price.hiprice}} listing fee applies. The listing fee is refunded if the item sells.
+: For items with starting bids ${{page.price.hiprice}} or higher, or not-for-sale pieces, a ${{page.price.hipricefee}} listing fee applies. The listing fee is refunded if the item sells.
 
 Content & Maturity Level
 : The art show will be divided into a general section and an adult section. Anything depicting nudity, violence, or sexual acts must be placed in the adult section. Non-adult artwork is allowed in the adult section (if an artist has mixed-maturity art but wants to keep all their work displayed together).
