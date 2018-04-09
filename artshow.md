@@ -122,7 +122,7 @@ Art Show will be located downstairs, connected to the hangout space in the <a hr
 <div class="accordion-list">
 
 Bidder Agreement
-: All BLFC registrations are automatically accepted as art show bidders. By registering for the con, you agree to purchase the artwork you bid on if you win, and agree to pay fines if you can't afford your bids.
+: All BLFC registrations are automatically accepted as art show bidders. By registering for the con, you agree to purchase the artwork you bid on if you win, and agree to pay fines if you can't afford your bids. You must be 18 years old to bid in the art show.
 
 Bidding Procedure
 : First, ask the art show desk for bidding stickers; protect these stickers like cash. To bid on an item, select an unclaimed price on the item's bid sheet and place your sticker next to that price to claim it. You may only choose from the pre-printed prices; you may not write in your own price.
