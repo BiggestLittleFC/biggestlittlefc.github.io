@@ -18,6 +18,7 @@ price:
   hipricefee: "3"
   taxrate: "8.1"
   confee: "6.9"
+  totalfee: "15"
 ---
 <div class="one-full bg-one textcenter">
 <div class="page-wrapper">
@@ -39,7 +40,7 @@ price:
 <div class="accordion-list">
 
 Pricing & Sharing
-: Putting art in the show is free (except "high value" and "not for sale" pieces); the convention will take a {{ (page.price.taxrate + page.price.confee) }}% commission on any items sold ({{ page.price.taxrate }}% for sales tax, and {{ page.price.confee }}% for the convention). Artists may share any space if desired; please <a href="/contact/">contact art show</a>.
+: Putting art in the show is free (except "high value" and "not for sale" pieces); the convention will take a {{ (page.price.totalfee) }}% commission on any items sold ({{ page.price.taxrate }}% for sales tax, and {{ page.price.confee }}% for the convention). Artists may share any space if desired; please <a href="/contact/">contact art show</a>.
 
 'High Value' and 'Not For Sale' Pieces
 : For items with starting bids ${{page.price.hiprice}} or higher, or not-for-sale pieces, a ${{page.price.hipricefee}} listing fee applies. The listing fee is refunded if the item sells.
