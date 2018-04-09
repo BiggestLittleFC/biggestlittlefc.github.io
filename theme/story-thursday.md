@@ -460,46 +460,43 @@ One weekend. This weekend!</p>
 <p>Diego stops to rub his temples and nervously runs his fingers through his disheveled hair again letting out a long yawn. He pauses long enough for Karen to interject.</p>
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Chief, are you sleep deprived already? If you need to go take care of yourself, we can go over everything later. We’ve got this. In fact, we need you bright eyed and bushy tailed for when things really start going.
-<br>
-
-
-<br>
-Diego snorts and considers what he was just told. Without even looking at Karen he breaks into a light jog toward con-ops.</p>
+<p>Chief, are you sleep deprived already? If you need to go take care of yourself, we can go over everything later. We’ve got this. In fact, we need you bright eyed and bushy tailed for when things really start going.</p>
 </div>
+
+<p>Diego snorts and considers what he was just told. Without even looking at Karen he breaks into a light jog.</p>
+
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>Nope! I gotta make sure those printers get to reg.
-<br>
-
-
-<br>
-Karen struggles to keep up and yells after him as he gets farther away.</p>
+<p>Nope! I gotta make sure those printers get to reg.</p>
 </div>
+
+<p>Karen struggles to keep up and yells after him as he gets farther away.</p>
+
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Diego! We put Hawk there for a reason! I’m sure he can...
-<br>
-
-
-<br>
-Karen trails off as the Yeen gets further and further away. Karen gives up the pursuit and lets out a deep sigh, looking annoyed and tired. She rests her hands on her knees to catch her breath. Diego yells back at Karen.</p>
+<p>Diego! We put Hawkus there for a reason! I’m sure he can...</p>
 </div>
+
+<p>Karen trails off as the Yeen gets further and further away. Karen gives up the pursuit and lets out a deep sigh, looking annoyed and tired. She rests her hands on her knees to catch her breath. Diego yells back at Karen.</p>
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p>Thanks Karen, You’re the best!</p>
 </div>
+
 <div class="dialogue">
 <h4>KAREN</h4>
 <p class="parenthetical">(panting)</p>
 <p>...can handle ... moving printers... It's ... so hard ... to run in heels...</p>
 </div>
+
 <p>She steps off into a jog again.</p>
+
 <div class="dialogue">
 <h4>KAREN</h4>
 <p class="parenthetical">(annoyed)</p>
 <p>Hold on! Would you just--</p>
 </div>
+
 <h2>MATCH CUT TO:</h2>
 <h3>INT. AIRPLANE #2 - DAY</h3>
 <p>Thistle rushes down another terminal corridor.</p>
