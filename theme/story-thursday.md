@@ -235,7 +235,7 @@ One weekend.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(sung, simultaneous)</p>
-<p>Reno hasn’t gotten over what <span class="italic">I</span> did there last year</p>.
+<p>Reno hasn’t gotten over what <span class="italic">I</span> did there last year.</p>
 </div>
 <div class="dialogue">
 <h4>CLOVER</h4>
