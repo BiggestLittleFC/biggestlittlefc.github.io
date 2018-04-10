@@ -1,5 +1,5 @@
 ---
-title: "Art Show"
+title: "Art Gallery"
 layout: fullwidth
 status: LIVE
 duedates:
