@@ -827,12 +827,12 @@ I step out at door two and I see their car.
 <p>Clover stands by his car, opens the trunk and waves Thistle over.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
-Trunk clicks open, stick my bag inside.
+<p>Trunk clicks open, stick my bag inside.</p>
 </div>
 <p>Thistle dives in for a hug much to the surprise of the bear. Thistle beaming up at the bear.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
-Now it's only us for a thirteen-minute ride.
+<p>Now it's only us for a thirteen-minute ride.</p>
 </div>
 <p>Clover looking a bit awkward in the hug, nerviously brushing Thistle's headfur.</p>
 <div class="dialogue">
@@ -857,7 +857,7 @@ Now it's only us for a thirteen-minute ride.
 <p>Well...</p>
 </div>
 <h3>MATCH CUT TO:</h3>
-<p>Clover and Thistle standing in a F.U.R.S hallway. Clover carrying Thistle's backpack. Thistle making his way through the hallway as CLover tries to keep up.</p>
+<p>Clover and Thistle standing in a F.U.R.S hallway. Clover carrying Thistle's backpack. Thistle making his way through the hallway as Clover tries to keep up.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(singing)</p>
