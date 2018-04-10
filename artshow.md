@@ -37,40 +37,33 @@ price:
 
 ## Rules for Artists
 
+**Important!** A confirmation will be emailed to you upon approval for Art Gallery. *Please keep an eye out for it!* If you do not receive communication from us, or have further questions, please <a href="/contact/">contact the art show lead</a>.
+
 <div class="accordion-list">
 
-Pricing & Sharing
-: Putting art in the show is free (except "high value" and "not for sale" pieces); the convention will take a {{ (page.price.totalfee) }}% commission on any items sold ({{ page.price.taxrate }}% for sales tax, and {{ page.price.confee }}% for the convention). Artists may share any space if desired; please <a href="/contact/">contact art show</a>.
+Participation
+: You must be available at the convention (or have an agent named for you) to participate. We are no longer accepting mail ins. Art must be placed by you or your agent by 1 pm Friday. If you are unable to make this deadline, your space will be re-purposed! 
+  
+  Putting art in the Art Gallery is free for your first two panels. After an item sells, the convention will take a 15% commission from the final price (8.1% for NV Sales tax, 6.9% for the convention). The convention will accept payment for sold artwork from the winning bidders, and handle sales tax and optional charity donations for you. Your funds will be provided before July 15th, 2018.  If your art doesn't sell, you won't be charged for it. :) 
+  
+  "High Value" items (pieces with a starting price over $100) will be subjected to a $3 listing fee, which will be reimbursed upon item sale.  
 
-'High Value' and 'Not For Sale' Pieces
-: For items with starting bids ${{page.price.hiprice}} or higher, or not-for-sale pieces, a ${{page.price.hipricefee}} listing fee applies. The listing fee is refunded if the item sells.
+Display
+: You may submit as much or as little art as you like! If your work cannot take up a full panel, we reserve the right to combine it with another artists work. Panels are 2 feet wide wire grid sections/air wall displays. Two will be free with your submissions, but any additional panels will be $20 each. Tables are also available for displaying non-hanging works. We will be providing hanging hardware, or you are welcome to bring your own. We encourage you to protect your pieces with a clear plastic film, frame, or matte while on display! 
 
-Content & Maturity Level
-: The art show will be divided into a general section and an adult section. Anything depicting nudity, violence, or sexual acts must be placed in the adult section. Non-adult artwork is allowed in the adult section (if an artist has mixed-maturity art but wants to keep all their work displayed together).
+  Adult art constitutes as anything displaying nudity, violence, or sexual acts. There will be an adult section of the gallery for those pieces specifically. You are welcome to display all your work in the adult hall if you'd like to keep them together, or divide your work into both sections (recommended).
 
-Displaying Art
-: Art will be displayed on 2-foot-wide wire grid sections. Tables are also available for unhangable artwork. We will provide hanging hardware, or you are welcome to use your own. Artists are encouraged to enclose their artwork in clear plastic film for protection. It is highly recommended that art is hanged pre-framed or matted to standard frame sizes. Your bidders will love you for doing so!
+  You or your agent must come in to the art show to pick up unsold artwork by 5pm on Sunday.
 
-What Happens When Someone Doesn't Pay
-: Bidders who do not pay their bids by 8pm Sunday will be fined for 25% of their total unpaid bids, will be banned from bidding in next year's art show, and will also be blocked from attending the con again until their fine is paid. In this event, the artist will be contacted and given the option to either offer the piece to the 2nd highest bidder, or cancel the item and have it returned. Any fines collected from the bidder will be paid to the artist along with their art show payment.
+Charity
+: If you chose to donate profits to charity, we will reduce our commission by 1% for every 5% donated. This means a 35% donation is free commission (sales tax will always be deducted, 8.1%.)
 
-Mail-in Art
-: We no longer allow you to mail in artwork to the BLFC art show. Instead, you can tell us the name of an agent. Your agent will bring your art, hang your art, and take your unsold art back out with them, on your behalf. The check for art sales will still be written to the artist.
+  Items/art may also be auctioned for charity. Items must be in generally -good condition and not require any more than basic assembly. All charity auction items will be displayed in the Art Gallery, whether they are to be sold in the regular silent auction process, or in our live charity auction Sunday. If you chose to donate items for charity, thank you! Make sure to display and clearly label these pieces in our charity specific area, instead of your personal auction panel!  
 
-Payment & Commission
-: BLFC will be accepting payment for sold artwork from the winning bidders. BLFC will deduct a {{ page.price.confee }}% commission on final bid price (the panel is free; you don't pay if you don't sell). Sales tax of {{ page.price.taxrate }}% will be deducted from the final bids, so we recommend adjusting starting bid prices up by 8%. BLFC will deduct 15% total for tax and commission, deduct return postage for unsold art if applicable, deduct optional charity donation, and remit the remainder to the artist before July 15, 2018. The state and county sales tax must be handled by BLFC; the artist will not need to file any tax paperwork.
+Liability
+: Staff will be actively watching the entire Art Gallery while open, and it will be locked while closed. We will take every precaution to prevent damage to your submitted artwork, but there are limits to what we can protect. By submitting art into the BLFC Art Gallery, you agree that neither BLFC nor its staff can be held liable in any way for damage to or loss of submitted art. Submission of art serves as acceptance of this agreement. 
 
-Charity Auction Items
-: Anyone can donate items to be auctioned for charity. Items should be in generally-good condition and not require any more than basic assembly. All charity auction items will be displayed in the art show. Some will be sold in the live auction on Sunday; these items will be labeled. The rest will be sold directly in the art show. If an artist submits for-sale items along with items for the charity auction, each must be clearly labeled.
-
-Liability & Legalese
-: Staff will be actively watching the entire art show when open, and will take every precaution to prevent damage to your submitted artwork, but there are limits to what we can protect. By submitting art into the BLFC art show, either in person or by mail, you agree that neither BLFC nor its staff can be held liable in any way for damage to or loss of submitted art. Submission of art serves as acceptance of this agreement.
-
-Submission Minimums
-: Artists are welcome to submit a small amount of items (even just one) to the art show. If your art doesn't cover most of a panel, we reserve the right to combine it on a panel with another artist's work. If you want to ensure a panel to yourself, submit enough art to fill it.
-
-Donate Profits to Charity
-: For each 5% of your profits you choose to donate to charity, BLFC will reduce its commission by 1%, with the commission becoming free when you donate 35%. (Sales tax will always still be deducted).
+  Bidders who do not pay their bids by 5:00 pm on Sunday will be fined 25% of their total unpaid bids, will be banned from bidding in next year's art show, AND will be blocked from attending the con again until their fine is paid. If this happens, the artist will be contacted and given the option to either offer the piece to the 2nd highest bidder, or cancel the item and have it returned. Any fines collected from the bidder will be paid to the artist. 
 
 </div>
 
