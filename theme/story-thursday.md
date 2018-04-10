@@ -29,7 +29,7 @@ layout: empty
 <p>SUPERIMPOSE: "Thursday"</p>
 <p>FADE IN:</p>
 <h3>EXT. RENO, NEVADA ABOVE F.U.R.S. - DAY</h3>
-<p>A small SPARROW soars through clear blue skies. Wind rushes through its feathers. It glides over a small city surrounded by snowcapped indigo mountains. Its wings flutter and it dives into the valley.</p>
+<p>A small SPARROW soars through clear blue skies. Wind rushes through its feathers. It glides over a small city surrounded by snow capped indigo mountains. Its wings flutter and it dives into the valley.</p>
 <p>( MUSIC : "OVERTURE" )</p>
 <p>The "OVERTURE" swells as the bird flies down the side of the FORTUNA URSINE RESORT &amp; SPA (F.U.R.S.), a large hotel in the middle of the city with alabaster walls, gilded windows, and glimmering lights. At ground level, the sparrow ducks between busy workers hastily moving crates and various construction materials. The sparrow perches on a plastic crate atop a cart pulled by an individual with the word "VOLUNTEER" in white on their back. Glass doors open and the volunteer pulls the cart through.</p>
 <h3>INT. F.U.R.S. - CONTINUOUS</h3>
@@ -297,7 +297,7 @@ One weekend. This weekend!</p>
 <h4>CLOVER</h4>
 <p>Ah, Spiffy. But, ain’t that expensive?</p>
 </div>
-<p>Baz sits with her bags at her feet. And as if she didn’t hear the question, looks in the back at Sahny pressed against the roof.</p>
+<p>Baz sits with her bags at her feet. And as if she didn’t hear the question, looks in the back at Sahny pressed against the ceiling.</p>
 <div class="dialogue">
 <h4>BAZ</h4>
 <p>Are you sure you'll be okay back there your highness? Should we get you a better throne?</p>
@@ -354,7 +354,7 @@ One weekend. This weekend!</p>
 <p>Thistle looks astounded at the intercom speaker, his floppy ears perked, eyes wide and concerned. The pilot is drowned out as Thistle's side of the plane grows louder with shouts and laughter. Thistle blinks, looking out the window.</p>
 <p>A naked deer runs across the view of Thistle's window being chased by airport security.</p>
 <p>Thistle glows bright red, he covers his eyes and blindly pulls down the window screen, just in time for the flash from the airport security taser. The other passengers shout out an "OOOH!".</p>
-<p>Thistle fidgets with his phone's tactile buttons, blankly staring past the screen. He shakes it off when the attendant returns with a few packs of crackers.</p>
+<p>Thistle fidgets with his phone's tactile buttons, blankly staring past the screen. He snaps out of it when the attendant returns with a few packs of crackers.</p>
 <div class="dialogue">
 <h4>FLIGHT ATTENDANT #1</h4>
 <p class="parenthetical">(to himself)</p>
@@ -822,18 +822,24 @@ This'll be my first time off of the ground.</p>
 Countdown till the moment we meet.
 <br>
 I step out at door two and I see their car.
-<br>
-Trunk clicks open, stick my bag inside.
-<br>
-Now it's only us for a thirteen-minute ride.</p>
 </div>
 <h3>EXT. RENO AIRPORT PICKUP - NIGHT</h3>
-<p>Clover's car is parked outside of the Reno Airport in the arrivals section. Thistle sets his bag down inside the cabin and leans his head in.</p>
-<p>Clover sits behind the wheel, he reaches out a hand toward Thistle.</p>
+<p>Clover stands by his car, opens the trunk and waves Thistle over.</p>
+<div class="dialogue">
+<h4>THISTLE</h4>
+Trunk clicks open, stick my bag inside.
+</div>
+<p>Thistle dives in for a hug much to the surprise of the bear. Thistle beaming up at the bear.</p>
+<div class="dialogue">
+<h4>THISTLE</h4>
+Now it's only us for a thirteen-minute ride.
+</div>
+<p>Clover looking a bit awkward in the hug, nerviously brushing Thistle's headfur.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p>Hi, I'm Jesse -- er, Clover.</p>
 </div>
+<p>Thistle quickly taking a step back, but still holding on to the bear's paws.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p>Thanks for picking me up, I'm -- ha! I guess you know me as Thistle. Well, where should we go first?</p>
@@ -850,6 +856,8 @@ Now it's only us for a thirteen-minute ride.</p>
 <h4>CLOVER</h4>
 <p>Well...</p>
 </div>
+<h3>MATCH CUT TO:</h3>
+<p>Clover and Thistle standing in a F.U.R.S hallway. Clover carrying Thistle's backpack. Thistle making his way through the hallway as CLover tries to keep up.</p>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(singing)</p>
@@ -866,7 +874,6 @@ Get my badge and gooooo
 <p class="parenthetical">(spoken)</p>
 <p>... find my hotel room.</p>
 </div>
-<p>The SUV door shuts and they drive away.</p>
 <h3>INT. REGISTRATION ROOM - NIGHT</h3>
 <p>Droves of animal folk in all different shapes, sizes, and colors form several queues in front of tables with volunteers taking their identification in exchange for a conference badge.</p>
 <p>A handful even get a bag of swag given to them. DASH, a slender, griffin male with a RADIO on his shoulder, hurries alongside Diego behind the registration tables. Diego is dressed up in a satiny purple dress shirt, black button-up vest and shiny slacks with a chain hanging from the back pocket.</p>
