@@ -580,7 +580,7 @@ One weekend. This weekend!</p>
 
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Looking at the volunteers available today, load in should be real smooth.</p>
+<p>Looking at the volunteers available today, load-in should be real smooth.</p>
 </div>
 
 <div class="dialogue">
