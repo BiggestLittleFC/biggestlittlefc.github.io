@@ -3,8 +3,7 @@ title: "One Weekend - Thursday"
 status: LIVE
 layout: empty
 ---
-{::options parse_block_html="true" /}
-{::options typographic_symbols="false" /}
+{::nomarkdown }
 
 
 <link href="/assets/theme/screenplay.css" media="all" rel="stylesheet">
@@ -1523,6 +1522,7 @@ Reg Line!</p>
 <h2>FADE OUT.</h2>
 
 
+</div>
+</div>
 
-</div>
-</div>
+{:/nomarkdown }
