@@ -4,6 +4,9 @@ status: LIVE
 layout: empty
 ---
 {::options parse_block_html="true" /}
+{::options typographic_symbols="false" /}
+
+
 <link href="/assets/theme/screenplay.css" media="all" rel="stylesheet">
 <div id="screenplay" class="us-letter dpi100">
 
