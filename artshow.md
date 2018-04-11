@@ -32,6 +32,38 @@ price:
 </div>
 
 
+
+
+
+
+{::comment}
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
+
+## Location &amp; Times
+
+Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
+
+**Times may be subject to change.**
+
+- {:.one_fourth } **Friday** - {{ page.public.friday }}
+- {:.one_fourth } **Saturday** - {{ page.public.saturday }}
+- {:.one_fourth } **Final Bidding** - {{ page.public.final }}
+- {:.one_fourth } **Sunday Checkout** - {{ page.public.sunday }}
+
+
+### Setup time
+
+- {:.one_third } **Thursday** - {{ page.setup.thursday }}
+- {:.one_third } **Friday** - {{ page.setup.friday }}
+
+</div>
+</div>
+
+{:/comment}
+
+
 <div class="one-full bg-three">
 <div class="page-wrapper">
 
@@ -70,38 +102,6 @@ Liability
 
 </div>
 </div>
-
-
-
-{::comment}
-
-
-
-
-
-<div class="one-full bg-two">
-<div class="page-wrapper">
-
-## Location &amp; Times
-
-Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
-
-**Times may be subject to change.**
-
-- {:.one_fourth } **Friday** - {{ page.public.friday }}
-- {:.one_fourth } **Saturday** - {{ page.public.saturday }}
-- {:.one_fourth } **Final Bidding** - {{ page.public.final }}
-- {:.one_fourth } **Sunday Checkout** - {{ page.public.sunday }}
-
-
-### Setup time
-
-- {:.one_third } **Thursday** - {{ page.setup.thursday }}
-- {:.one_third } **Friday** - {{ page.setup.friday }}
-
-</div>
-</div>
-
 
 
 
@@ -147,8 +147,6 @@ What Happens if You Can't Pay
 </div>
 </div>
 
-
-{:/comment}
 
 
 [reglink]: https://docs.google.com/forms/d/e/1FAIpQLSfvrXIbEIklK24eTtylEfjmZa5Oq1ZXM--fWTwRcR9Vf_4yGg/viewform?usp=sf_link
