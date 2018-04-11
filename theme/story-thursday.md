@@ -1525,8 +1525,7 @@ Reg Line!</p>
 </div>
 </div>
 
-*Test*
 
 {:/nomarkdown}
 
-*Test*
+
