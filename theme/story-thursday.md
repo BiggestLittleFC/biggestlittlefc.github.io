@@ -576,7 +576,7 @@ One weekend. This weekend!</p>
 
 <h3>INT. F.U.R.S. - DAY</h3>
 
-<!-- NEEDS A DESCRIPTION! -->
+<p>KAREN, a well-dressed fox jogs up to Diego. The hyena runs his fingers nervously through his hair, power-walking through the pristine halls of the F.U.R.S. Karen struggles to keep up with his pace. She reads from a clipboard.</p>
 
 <div class="dialogue">
 <h4>KAREN</h4>
