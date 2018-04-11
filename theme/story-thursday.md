@@ -1059,6 +1059,7 @@ This'll be my first time off of the ground.</p>
 Countdown till the moment we meet.
 <br>
 I step out at door two and I see their car.
+</p>
 </div>
 
 <h3>EXT. RENO AIRPORT PICKUP - NIGHT</h3>
