@@ -1,6 +1,8 @@
 ---
 title: Hotel
 status: LIVE
+layout: fullwidth
+
 description: Book your room for BLFC at our host hotel, the Grand Sierra Resort. 
 #hotellink: "https://aws.passkey.com/event/49463635/owner/16854/home"
 hotellink: "https://goo.gl/tbuJFk"
@@ -16,6 +18,9 @@ prices:
   
 launchtime: "December 21st at 11am Pacific Standard Time"
 ---
+
+<div class="one-full bg-one">
+<div class="page-wrapper">
 
 <a href="http://www.grandsierraresort.com/" target="_blank"><img class="aligncenter" src="/assets/img/logo-gsr.png" alt="Grand Sierra Resort and Casino"></a>
 
@@ -38,7 +43,6 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 
 <iframe style="border:none;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>
 
-
 - **Tip: during the initial booking rush, book your room for just yourself, and after confirmation, edit it to add roommates.**
 - You will be charged a **deposit** for the first night when you book, which is **refunded** if you cancel the room later.
 - Your credit/debit card must have an expiration date AFTER the con.
@@ -47,6 +51,13 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the [Hospitality Floor][hospitalityfloor], book a regular room when booking opens, and we will assign you to that floor in a separate process.
 - If you smoke, and can tolerate some noise from the [Hospitality Floor][hospitalityfloor]: get your reservation done as quick as you can, then edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.
+
+</div>
+</div>
+
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 ## Room Types
 
@@ -78,6 +89,13 @@ Automated emails may mention a charge for 3rd and 4th roommates, but those are w
   Tip\: if you're eating in on-site restaurants, charge to your room to utilize this tied-up money.
 
 </div>
+
+</div>
+</div>
+
+
+<div class="one-full bg-four">
+<div class="page-wrapper">
 
 
 ## Additional Information
@@ -115,6 +133,10 @@ What's the best way to bring in my luggage?
 Can I pre-pay for my room?
 : Yes, just call the hotel with your confirmation number.
 
+</div>
+
+
+</div>
 </div>
 
 [hotellink]: https://goo.gl/tbuJFk
