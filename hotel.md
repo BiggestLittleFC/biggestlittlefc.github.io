@@ -51,6 +51,7 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the [Hospitality Floor][hospitalityfloor], book a regular room when booking opens, and we will assign you to that floor in a separate process.
 - If you smoke, and can tolerate some noise from the [Hospitality Floor][hospitalityfloor]: get your reservation done as quick as you can, then edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.
+- The Hotel does not allow consumption of marijuana on-property, in hotel rooms, or even in your car in the parking lot. The Hotel does allow possession of up to one ounce, secured in your hotel room, if you are over 21 years old.
 
 </div>
 </div>
