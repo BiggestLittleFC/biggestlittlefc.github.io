@@ -1,6 +1,6 @@
 ---
 title: All Events
-status: LIVE
+status: LIVEx
 ---
 
 <div id="events-blfc" class="card-button">
