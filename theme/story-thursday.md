@@ -3,8 +3,8 @@ title: "One Weekend - Thursday"
 status: LIVE
 layout: empty
 ---
-{::nomarkdown }
 
+{::nomarkdown}
 
 <link href="/assets/theme/screenplay.css" media="all" rel="stylesheet">
 <div id="screenplay" class="us-letter dpi100">
@@ -1525,4 +1525,8 @@ Reg Line!</p>
 </div>
 </div>
 
-{:/nomarkdown }
+*Test*
+
+{:/nomarkdown}
+
+*Test*
