@@ -1450,7 +1450,7 @@ Reg Line!</p>
 <p>I'm sure you'll do fine.</p>
 </div>
 
-<p>Baz rubs her palms into her eyes, her ears droop.</p>
+<p>Baz rubs her palms into her eyes.</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
