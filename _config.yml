@@ -13,7 +13,6 @@ theme: minima
 markdown: kramdown
 kramdown: 
   parse_block_html: true
-  typographic_symbols: false
 
 
 social:
