@@ -33,7 +33,7 @@ layout: empty
 
 <h3>EXT. RENO, NEVADA ABOVE F.U.R.S. - DAY</h3>
 
-<p>A small SPARROW soars through clear blue skies. Wind rushes through its feathers. It glides over a small city surrounded by snow capped indigo mountains. Its wings flutter and it dives into the valley.</p>
+<p>A small SPARROW soars through clear blue skies. Wind rushes through its feathers. It glides over a small city surrounded by snow-capped indigo mountains. Its wings flutter and it dives into the valley.</p>
 
 <p>( MUSIC : "OVERTURE" )</p>
 
@@ -162,7 +162,7 @@ I can't work for free... Give me da money, Sahny!</span>
 <br>
 To think that any single conference could defy,
 <br>
-a trend a decade long where I rot working retail.
+a trend a decade-long where I rot working retail.
 <br>
 And now I'm giving up before it all begins!
 <br>
@@ -220,7 +220,7 @@ One weekend.</p>
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(singing)</p>
-<p>Don't worry darlin. It'll all be fine. I've checked every box, this train is runnin', and it's runnin' on time!</p>
+<p>Don't worry darlin'. It'll all be fine. I've checked every box, this train is runnin', and it's runnin' on time!</p>
 </div>
 
 <div class="dialogue">
@@ -843,7 +843,7 @@ One weekend. This weekend!</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>Sorry I had ship it. They didn’t bend it in the post, I hope?</p>
+<p>Sorry I had to ship it. They didn’t bend it in the post, I hope?</p>
 </div>
 
 <div class="dialogue">
@@ -994,7 +994,7 @@ One weekend. This weekend!</p>
 <p class="parenthetical">(singing)</p>
 <p>On the road, gonna beat the traffic.
 <br>
-There isn't much at 4am.</p>
+There isn't much at 4 am.</p>
 </div>
 
 <div class="dialogue">
