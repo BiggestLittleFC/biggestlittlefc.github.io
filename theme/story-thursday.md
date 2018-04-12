@@ -585,7 +585,7 @@ One weekend. This weekend!</p>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>Karen, I can't focus on this right now! My blood pressure can't take any bad news! I need to make sure Con Ops got those printers over to Reg, then I need to get over and make sure the panel rooms are all set!</p>
+<p>Karen, I can't focus on this right now! My blood pressure can't take any bad news! I need to make sure Con-Ops got those printers over to Reg, then I need to get over and make sure the panel rooms are all set!</p>
 </div>
 
 <div class="dialogue">
@@ -1113,7 +1113,7 @@ I step out at door two and I see their car.
 
 <h3>INT. F.U.R.S. HALLWAY - NIGHT</h3>
 
-<p>Clover and Thistle standing in a F.U.R.S hallway. Clover carrying Thistle's backpack. Thistle making his way through the hallway as Clover tries to keep up.</p>
+<p>Clover and Thistle standing in a F.U.R.S hallway. Clover carrying Thistle's backpack. Thistle takes off, dragging Clover behind.</p>
 
 <div class="dialogue">
 <h4>THISTLE</h4>
