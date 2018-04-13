@@ -1,6 +1,6 @@
 ---
 title: Convention Map
-status: LIVE
+status: LIVEx
 ---
 ## Floor 1 - Casino Level
 
