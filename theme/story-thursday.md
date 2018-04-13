@@ -10,7 +10,7 @@ layout: empty
 <div id="screenplay" class="us-letter dpi100">
 
 <div class="textright">
-<a class="button" href="#" target="_blank">Download Episode</a>
+<a class="button hide" href="#" target="_blank">Download Episode</a>
 </div>
 
 <div id="script" class="us-letter dpi100">
