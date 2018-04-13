@@ -25,8 +25,7 @@ status: LIVEx
 - Dealer's Den: Silver State Pavilion
 
 - Art Show: Nevada Room
-- Panel Rooms: Nevada Room
+- Panel Rooms: Executive Level
 - Tabletop Gaming: Nevada Room
-- Free HIV testing, courtesy of Nevada HOPES: Nevada Room
 - Video Gaming: Nevada Room
 - Volunteering: Nevada Room
