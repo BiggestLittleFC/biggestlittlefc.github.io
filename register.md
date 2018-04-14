@@ -49,7 +49,7 @@ Remember: If you're over 16 and under 18, you'll need a signed and notarized [pa
 
 - Soundtrack CD <small>composed by Fox Amoore and Pepper Coyote</small>
 - T-shirt
-- Another gift <small>(still TBD)</small>
+- Sahny’s party cup <small>(with access to free Coke Freestyle all weekend long from Port of Subs.)</small>
 - Collectible Poker Chip <small>(new design every year)</small>
 - Attendance <small>(con badge)</small>
 - 10% chance <small>for a free attendance next year</small>
@@ -67,6 +67,7 @@ Remember: If you're over 16 and under 18, you'll need a signed and notarized [pa
 <small>Not available after {{ page.upgradeend }}.</small>
 
 - Soundtrack CD <small>composed by Fox Amoore and Pepper Coyote</small>
+- Sahny’s party cup <small>(with access to free Coke Freestyle all weekend long from Port of Subs.)</small>
 - Collectible Poker Chip <small>(new design every year)</small>
 - Attendance <small>(con badge)</small>
 - 5% chance <small>for a free attendance next year</small>
