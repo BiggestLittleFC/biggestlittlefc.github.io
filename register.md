@@ -33,7 +33,13 @@ layout: fullwidth
 
 **Important!** Your pre-registration info **must match your photo ID,** so we can make sure the person who buys the badge gets the badge. Make sure you pick your favorite badge art before {{ page.preregend }}.
 
-### SWAG!
+</div>
+</div>
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
+
+## SWAG!
 
 Patron and Sponsor are **not available after {{ page.upgradeend }}**; you cannot upgrade at-con. If you pre-register as Attendee, you can still buy the swag from the con store, *if there is any left*. Pre-registering as Patron/Sponsor *reserves* the swag just for *you*, and you'll pay less than in the con store. It also gets you the other benefits like a chance at free registration for next year, and early badge pickup.
 
@@ -97,7 +103,7 @@ Remember: If you're over 16 and under 18, you'll need a signed and notarized [pa
 </div>
 
 
-<div class="one-full bg-two">
+<div class="one-full bg-three">
 <div class="page-wrapper">
 
 ## Hours &amp; Location
@@ -126,7 +132,7 @@ Window across from Nevada Foyer
 
 
 
-<div class="one-full bg-three">
+<div class="one-full bg-four">
 <div class="page-wrapper">
 
 ## At-Con Pricing
