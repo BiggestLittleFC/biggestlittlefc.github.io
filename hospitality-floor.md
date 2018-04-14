@@ -7,7 +7,7 @@ layout: fullwidth
 <div class="one-full bg-one textcenter">
 <div class="page-wrapper">
 
-## Room Party Application
+## Room Parties
 
 While room parties are not a common thing amongst furry conventions, it's growing in popularity in various areas. It is an idea that started by fans for fans - an opportunity to celebrate the fandom or organization of your choice, right in your hotel room.
 
