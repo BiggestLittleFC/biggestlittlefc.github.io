@@ -35,7 +35,16 @@ Fox Amoore &amp; Pepper Coyote
 </div>
 
 
-<div id="card-characters-container" class="one-full bg-three textcenter">
+<div id="" class="one-full bg-three textcenter">
+<h2>The Story</h2>
+<a href="/theme/story-00" class="button">Pre-Con Prologue</a>
+<a href="/theme/story-thursday" class="button">Thursday</a>
+<a href="" class="button">Friday <small>(coming soon)</small></a>
+<a href="" class="button">Saturday <small>(coming soon)</small></a>
+<a href="" class="button">Sunday <small>(coming soon)</small></a>
+</div>
+
+<div id="card-characters-container" class="one-full bg-four textcenter">
 <h2>Cast of Characters</h2>
 
 <ul id="card-characters">
