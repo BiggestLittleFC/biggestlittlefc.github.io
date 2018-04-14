@@ -14,6 +14,19 @@ Fox Amoore &amp; Pepper Coyote
 </div>
 
 
+
+<div id="" class="one-full bg-three textcenter">
+<div class="page-wrapper">
+<h2>The Story</h2>
+<a href="/theme/story-00" class="button">Pre-Con Prologue</a>
+<a href="/theme/story-thursday" class="button">Thursday</a>
+<a href="#" class="button btn-disabled">Friday <small>(coming soon)</small></a>
+<a href="#" class="button btn-disabled">Saturday <small>(coming soon)</small></a>
+<a href="#" class="button btn-disabled">Sunday <small>(coming soon)</small></a>
+</div>
+</div>
+
+
 <div id="card-playlist" class="textcenter one-full bg-two">
 <h2>Song list</h2>
 <ol>
@@ -34,17 +47,6 @@ Fox Amoore &amp; Pepper Coyote
 <div class="clear"></div>
 </div>
 
-
-<div id="" class="one-full bg-three textcenter">
-<div class="page-wrapper">
-<h2>The Story</h2>
-<a href="/theme/story-00" class="button">Pre-Con Prologue</a>
-<a href="/theme/story-thursday" class="button">Thursday</a>
-<a href="#" class="button btn-disabled">Friday <small>(coming soon)</small></a>
-<a href="#" class="button btn-disabled">Saturday <small>(coming soon)</small></a>
-<a href="#" class="button btn-disabled">Sunday <small>(coming soon)</small></a>
-</div>
-</div>
 
 <div id="card-characters-container" class="one-full bg-four textcenter">
 <h2>Cast of Characters</h2>
