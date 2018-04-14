@@ -1,6 +1,7 @@
 ---
 title: Hospitality Floor
 status: LIVE
+layout: fullwidth
 ---
 
 <div class="one-full bg-one textcenter">
@@ -10,9 +11,9 @@ status: LIVE
 
 While room parties are not a common thing amongst furry conventions, it's growing in popularity in various areas. It is an idea that started by fans for fans - an opportunity to celebrate the fandom or organization of your choice, right in your hotel room.
 
-Want to know if this can be your thing? We have a <a href="#">Room Party How To guide</a> for you to peruse. It talks about what you may need for a party and things to do for a successful party.
+Want to know if this can be your thing? We have a <a href="#how-to-guide">Room Party How To guide</a> for you to peruse. It talks about what you may need for a party and things to do for a successful party.
 
-We also have a <a href="#">Room Party Policy guide</a>. It outlines the things you are responsible for as a Party Host. When you apply for a party room, you agree to the policies. If you are found not holding to those policies actions could lead to the guest not being allowed back into the hotel and the room will be forfeited. Any payments paid to the hotel are non-refundable and any outstanding balances must be paid in full.
+We also have a <a href="#rules-for-room-parties">Room Party Policy guide</a>. It outlines the things you are responsible for as a Party Host. When you apply for a party room, you agree to the policies. If you are found not holding to those policies actions could lead to the guest not being allowed back into the hotel and the room will be forfeited. Any payments paid to the hotel are non-refundable and any outstanding balances must be paid in full.
 
 </div>
 </div>
