@@ -35,6 +35,55 @@ If you have any questions, please contact us at partymaven@goblfc.org
 </div>
 
 
+
+
+
+<div class="one-full bg-four">
+<div class="page-wrapper">
+
+## Rules for Room Parties
+
+All room parties must pre-register with Biggest Little Fur Con (BLFC) Party Mavens and have a pre-existing reservation at the hotel. The party organizers are responsible for providing a confirmation number for the reservation before the deadline. Any party that does not provide this information may lose their party room space at the convention.
+
+A party may promote their event with age appropriate materials. Flyers may be posted only inside convention space, and only if approved by event staff and blue painter’s tape is used. The room party host(s) will honor any restriction of promotion material made by the hotel. If any promotional material is found to be questionable, offensive, or inappropriate to a staff member or attendee, the materials may be removed by staff at any time.
+
+Any party that uses the space for promotion of an organization, convention, or event, may do so within hotel policies. Tips/donations may be accepted; any tip/donation jars must be clearly marked for good service. However, any specific tip/donation amount that ‘earn bonuses’ or trade any specific monetary value (direct or indirect sales) for a product or service is considered a sale and is prohibited under state law.
+
+<div class="accordion-list">
+ 
+Noise and Party Hours
+: By participating with a room party, you agree to cope with the noise generated on the floor, and not make any noise complaint to the hotel. This also means you are responsible for your own noise. Subwoofers are not allowed this year due to the sound bleed to the second floor. You should be able to talk in your room without yelling. If you have to yell, your room is getting too loud. Keep music below yelling volume too. If the Party Mavens, hotel security or FLARE tells you to tone it down, do so immediately.
+  
+  **Don’t start a howl. Yelling and screaming is the quickest way to noise complaints. Save that for inside the convention hangout space.**
+  
+  The bulk of the room parties will run between 7PM and 3AM. After midnight, start to quiet it down. A party may run at any time of the day during the course of the convention. However, please observe the  courtesy hours 3:00am and 9:00am when the volume of the party must remain at a quiet level.
+ 
+ID’s, Drinking, and Adulting
+: Any parties serving alcohol must check IDs at the door, accepting only government (state and federal) issued IDs and are subject to local laws and restrictions. For the convenience of the hosts and staff, use of unique identifying markers such as wristbands and hand stamps may be used with approval of Party Mavens. However, any BLFC staff, FLARE, and Room Party hosts may check any IDs at any time regardless of approved identifiers. Keep in mind to not over-serve anyone and use your best judgment when serving alcohol. If someone looks excessively drunk, STOP. Do not give them more alcohol; give them water or a non-alcoholic drink instead, and contact a Party Maven for help.
+ 
+  Everyone staying on the party floor must be 21 years of age or older. If you have anyone under the age of 21 staying in your room, please do not apply for the party floor.
+ 
+  Open door room parties must allow admittance to anyone with a valid BLFC badge; again, additional government issued ID may be required for an age-restricted party. Only those with a valid badge (and ID when required) may enter a room party. Anyone without a badge is not permitted in the party floor; please report anyone without a con badge to FLARE or Party Mavens. . A party host should contact the Party Mavens, convention operations, and/or FLARE if anyone is causing a disturbance.
+ 
+  Hotel and convention operations reserve the right to shut down any party that causes disturbance to other guests and attendees or violates the Room Party Policy.
+ 
+  This is your sleeping room, so you are responsible for any damages. Don’t let your gatherings get out of hand.
+ 
+  Make a good impression: If you see any mess in the hall, clean it up, even if the mess isn’t your fault. If you cannot take care of it yourself, contact Party Mavens.
+ 
+  For any room party that will use food preparation devices, such as popcorn makers, griddles, or rice cookers, please notify Party Mavens and we will work with you as to the current hotel policy of what is and isn’t allowed. If you are using a device that you are unsure about in any way, please email Party Mavens. Any other devices such as fog machines or that use open flame are strictly prohibited.
+ 
+  Biggest Little Fur Con, Reno Area Anthropomorphic Arts and Recreation, its staff, and affiliates assume no responsibility for room parties; attendees and guests who violate hotel, local, state, and/or federal policies and ordinances do so at their own risk. Hosts of room parties accept full responsibility for any damages or loss related to their party and the hotel room including but not limited to fees for cleaning, property damage, and room resets.
+
+
+</div>
+
+<strong>NOTE:</strong> Hotel policy states that anyone serving to a minor or not checking IDs will be reported to Reno Police and subject to legal ramifications. The guest will not be allowed back into the hotel and the room will be forfeited. Any payments paid to the hotel are non-refundable and any outstanding balances must be paid in full. Furthermore, any attendee violating the hotel’s alcohol policy will be banned from BLFC.
+
+</div>
+</div>
+
+
 <div class="one-full bg-three">
 <div class="page-wrapper">
 
@@ -127,55 +176,6 @@ Useful information
 
 </div>
 </div>
-
-
-<div class="one-full bg-four">
-<div class="page-wrapper">
-
-## Rules for Room Parties
-
-All room parties must pre-register with Biggest Little Fur Con (BLFC) Party Mavens and have a pre-existing reservation at the hotel. The party organizers are responsible for providing a confirmation number for the reservation before the deadline. Any party that does not provide this information may lose their party room space at the convention.
-
-A party may promote their event with age appropriate materials. Flyers may be posted only inside convention space, and only if approved by event staff and blue painter’s tape is used. The room party host(s) will honor any restriction of promotion material made by the hotel. If any promotional material is found to be questionable, offensive, or inappropriate to a staff member or attendee, the materials may be removed by staff at any time.
-
-Any party that uses the space for promotion of an organization, convention, or event, may do so within hotel policies. Tips/donations may be accepted; any tip/donation jars must be clearly marked for good service. However, any specific tip/donation amount that ‘earn bonuses’ or trade any specific monetary value (direct or indirect sales) for a product or service is considered a sale and is prohibited under state law.
-
-<div class="accordion-list">
- 
-Noise and Party Hours
-: By participating with a room party, you agree to cope with the noise generated on the floor, and not make any noise complaint to the hotel. This also means you are responsible for your own noise. Subwoofers are not allowed this year due to the sound bleed to the second floor. You should be able to talk in your room without yelling. If you have to yell, your room is getting too loud. Keep music below yelling volume too. If the Party Mavens, hotel security or FLARE tells you to tone it down, do so immediately.
-  
-  **Don’t start a howl. Yelling and screaming is the quickest way to noise complaints. Save that for inside the convention hangout space.**
-  
-  The bulk of the room parties will run between 7PM and 3AM. After midnight, start to quiet it down. A party may run at any time of the day during the course of the convention. However, please observe the  courtesy hours 3:00am and 9:00am when the volume of the party must remain at a quiet level.
- 
-ID’s, Drinking, and Adulting
-: Any parties serving alcohol must check IDs at the door, accepting only government (state and federal) issued IDs and are subject to local laws and restrictions. For the convenience of the hosts and staff, use of unique identifying markers such as wristbands and hand stamps may be used with approval of Party Mavens. However, any BLFC staff, FLARE, and Room Party hosts may check any IDs at any time regardless of approved identifiers. Keep in mind to not over-serve anyone and use your best judgment when serving alcohol. If someone looks excessively drunk, STOP. Do not give them more alcohol; give them water or a non-alcoholic drink instead, and contact a Party Maven for help.
- 
-  Everyone staying on the party floor must be 21 years of age or older. If you have anyone under the age of 21 staying in your room, please do not apply for the party floor.
- 
-  Open door room parties must allow admittance to anyone with a valid BLFC badge; again, additional government issued ID may be required for an age-restricted party. Only those with a valid badge (and ID when required) may enter a room party. Anyone without a badge is not permitted in the party floor; please report anyone without a con badge to FLARE or Party Mavens. . A party host should contact the Party Mavens, convention operations, and/or FLARE if anyone is causing a disturbance.
- 
-  Hotel and convention operations reserve the right to shut down any party that causes disturbance to other guests and attendees or violates the Room Party Policy.
- 
-  This is your sleeping room, so you are responsible for any damages. Don’t let your gatherings get out of hand.
- 
-  Make a good impression: If you see any mess in the hall, clean it up, even if the mess isn’t your fault. If you cannot take care of it yourself, contact Party Mavens.
- 
-  For any room party that will use food preparation devices, such as popcorn makers, griddles, or rice cookers, please notify Party Mavens and we will work with you as to the current hotel policy of what is and isn’t allowed. If you are using a device that you are unsure about in any way, please email Party Mavens. Any other devices such as fog machines or that use open flame are strictly prohibited.
- 
-  Biggest Little Fur Con, Reno Area Anthropomorphic Arts and Recreation, its staff, and affiliates assume no responsibility for room parties; attendees and guests who violate hotel, local, state, and/or federal policies and ordinances do so at their own risk. Hosts of room parties accept full responsibility for any damages or loss related to their party and the hotel room including but not limited to fees for cleaning, property damage, and room resets.
-
-
-</div>
-
-<strong>NOTE:</strong> Hotel policy states that anyone serving to a minor or not checking IDs will be reported to Reno Police and subject to legal ramifications. The guest will not be allowed back into the hotel and the room will be forfeited. Any payments paid to the hotel are non-refundable and any outstanding balances must be paid in full. Furthermore, any attendee violating the hotel’s alcohol policy will be banned from BLFC.
-
-</div>
-</div>
-
-
-
 
 
 
