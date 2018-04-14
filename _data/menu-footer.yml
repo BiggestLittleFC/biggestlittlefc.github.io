@@ -6,6 +6,8 @@ toc:
         url: "/register/"
       - page: Hotel
         url: "/hotel/"
+      - page: Hospitality Floor
+        url: "/hospitality-floor/"
       - page: Travel Directions
         url: "/travel/"
       - page: Restaurants
