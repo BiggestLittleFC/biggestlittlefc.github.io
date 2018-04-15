@@ -1,6 +1,6 @@
 ---
 title: Credits
-status: LIVE
+status: LIVEx
 ---
 
 Web design, art assets, and story are written by the volunteers of BLFC.
