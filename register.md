@@ -204,6 +204,10 @@ Will there be one-day registration?
 : There are no one-day badges. Instead, the weekend badge price is reduced on Saturday and Sunday.
 
 
+Can I pick up badges for my friends?
+: No. Everyone must show photo I.D. for their own badges.
+
+
 What is acceptable ID?
 : Any government-issued photo I.D. ( Driver's License, State I.D., or Passport ).
 
