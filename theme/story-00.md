@@ -32,7 +32,7 @@ layout: empty
 <div class="dialogue">
 <h4>KAREN</h4>
 <p class="parenthetical">(sarcastically)</p>
-<p>What a lovely place you've chose to meet.</p>
+<p>What a lovely place you've chosen to meet.</p>
 </div>
 <div class="dialogue">
 <h4>DIEGO</h4>
@@ -54,7 +54,7 @@ layout: empty
 <p>ROJO, a husky with brown coloring and a singular flop ear walks into the room. Following him is HERMES, a panda bear, and DASH, a slender griffin.</p>
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>Hey! Glad you could make it! That's everyone, so listen up! After considering the finance info we got from Karen and last year's incident (which I think could have been prevented with more staffing), I came up with an idea to make the con more manageable.</p>
+<p>Hey! Glad you could make it! That's everyone, so listen up! After considering the financial info we got from Karen and last year's incident *which I think could have been prevented with more staffing*, I came up with an idea to make the con more manageable.</p>
 </div>
 <p>Karen lets out a barely audible sigh. She rolls her eyes up, as to plead to the heavens and mouths "why?"</p>
 <div class="dialogue">
