@@ -14,6 +14,7 @@
 	* > .one_third:nth-of-type(3n+1), * > .one_fifth:nth-of-type(5n+1), * > .one_sixth:nth-of-type(6n+1) {clear:none;}
 	* > .one_third:nth-of-type(2n+1), * > .one_fourth:nth-of-type(2n+1), * > .one_fifth:nth-of-type(3n+1), * > .one_sixth:nth-of-type(3n+1) {clear:left;}
 	.one_half, .one_third.last, #auction-dancers li {margin:0 auto;float:none;clear: both;}
+	#auction-dancers li {max-width: 512px;padding: 75% 20px 30px;margin: 10px auto;}
 }
 
 @media all and (max-width: 640px)  {
