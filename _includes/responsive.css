@@ -8,12 +8,12 @@
 
 @media all and (min-width: 769px)  {}
 @media all and (max-width: 768px)  {
-	.one_half {width:100%;}
+	.one_half, #auction-dancers li {width:100%;}
 	.one_third, .one_fourth {width:50%;}
 	.one_fifth, .one_sixth {width:33.33%;}
 	* > .one_third:nth-of-type(3n+1), * > .one_fifth:nth-of-type(5n+1), * > .one_sixth:nth-of-type(6n+1) {clear:none;}
 	* > .one_third:nth-of-type(2n+1), * > .one_fourth:nth-of-type(2n+1), * > .one_fifth:nth-of-type(3n+1), * > .one_sixth:nth-of-type(3n+1) {clear:left;}
-	.one_half, .one_third.last {margin:0 auto;float:none;clear: both;}
+	.one_half, .one_third.last, #auction-dancers li {margin:0 auto;float:none;clear: both;}
 }
 
 @media all and (max-width: 640px)  {
