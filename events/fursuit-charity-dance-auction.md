@@ -2,9 +2,6 @@
 title: Fursuit Charity Dance Auction
 status: LIVE
 layout: fullwidth
-times: 
-  auction: "Friday 4-5pm @ <a href="/map/" target="_blank">Second Stage</a>"
-  dance:   "TBD"
 ---
 
 <div class="one-full bg-one">
@@ -54,8 +51,8 @@ Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auctio
 
 ## Location &amp; Times
 
-- **Auction** - {{ page.times.auction }}
-- **Dance** - {{ page.times.dance }}
+- **Auction** - Friday 4-5:30pm @ <a href="/map/" target="_blank">Second Stage</a>
+- **Dance** - Friday 10pm @ <a href="/map/" target="_blank">Second Stage</a> (first hour of the dance)
 
 <a class="button" href="https://twitter.com/bldanceauction" target="_blank" rel="noopener noreferrer">Twitter Updates</a>
 
@@ -86,7 +83,40 @@ Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Shou
 
 ## The Dancers
 
-COMING SOON!
+<ul id="auction-dancers">
+  <li>Princess Klovix</li>
+  <li>Thomas Doebie</li>
+  <li>Stryker Husky</li>
+  <li>Zacharie</li>
+  <li>Sparkle and Spectrum*</li>
+  <li>Hekiro Hoffdiener</li>
+  <li>Swizz and Lupita*</li>
+  <li>Falcy Hedgehog</li>
+  <li>Kiba</li>
+  <li>Alexi Husky</li>
+  <li>Error</li>
+  <li>Kharos Fox</li>
+  <li>Amenophis</li>
+  <li>Scath</li>
+  <li>Sulka</li>
+  <li>Xion</li>
+  <li>Kako Borochi</li>
+  <li>Jin</li>
+  <li>Myron the Fluffy</li>
+  <li>Brenda Banks</li>
+  <li>Lean</li>
+  <li>Dodge and Rhye*</li>
+  <li>Duke Doberman</li>
+  <li>Elana</li>
+  <li>Coney</li>
+  <li>Natsuro</li>
+  <li>Spalding Indigo</li>
+  <li>Arco</li>
+  <li>Kiyani</li>
+  <li>Limin Carnation</li>
+</ul>
+
+<strong>* = They're a pair!</strong>
 
 </div>
 </div>
