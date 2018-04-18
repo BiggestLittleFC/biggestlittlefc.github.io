@@ -93,7 +93,7 @@ Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Shou
   <li style="background-image:url('/assets/auction/elana02.jpg');">Elana</li>
   <li style="background-image:url('/assets/auction/error02.jpg');">Error</li>
   <li style="background-image:url('/assets/auction/falcyhedgehog01.jpg');">Falcy Hedgehog</li>
-  <li style="background-image:url('/assets/auction/hekirohoffdiener03.jpg');">Hekiro Hoffdiener</li>
+  <li style="background-image:url('/assets/auction/hekirohoffdiener02.jpg');">Hekiro Hoffdiener</li>
   <li style="background-image:url('/assets/auction/jin02.jpg');">Jin</li>
   <li style="background-image:url('/assets/auction/kakoborochi03.jpg');">Kako Borochi</li>
   <li style="background-image:url('/assets/auction/kharosfox02.jpg');">Kharos Fox</li>
