@@ -16,7 +16,7 @@ Expect music, dancing, showcasing our fursuiters available for auction and most 
 
 
 
-
+{::comment}
 <div class="one-full bg-two textcenter">
 <div class="page-wrapper">
 
@@ -28,6 +28,8 @@ Come show off your Fursuit and provide a recreational evening on the dance floor
 
 </div>
 </div>
+{:/comment}
+
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
