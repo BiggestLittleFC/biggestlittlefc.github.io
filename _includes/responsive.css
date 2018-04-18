@@ -40,7 +40,7 @@
 		font-size: 37px;
 	}
 }
-
+ 
 @media all and (max-width: 360px) {
 	.one_fifth, .one_sixth {width:100%;}
 	.one_fifth, .one_sixth {float: none;clear: both;margin:0 auto;}
