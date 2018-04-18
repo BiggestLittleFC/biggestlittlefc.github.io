@@ -44,7 +44,6 @@ Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auctio
 </div>
 
 
-{::comment}
 
 <div class="one-full bg-one">
 <div class="page-wrapper">
@@ -120,4 +119,3 @@ Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Shou
 
 </div>
 </div>
-{:/comment}
