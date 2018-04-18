@@ -34,13 +34,13 @@ Come show off your Fursuit and provide a recreational evening on the dance floor
 <div class="one-full bg-three">
 <div class="page-wrapper">
 
-## What We're Looking For
+## What to expect
 
-Full fursuits are preferred, though partials will be considered as well. Fursuiters of any gender/agender are welcomed, we only ask that all suiters are comfortable dancing with anyone, as bidding will not be restrictive to specific attendees.
+The suiters up for bid do not need to be great dancers, just willing to have a great time while they devote the first hour of the Friday dance to their bidder on the dance floor.
 
-Suiters do not need to be a great dancer to apply. Just willing to have a great time and able to devote the first hour of the dance to their bidder on the dance floor. The people bidding are donating to the convention's charity, and we want them to be happy to have done so.
+Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auction and the dance on time. There will be a period of time between the auction and the dance to give all suiters time to prepare and enjoy the con. They will also be allowed to break to the headless lounge during the dance to cool off and hydrate. It really shouldn’t be any different then if they were attending the dance normally, except they’ll have an escort with them to dance with.
 
-Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auction and the dance on time. There will be a period of time between the auction and the dance to give all suiters time to prepare and enjoy the con. They will also be allowed to break to the headless lounge during the dance to cool off and hydrate. It really shouldn't be any different then if they were attending the dance normally, except they'll have an escort with them to dance with.
+Our fursuiters can be any gender/agender and we only ask that they are comfortable dancing with anyone, as bidding will not be restrictive to specific attendees.
 
 </div>
 </div>
@@ -68,7 +68,7 @@ Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auctio
 
 ## Bidders
 
-Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Should you be the winning bidder, you will be allowed to dance in a completely platonic manner with your fabulous fursuiter(s) for the first hour of the dance ( {{ page.times.dance }} ).
+Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Should you be the winning bidder, you will be allowed to dance in a completely platonic manner with your fabulous fursuiter(s) for the first hour of the Friday night dance.
 
 **Rules for bidders**: You must be at least 18 years old to place a bid and you are only allowed to win up to 2 fursuiters or 1 fursuit group. All Bids Final. Payment is taken right after the Fursuit Dance Auction (Cash, credit card, or PayPal).
 
