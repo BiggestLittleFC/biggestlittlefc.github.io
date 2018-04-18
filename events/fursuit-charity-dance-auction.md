@@ -96,7 +96,7 @@ Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Shou
   <li style="background-image:url('/assets/auction/hekirohoffdiener03.jpg');">Hekiro Hoffdiener</li>
   <li style="background-image:url('/assets/auction/jin03.jpg');">Jin</li>
   <li style="background-image:url('/assets/auction/kakoborochi03.jpg');">Kako Borochi</li>
-  <li style="background-image:url('/assets/auction/kharos03.jpg');">Kharos Fox</li>
+  <li style="background-image:url('/assets/auction/kharosfox03.jpg');">Kharos Fox</li>
   <li style="background-image:url('/assets/auction/kiba03.jpg');">Kiba</li>
   <li style="background-image:url('/assets/auction/kiyani03.jpg');">Kiyani</li>
   <li style="background-image:url('/assets/auction/lean03.jpg');">Lean</li>
@@ -105,12 +105,12 @@ Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Shou
   <li style="background-image:url('/assets/auction/princessklovix03.jpg');">Princess Klovix</li>
   <li style="background-image:url('/assets/auction/natsuro03.jpg');">Natsuro</li>
   <li style="background-image:url('/assets/auction/scath03.jpg');">Scath</li>
-  <li style="background-image:url('/assets/auction/spalding03.jpg');">Spalding Indigo</li>
+  <li style="background-image:url('/assets/auction/spaldingindigo03.jpg');">Spalding Indigo</li>
   <li style="background-image:url('/assets/auction/sparkleandspectrum03.jpg');">Sparkle and Spectrum*</li>
   <li style="background-image:url('/assets/auction/strykerhusky03.jpg');">Stryker Husky</li>
   <li style="background-image:url('/assets/auction/sulka02.jpg');">Sulka</li>
   <li style="background-image:url('/assets/auction/swizzandlupita03.jpg');">Swizz and Lupita*</li>
-  <li style="background-image:url('/assets/auction/thomasdoebie03.jpg');">Thomas Doebie</li>
+  <li style="background-image:url('/assets/auction/thomasdoebi03.jpg');">Thomas Doebie</li>
   <li style="background-image:url('/assets/auction/xion03.jpg');">Xion</li>
   <li style="background-image:url('/assets/auction/zacharie03.jpg');">Zacharie</li>
 </ul>
