@@ -71,7 +71,7 @@ ID’s, Drinking, and Adulting
  
   Make a good impression: If you see any mess in the hall, clean it up, even if the mess isn’t your fault. If you cannot take care of it yourself, contact Party Mavens.
  
-  For any room party that will use food preparation devices, such as popcorn makers, griddles, or rice cookers, please notify Party Mavens and we will work with you as to the current hotel policy of what is and isn’t allowed. If you are using a device that you are unsure about in any way, please email Party Mavens. Any other devices such as fog machines or that use open flame are strictly prohibited.
+  If you are using a device that you are unsure about in any way, please email Party Mavens. Any other devices such as fog machines or that use open flame are strictly prohibited.
  
   Biggest Little Fur Con, Reno Area Anthropomorphic Arts and Recreation, its staff, and affiliates assume no responsibility for room parties; attendees and guests who violate hotel, local, state, and/or federal policies and ordinances do so at their own risk. Hosts of room parties accept full responsibility for any damages or loss related to their party and the hotel room including but not limited to fees for cleaning, property damage, and room resets.
 
@@ -125,7 +125,7 @@ They always have the very best things
   - Projector and projector screen
   - Blu-ray or DVD player, or a game console
   
-  Your party will be on the hospitality floor. That usually means food and beverages, but also includes other things as well. Food can range from Costco snack treats to fresh popcorn to things cooked on a griddle to a smoothie bar. Drinks also can cover the range from non Alcoholic to Alcoholic, and even be the theme of the party - a Smoothie Bar. Or, skip the food and drinks and hold a Smash Brothers tournament, have a Chill Out  space, do a movie/musical marathon, or even do your own micro programming and panels. 
+  Your party will be on the hospitality floor. That usually means food and beverages, but also includes other things as well. Food can cover Costco snack treats or food in ready to eat packaging. Drinks also can cover the range from non Alcoholic to Alcoholic, and even be the theme of the party - Junior’s Bar. Or, skip the food and drinks and hold a Smash Brothers tournament, have a Chill Out  space, do a movie/musical marathon, or even do your own micro programming and panels.
 
 Wait, I need to have a budget?
 : While all good parties start with planning, lists, and the IDEA, reality comes in like a hammer when figuring out how to pay for the Tide Pod eight tier cake. Room parties can take tips and donations, but CANNOT require money to get something from the party. That is a sale. Go to the Room Party Policy for more information. But back to budgets, we are going to talk about a few different things that fall under “budgeting.”
