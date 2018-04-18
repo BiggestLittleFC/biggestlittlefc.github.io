@@ -21,7 +21,7 @@ Thanks to our combined efforts, Safe Haven received $43,600 in 2017:
 - Convention donation: $30,840
 - Direct donations by attendees: $5000
 - Charity Auction: $2500
-- Bachelor Dance Auction: $2305
+- Fursuit Charity Dance Auction: $2305
 - Poker Tournament: $1000
 - Cotton Candy: $750
 - Blackjack Tournament: $680
