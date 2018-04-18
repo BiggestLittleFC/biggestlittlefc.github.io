@@ -279,10 +279,11 @@ a.home-button {
 #auction-dancers li {
 	width: 45%;
 	list-style: none;
-	padding: 20% 20px 30px;
+	padding: 40% 20px 30px;
 	float: left;
 	background: #222 none no-repeat scroll center center / cover;
 	color: #ffb100;
 	font-size: 23px;
 	margin: 2%;
+	text-transform: uppercase;
 }

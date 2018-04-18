@@ -83,39 +83,39 @@ Come bid on your favorite available Fursuit Bachelors and/or Bachelorettes. Shou
 ## The Dancers
 
 <ul id="auction-dancers">
-  <li>Princess Klovix</li>
-  <li>Thomas Doebie</li>
-  <li>Stryker Husky</li>
-  <li>Zacharie</li>
-  <li>Sparkle and Spectrum*</li>
-  <li>Hekiro Hoffdiener</li>
-  <li>Swizz and Lupita*</li>
-  <li>Falcy Hedgehog</li>
-  <li>Kiba</li>
-  <li>Alexi Husky</li>
-  <li>Error</li>
-  <li>Kharos Fox</li>
-  <li>Amenophis</li>
-  <li>Scath</li>
-  <li>Sulka</li>
-  <li>Xion</li>
-  <li>Kako Borochi</li>
-  <li>Jin</li>
-  <li>Myron the Fluffy</li>
-  <li>Brenda Banks</li>
-  <li>Lean</li>
-  <li>Dodge and Rhye*</li>
-  <li>Duke Doberman</li>
-  <li>Elana</li>
-  <li>Coney</li>
-  <li>Natsuro</li>
-  <li>Spalding Indigo</li>
-  <li>Arco</li>
-  <li>Kiyani</li>
-  <li>Limin Carnation</li>
+  <li style="background-image:url('/assets/auction/alexihusky03.jpg');">Alexi Husky</li>
+  <li style="background-image:url('/assets/auction/amenophis03.jpg');">Amenophis</li>
+  <li style="background-image:url('/assets/auction/arco03.jpg');">Arco</li>
+  <li style="background-image:url('/assets/auction/brendabanks03.jpg');">Brenda Banks</li>
+  <li style="background-image:url('/assets/auction/coney03.jpg');">Coney</li>
+  <li style="background-image:url('/assets/auction/dodgeandrhye03.jpg');">Dodge and Rhye*</li>
+  <li style="background-image:url('/assets/auction/dukedoberman03.jpg');">Duke Doberman</li>
+  <li style="background-image:url('/assets/auction/elana03.jpg');">Elana</li>
+  <li style="background-image:url('/assets/auction/error03.jpg');">Error</li>
+  <li style="background-image:url('/assets/auction/falcyhedgehog03.jpg');">Falcy Hedgehog</li>
+  <li style="background-image:url('/assets/auction/hekirohoffdiener03.jpg');">Hekiro Hoffdiener</li>
+  <li style="background-image:url('/assets/auction/jin03.jpg');">Jin</li>
+  <li style="background-image:url('/assets/auction/kakoborochi03.jpg');">Kako Borochi</li>
+  <li style="background-image:url('/assets/auction/kharos03.jpg');">Kharos Fox</li>
+  <li style="background-image:url('/assets/auction/kiba03.jpg');">Kiba</li>
+  <li style="background-image:url('/assets/auction/kiyani03.jpg');">Kiyani</li>
+  <li style="background-image:url('/assets/auction/lean03.jpg');">Lean</li>
+  <li style="background-image:url('/assets/auction/limincarnation03.jpg');">Limin Carnation</li>
+  <li style="background-image:url('/assets/auction/myronthefluffy03.jpg');">Myron the Fluffy</li>
+  <li style="background-image:url('/assets/auction/princessklovix03.jpg');">Princess Klovix</li>
+  <li style="background-image:url('/assets/auction/natsuro03.jpg');">Natsuro</li>
+  <li style="background-image:url('/assets/auction/scath03.jpg');">Scath</li>
+  <li style="background-image:url('/assets/auction/spalding03.jpg');">Spalding Indigo</li>
+  <li style="background-image:url('/assets/auction/sparkleandspectrum03.jpg');">Sparkle and Spectrum*</li>
+  <li style="background-image:url('/assets/auction/strykerhusky03.jpg');">Stryker Husky</li>
+  <li style="background-image:url('/assets/auction/sulka02.jpg');">Sulka</li>
+  <li style="background-image:url('/assets/auction/swizzandlupita03.jpg');">Swizz and Lupita*</li>
+  <li style="background-image:url('/assets/auction/thomasdoebie03.jpg');">Thomas Doebie</li>
+  <li style="background-image:url('/assets/auction/xion03.jpg');">Xion</li>
+  <li style="background-image:url('/assets/auction/zacharie03.jpg');">Zacharie</li>
 </ul>
-
-<strong>* = They're a pair!</strong>
+<div class="clear"></div>
+<strong>Note: * = They're a pair!</strong>
 
 </div>
 </div>
