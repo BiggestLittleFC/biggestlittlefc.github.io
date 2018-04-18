@@ -3,7 +3,7 @@ title: Fursuit Charity Dance Auction
 status: LIVE
 layout: fullwidth
 times: 
-  auction: "TBD"
+  auction: "Friday 4-5pm @ <a href="/map/" target="_blank">Second Stage</a>"
   dance:   "TBD"
 ---
 
@@ -53,8 +53,6 @@ Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auctio
 <div class="page-wrapper">
 
 ## Location &amp; Times
-
-The Auction & Dance happen at the <a href="/map/" target="_blank">main stage</a>
 
 - **Auction** - {{ page.times.auction }}
 - **Dance** - {{ page.times.dance }}
