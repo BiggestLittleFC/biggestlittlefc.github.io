@@ -271,3 +271,18 @@ a.home-button {
 .block-lyrics {
 	padding: 40px 0;
 }
+/* --------------------------------------------------------------------- /music/ --------------------------------------------------------------------- */
+#auction-dancers {
+	padding: 0;
+	margin: 0;
+}
+#auction-dancers li {
+	width: 45%;
+	list-style: none;
+	padding: 20% 20px 30px;
+	float: left;
+	background: #222 none no-repeat scroll center center / cover;
+	color: #ffb100;
+	font-size: 23px;
+	margin: 2%;
+}
