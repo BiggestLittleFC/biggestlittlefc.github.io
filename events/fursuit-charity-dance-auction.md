@@ -53,7 +53,7 @@ Fursuit Bachelor(ettes)s will be required to show up to the Fursuit Dance Auctio
 ## Location &amp; Times
 
 - **Auction** - Friday 4-5:30pm @ <a href="/map/" target="_blank">Second Stage</a>
-- **Dance** - Friday 10pm @ <a href="/map/" target="_blank">Second Stage</a> (first hour of the dance)
+- **Dance** - Friday 10pm @ <a href="/map/" target="_blank">Main Stage</a> (first hour of the dance)
 
 <a class="button" href="https://twitter.com/bldanceauction" target="_blank" rel="noopener noreferrer">Twitter Updates</a>
 
