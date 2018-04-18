@@ -28,7 +28,7 @@ layout: fullwidth
 
 ## Sale Hours & Location
 
-Dealers den is located in the <a href="/events/map/">Silver State Pavilion on the Spa Level</a> next to the Spa.
+Dealers den is located in the <a href="/map/">Silver State Pavilion on the Spa Level</a> next to the Spa.
 
 During operating hours, the Dealer's Den hosts a central community hang-out fun zone and is very inviting for business.
 
