@@ -286,4 +286,5 @@ a.home-button {
 	font-size: 23px;
 	margin: 2%;
 	text-transform: uppercase;
+	text-shadow: -2px 1px 1px rgba(0,0,0,0.8);
 }
