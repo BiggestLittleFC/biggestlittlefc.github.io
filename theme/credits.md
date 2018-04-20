@@ -57,9 +57,16 @@ status: LIVE
 
 <h2>Music Department</h2>
 
-<h3>Music, lyrics and arrangements</h3>
+
+<h3>Music, Lyrics and Arrangements</h3>
 <p class="credit-single"><a href="http://foxesandpeppers.com" target="_blank">Pepper Coyote and Fox Amoore</a></p>
 
+
+<h3>Fox and Pepper Handler</h3>
+<p class="credit-single">Dixie</p>
+
+
+<h3>Vocals</h3>
 <ul class="credit-group">
   <li>
     <strong>Voice for Thistle</strong>
@@ -77,32 +84,52 @@ status: LIVE
     <strong>Voice for Sahny</strong>
     <em>Shadowwolfen</em>
   </li>
+  <li>
+    <strong>Voice for Daub</strong>
+    <em>Bryan Massey</em>
+  </li>
+  <li>
+    <strong>Voice for Diego</strong>
+    <em>Omnom</em>
+  </li>
 </ul>
 
-<h3>Additional FX vocals</h3>
+<h3>Additional Vocals</h3>
 <ul class="credit-cluster">
   <li>Cosmo Shepherd</li>
   <li>Thunder Roo</li>
   <li>Leo Ornelas</li>
   <li>John "Mohr" Emery and Urbis</li>
+  <li><a href="http://foxamoore.bandcamp.com" target="_blank">Fox Amoore</a></li>
 </ul>
 
-<h3>Brass, sax, some guitar, some bass, woodwinds and a bunch of others</h3>
-<p class="credit-single">Rhubarb</p>
 
-<h3>Piano, organ, accordion, backing vocals and orchestrations</h3>
-<p class="credit-single"><a href="http://foxamoore.bandcamp.com" target="_blank">Fox Amoore</a></p>
+<h3>Instrumentals</h3>
+<ul class="credit-group">
+  <li>
+    <strong>Brass and Sax</strong>
+    <em>Rhubarb</em>
+  </li>
+  <li>
+    <strong>Drums and Percussion</strong>
+    <em>Teddy</em>
+  </li>
+  <li>
+    <strong>Guitar and Bass</strong>
+    <em>Flop, Pepper Coyote and Rhubarb</em>
+  </li>
+  <li>
+    <strong>Piano, Organ and Accordion</strong>
+    <em><a href="http://foxamoore.bandcamp.com" target="_blank">Fox Amoore</a></em>
+  </li>
+  <li>
+    <strong>Woodwinds</strong>
+    <em>Rhubarb</em>
+  </li>
+</ul>
 
-<h3>Drums and percussion</h3>
-<p class="credit-single">Teddy</p>
 
-<h3>Additional guitar and bass</h3>
-<p class="credit-single">Flop and Pepper Coyote</p>
-
-<h3>Fox and Pep Handler</h3>
-<p class="credit-single">Dixie</p>
-
-<h3>Physical media production</h3>
+<h3>Physical Media Production</h3>
 <p class="credit-single">Marcus and DB Masters</p>
 
 
@@ -146,9 +173,9 @@ status: LIVE
 </ul>
 
 
+
+
 <p class="credit-copy">Story, art and design &copy;2018 BLFC Corp.</p>
-
 <p class="credit-copy">The story, names, characters and incidents portrayed in this production are fictitious. Any identification with actual persons, places, buildings and products is purely convenient.</p>
-
 
 </div>

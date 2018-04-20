@@ -316,6 +316,7 @@ a.home-button {
 }
 #movie-credits h3 {
   padding: 40px 0 15px;
+  line-height: 30px;
 }
 #movie-credits .credit-single {
 }
@@ -332,7 +333,7 @@ a.home-button {
 #movie-credits .credit-group li strong,
 #movie-credits .credit-group li em,
 #movie-credits .credit-cluster li  {
-  width: 50%;
+  width: 48%;
   display: inline-block;
 }
 #movie-credits .credit-group {}
@@ -346,4 +347,5 @@ a.home-button {
 }
 #movie-credits .credit-copy {
   margin: 70px 0;
-} 
+  font-size: 15px;
+}
