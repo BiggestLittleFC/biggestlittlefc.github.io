@@ -146,9 +146,9 @@ status: LIVE
 </ul>
 
 
-<p class="credit-single">Story, art and design &copy;2018 BLFC Corp.</p>
+<p class="credit-copy">Story, art and design &copy;2018 BLFC Corp.</p>
 
-<p class="credit-single">The story, names, characters and incidents portrayed in this production are fictitious. Any identification with actual persons, places, buildings and products is purely convenient.</p>
+<p class="credit-copy">The story, names, characters and incidents portrayed in this production are fictitious. Any identification with actual persons, places, buildings and products is purely convenient.</p>
 
 
 </div>
