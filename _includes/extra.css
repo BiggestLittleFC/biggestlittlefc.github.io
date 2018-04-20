@@ -312,7 +312,9 @@ a.home-button {
   color: #fff;
 }
 #movie-credits h2 {
-  padding: 100px 0 20px;
+  padding: 70px 0 20px;
+  font-size: 30px;
+  line-height: 30px;
 }
 #movie-credits h3 {
   padding: 40px 0 15px;
