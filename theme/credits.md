@@ -1,39 +1,154 @@
 ---
 title: Credits
-status: LIVEx
+status: LIVE
 ---
 
-Web design, art assets, and story are written by the volunteers of BLFC.
 
-Music, lyrics and arrangements by Pepper Coyote and Fox Amoore
 
-Lead singers:
-Pepper Coyote as Thistle
-Rhubarb as Clover
-Shadowwolfen as Sahny
-Lilypad as Baz
+<div id="movie-credits">
 
-With special guest:
-Bryan Massey as dauB
-Omnom as Diego
 
-Additional FX vocals by Cosmo Shepherd, Thunder Roo, Leo Ornelas, John "Mohr" Emery and Urbis
+<h2>Produced by</h2>
+<p class="credit-single">Reno Area Anthropomorphic Arts and Recreations</p>
 
-Drums and percussion by Teddy
 
-Brass, sax, some guitar, some bass, woodwinds and a bunch of others by Rhubarb.
+<h2>Story based on music by</h2>
+<p class="credit-single"><a href="http://foxesandpeppers.com" target="_blank">Pepper Coyote and Fox Amoore</a></p>
 
-Additional guitar and bass by Flop and Pepper Coyote
 
-Piano, organ, accordion, backing vocals and orchestrations by Fox Amoore
+<h2>Screenplay by</h2>
+<p class="credit-single">Lithium, Lunania &amp; Coyoli and Djarums</p>
 
-Special thanks to Dixie for being the Fox and Pep handler (And for helping us managing this fun project!)
 
-HUGE thanks to BLFC and the staff for the opportunity and for making one of our fave cons extra awesome!
+<h2>Cast</h2>
+<ul class="credit-group">
+  <li>
+    <strong>Thistle</strong>
+    <em>Levi Jackson</em>
+  </li>
+  <li>
+    <strong>Clover</strong>
+    <em>Jesse Dook</em>
+  </li>
+  <li>
+    <strong>Baz</strong>
+    <em>Brianna Antilles</em>
+  </li>
+  <li>
+    <strong>Sahny</strong>
+    <em>Sam A. Parker</em>
+  </li>
+  <li>
+    <strong>Diego</strong>
+    <em>Viottolo D’silencia</em>
+  </li>
+  <li>
+    <strong>dauB</strong>
+    <em>Milo Sybre Baranov</em>
+  </li>
+  <li>
+    <strong>Keystone</strong>
+    <em>Amani Naribi</em>
+  </li>
+</ul>
 
-Physical media production by Marcus and DB Masters.
 
-http://foxesandpeppers.com
-http://PepperCoyote.bandcamp.com
-http://foxamoore.bandcamp.com
-http://Lookleft.us
+
+
+<h2>Music Department</h2>
+
+<h3>Music, lyrics and arrangements</h3>
+<p class="credit-single"><a href="http://foxesandpeppers.com" target="_blank">Pepper Coyote and Fox Amoore</a></p>
+
+<ul class="credit-group">
+  <li>
+    <strong>Voice for Thistle</strong>
+    <em><a href="http://PepperCoyote.bandcamp.com" target="_blank">Pepper Coyote</a></em>
+  </li>
+  <li>
+    <strong>Voice for Clover</strong>
+    <em>Rhubarb</em>
+  </li>
+  <li>
+    <strong>Voice for Baz</strong>
+    <em>Lilypad</em>
+  </li>
+  <li>
+    <strong>Voice for Sahny</strong>
+    <em>Shadowwolfen</em>
+  </li>
+</ul>
+
+<h3>Additional FX vocals</h3>
+<ul class="credit-cluster">
+  <li>Cosmo Shepherd</li>
+  <li>Thunder Roo</li>
+  <li>Leo Ornelas</li>
+  <li>John "Mohr" Emery and Urbis</li>
+</ul>
+
+<h3>Brass, sax, some guitar, some bass, woodwinds and a bunch of others</h3>
+<p class="credit-single">Rhubarb</p>
+
+<h3>Piano, organ, accordion, backing vocals and orchestrations</h3>
+<p class="credit-single"><a href="http://foxamoore.bandcamp.com" target="_blank">Fox Amoore</a></p>
+
+<h3>Drums and percussion</h3>
+<p class="credit-single">Teddy</p>
+
+<h3>Additional guitar and bass</h3>
+<p class="credit-single">Flop and Pepper Coyote</p>
+
+<h3>Fox and Pep Handler</h3>
+<p class="credit-single">Dixie</p>
+
+<h3>Physical media production</h3>
+<p class="credit-single">Marcus and DB Masters</p>
+
+
+
+
+<h2>Art Department</h2>
+<ul class="credit-group">
+  <li>
+    <strong>Art Director</strong>
+    <em>Shiuk</em>
+  </li>
+  <li>
+    <strong>Graphic Design</strong>
+    <em>Latte</em>
+  </li>
+  <li>
+    <strong>Web Design</strong>
+    <em>Coyoli</em>
+  </li>
+</ul>
+
+<h3>Artists</h3>
+<ul class="credit-cluster">
+  <li><a href="http://shiuk.com/" target="_blank">Shiuk</a></li>
+  <li><a href="http://www.furaffinity.net/gallery/airu/" target="_blank">Airu</a></li>
+  <li><a href="http://www.sillycoyote.com/" target="_blank">Coyoli</a></li>
+  <li><a href="http://www.furaffinity.net/user/felinefix" target="_blank">FelineFix</a></li>
+  <li><a href="http://www.furaffinity.net/user/tacklebox" target="_blank">Tacklebox</a></li>
+</ul>
+
+
+
+<h2>In Memoriam</h2>
+<p class="credit-single">We miss you Zido</p>
+
+
+
+<h2>Production Baby</h2>
+<ul class="credit-cluster">
+  <li>Alihade</li>
+</ul>
+
+
+<p class="credit-single">Story, art and design &copy;2018 BLFC Corp.</p>
+
+<p class="credit-single">The story, names, characters and incidents portrayed in this production are fictitious. Any identification with actual persons, places, buildings and products is purely convenient.</p>
+
+
+</div>
