@@ -318,19 +318,20 @@ a.home-button {
 }
 #movie-credits h3 {
   padding: 40px 0 15px;
-  line-height: 30px;
+  line-height: 18px;
 }
 #movie-credits .credit-single {
 }
 #movie-credits .credit-group,
 #movie-credits .credit-cluster  {
-  margin: 0;
+  margin: 20px 0;
   padding: 0;
   font-size: 0px;
 }
 #movie-credits .credit-group li,
 #movie-credits .credit-cluster li {
   list-style: none;
+  padding: 10px 0;
 }
 #movie-credits .credit-group li strong,
 #movie-credits .credit-group li em,
