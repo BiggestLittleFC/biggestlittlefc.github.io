@@ -29,3 +29,10 @@ status: LIVE
 - Tabletop Gaming: Nevada Room
 - Video Gaming: Nevada Room
 - Volunteering: Nevada Room
+
+## Floor 3 - Executive Wing
+
+<a href="../assets/img/level3.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/level3_sm.jpg"></a>
+
+- Panel Rooms: Shasta, Ruby, Whitney, Teton, Sierra, McKinley
+- Artist Lounge: Cascade Room
