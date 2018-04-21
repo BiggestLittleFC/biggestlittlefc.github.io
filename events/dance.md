@@ -1,8 +1,11 @@
 ---
 title: Dances
 status: LIVE
+layout: fullwidth
 ---
-<div class="textcenter">
+
+<div class="one-full bg-one textcenter">
+<div class="page-wrapper">
 {::comment}
 DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTAyPd9en13" target="_blank">Sign Up Now!</a>
 {/:comment}
@@ -10,6 +13,12 @@ DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTA
 <a class="button"  href="https://twitter.com/blfcdances" target="_blank">Dance Twitter</a>
 
 </div>
+</div>
+
+
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 <div class="one_fourth">
 
@@ -80,4 +89,8 @@ DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTA
 
 </div>
 
+
+
 <div class="clear">
+</div>
+</div>
