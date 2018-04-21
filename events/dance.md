@@ -21,7 +21,7 @@ DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTA
 
 
 <div class="one-full bg-two">
-<div class="page-wrapper">
+<div class="page-wrapper" style="padding-left: 0;padding-right: 0;">
 
 <div class="one_fourth">
 
