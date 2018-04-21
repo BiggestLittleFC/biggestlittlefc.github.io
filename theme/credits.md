@@ -78,7 +78,7 @@ status: LIVE
   </li>
   <li>
     <strong>Voice for Baz</strong>
-    <em>Lilypad</em>
+    <em><a href="http://www.furaffinity.net/user/lilypad" target="_blank">Lilypad</a></em>
   </li>
   <li>
     <strong>Voice for Sahny</strong>
