@@ -34,7 +34,7 @@ layout: empty
 
 <h3>INT. THE GUEST ROOM - DAY</h3>
 
-<p>Daylight pours in around the cracked curtains. There’s a mess of bedsheets in an empty bed by the window. On the other bed with Thistle's footpaw sticks out of a twisted wreck of pillows and bedding. Thistle groans while stirring awake. His arm stretches out of the blanket heap with a muffled yawn. He pauses. Then, with flailing kicks he rushes upright. Grabs the clock that flashes "12:25".  His face fills with panic.</p>
+<p>Daylight pours in around the cracked curtains. There's a mess of bedsheets in an empty bed by the window. On the other bed with Thistle's footpaw sticks out of a twisted wreck of pillows and bedding. Thistle groans while stirring awake. His arm stretches out of the blanket heap with a muffled yawn. He pauses. Then, with flailing kicks he rushes upright. Grabs the clock that flashes "12:25".  His face fills with panic.</p>
 
 <div class="dialogue">
 <h4>THISTLE</h4>
@@ -81,7 +81,7 @@ layout: empty
 
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Whoa, whoa, whoa! What? Come on, it’s not that late.</p>
+<p>Whoa, whoa, whoa! What? Come on, it's not that late.</p>
 </div>
 
 <p>Clover glances at the clock on the middle nightstand</p>
@@ -109,17 +109,17 @@ layout: empty
 
 <h3>INT. CON SPACE - DAY</h3>
 
-<p>HALLWAY</p>
+<h3>HALLWAY</h3>
 
 <p>Thistle walks alongside Clover as he fidgets with his new con badge pinned to his shirt. Clover lunges ahead and opens the door to the main stage, he makes a sweeping gesture towards the opening. Thistle smiles bashfully and tucks through the doorway.</p>
 
 
-<p>MAIN STAGE</p>
+<h3>MAIN STAGE</h3>
 
 <p>Thistle and Clover join a crowd, they spread out into a huge room with a gaudy, crystal chandelier. More and more people fill the room. Along the sides, several people sit with water bottles, while staring at their phones. The front is densely packed. Up on stage, big, purple, silky curtains shimmer in the bright stage lights. Stage left, a figure peeks at the crowd through the shroud.</p>
 
 
-<p>BACK STAGE</p>
+<h3>BACK STAGE</h3>
 
 <p>Diego peers past the stage. His wire hair tail stands tense through his violet tail coat &amp; slacks. He steps back, takes a deep breath, adjusts his lavalier mic, breathes out sharply, and snaps the fingers on both his hands simultaneously, then points forward.</p>
 
@@ -129,7 +129,8 @@ layout: empty
 <p>You got this!</p>
 </div>
 
-<p>MAIN STAGE</p>
+
+<h3>MAIN STAGE</h3>
 
 <p>He walks out on stage with the confidence of a rock star, waving out at the crowd as the piano intro plays.</p>
 
@@ -141,40 +142,25 @@ layout: empty
 <p>Hello and welcome to opening ceremonies. It's the 17th annual, 2nd iteration, 3rd location for our dear con. And I'd like to list our... expectations.</p>
 <p class="parenthetical">(singing)</p>
 <p>Let's start our con our right for those of you stayin' up all night.
-<br>
-The 3rd floor is the designated "noisy block".
-<br>
-Clothes must be worn at all times.
-<br>
-Please, observe all markings and signs and remember...
-</p>
+<p>The 3rd floor is the designated "noisy block".</p>
+<p>Clothes must be worn at all times.</p>
+<p>Please, observe all markings and signs and remember...</p>
 <p class="parenthetical">(spoken)</p>
 <p>Security is here for your ... safety.</p>
 <p class="parenthetical">(singing)</p>
-<p>Our charity is here, the local animal shelter.
-<br>
-We hope you'll be as generous, as you can with them.
-<br>
-Our con operations room is one-twenty-five.
-<br>
-If you have issues come on over and heeeeey!
-<br>
-Tell me somethin' I don't know!
-<br>
-Gimme something I ain't never heard before.
-<br>
-After two  decades of cons, there's not much can go wrong that hasn't happened at least fifteen times already.
-<br>
-Soooooo, tell me something' I don't know!
-<br>
-Make my jaw drop when you walk in the door.
-<br>
-there's no need to be scared, the staff and I are prepared.
-<br>
-So tell me something I don't knoooooooow!!
-</p>
+<p>Our charity is here, the local animal shelter.</p>
+<p>We hope you'll be as generous, as you can with them.</p>
+<p>Our con operations room is one-twenty-five.</p>
+<p>If you have issues come on over and heeeeey!</p>
+<p>Tell me somethin' I don't know!</p>
+<p>Gimme something I ain't never heard before.</p>
+<p>After two  decades of cons, there's not much can go wrong that hasn't happened at least fifteen times already.</p>
+<p>Soooooo, tell me something' I don't know!</p>
+<p>Make my jaw drop when you walk in the door.</p>
+<p>there's no need to be scared, the staff and I are prepared.</p>
+<p>So tell me something I don't knoooooooow!!</p>
 <p class="parenthetical">(spoken)</p>
-<p>So, I think it goes without saying, don’t wear masks of <span class="italic">any</span> kind in the casino. They take that pretty seriously.</p>
+<p>So, I think it goes without saying, don't wear masks of <span class="italic">any</span> kind in the casino. They take that pretty seriously.</p>
 </div>
 
 <div class="dialogue">
@@ -189,32 +175,19 @@ So tell me something I don't knoooooooow!!
 <p>Askin' about the con theme, son?</p>
 <p class="parenthetical">(stumbles into spoken)</p>
 <p>Well, we couldn't think of one, so we'll be sure to get on that for next year...
-<br>
-We got some, last minute schedule changes.
-<br>
-Dances now run till 3am and if you wanna be in the car show, <span class="italic">yes</span>, you must own a car.
-</p>
+<p>We got some, last minute schedule changes.</p>
+<p>Dances now run till 3am and if you wanna be in the car show, <span class="italic">yes</span>, you must own a car.</p>
 <p class="parenthetical">(singing)</p>
-<p>The fursuit parade has, once again, been canceled.
-<br>
-But hey, if you wanna take a walk, please do it anywhere except for the Wal-Mart.
-<br>
-They want your business but not as a giant cat, oooooh!
-<br>
-Tell me somethin' I don't know.
-<br>
-Gimme something I ain' never heard before.
-<br>
-After two decades of cons, there's not much can go wrong that hasn't happened at least fifteen times already soooooo,
-<br>
-Tell me something' I don't know!
-<br>
-Make my jaw drop when you walk in the door.
-<br>
-There's no need to be scared, the staff and I are prepared!
-<br>
-So, tell me something I don't knoooooooow!
-</p>
+<p>The fursuit parade has, once again, been canceled.</p>
+<p>But hey, if you wanna take a walk, please do it anywhere except for the Wal-Mart.</p>
+<p>They want your business but not as a giant cat, oooooh!</p>
+<p>Tell me somethin' I don't know.</p>
+<p>Gimme something I ain' never heard before.</p>
+<p>After two decades of cons, there's not much can go wrong that hasn't happened at least fifteen times already soooooo,</p>
+<p>Tell me something' I don't know!</p>
+<p>Make my jaw drop when you walk in the door.</p>
+<p>There's no need to be scared, the staff and I are prepared!</p>
+<p>So, tell me something I don't knoooooooow!</p>
 <p class="parenthetical">(clear throat, spoken)</p>
 <p>Well, uh. That should about do it for me. Try to go see some panels. We got a band playing at some point. uh... no vaping indoors. And remember, you may only board the elevator from the ground floor. If you go down to go up, <span class="italic">I'll personally murder you</span>. Thanks!</p>
 </div>
@@ -230,7 +203,8 @@ So, tell me something I don't knoooooooow!
 
 <p>The crowd erupts into cheers. Diego widens his eyes a bit in surprise. He shakes his head, puts on a big smile, and waves at the audience while walking off stage.</p>
 
-<p>BACKSTAGE</p>
+
+<h3>BACKSTAGE</h3>
 
 <p>He turns the microphone off and sets it on a chair near the stage entrance, and proceeds to pull out his phone.  Looking at the screen a bit his face puts on a slight angry scowl.</p>
 
@@ -256,10 +230,11 @@ So, tell me something I don't knoooooooow!
 <p>Diego looks off to the side.</p>
 
 
+
+
 <h2>FLASHBACK TO:</h2>
 
-
-<p>BACKSTAGE - EARLIER</p>
+<h3>BACKSTAGE - EARLIER</h3>
 
 <p>Diego is backstage in front of a board with switches and dials. Diego takes one of the dials and twists it to the right, causing sparks to fly and lights to dim on the panel. An A/V CREWMAN dives in to turn the dial back down, the lights going out before he can reach it.</p>
 
@@ -269,7 +244,7 @@ So, tell me something I don't knoooooooow!
 <p>Diego!</p>
 </div>
 
-<p>BACK TO PRESENT</p>
+<h3>BACK TO PRESENT</h3>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
@@ -291,7 +266,7 @@ So, tell me something I don't knoooooooow!
 
 <div class="dialogue">
 <h4>ROJO</h4>
-<p>But, there’s plenty!</p>
+<p>But, there's plenty!</p>
 </div>
 
 <p>Rojo shakes his head in frustration, looking at a spreadsheet of events on his phone. He uses his free hand to scratch behind his flop ear, causing his eyelids to droop slightly and his footpaw to bounce.</p>
@@ -337,37 +312,22 @@ So, tell me something I don't knoooooooow!
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(singing)</p>
-<p>I'm waking up to a whole new shade of gray.
-<br>
-I'm seeing things that might make some run away.
-<br>
-Look at the ears and the eyes, the tail that bobs behind and tell me:
-<br>
-How do you stitch it all up?
-<br>
-How do you stitch it all up?
-<br>
-I'd call it sculpture, but I might understate.
-<br>
-I'm trying hard not to overcompensate.
-<br>
-I feel the jitters as I step into the con space.
-<br>
-How can they stitch it all up? How can they stitch it all up?
-<br>
-I'm in stitches!
-<br>
-Can I take our picture please?
-<br>
-I'm in stitches!
-<br>
-Is it dramatic to fall onto my knees.
-<br>
-Oh my god! Holy crap! Baby this is where it's at!
-<br>
-I'm in stitches.
-<br>
-I am home at last.</p>
+<p>I'm waking up to a whole new shade of gray.</p>
+<p>I'm seeing things that might make some run away.</p>
+<p>Look at the ears and the eyes, the tail that bobs behind and tell me:</p>
+<p>How do you stitch it all up?</p>
+<p>How do you stitch it all up?</p>
+<p>I'd call it sculpture, but I might understate.</p>
+<p>I'm trying hard not to overcompensate.</p>
+<p>I feel the jitters as I step into the con space.</p>
+<p>How can they stitch it all up? How can they stitch it all up?</p>
+<p>I'm in stitches!</p>
+<p>Can I take our picture please?</p>
+<p>I'm in stitches!</p>
+<p>Is it dramatic to fall onto my knees.</p>
+<p>Oh my god! Holy crap! Baby this is where it's at!</p>
+<p>I'm in stitches.</p>
+<p>I am home at last.</p>
 </div>
 
 <p>Thistle continues dancing between the Fursuiters.</p>
@@ -376,65 +336,37 @@ I am home at last.</p>
 <h4>THISTLE</h4>
 <p class="parenthetical">(singing)</p>
 <p>Maybe a partial, or maybe a full suit.
-<br>
-I do believe this is so much more than cute.
-<br>
-Oh wow! My favorite dog! Ya think she'll notice me?
-<br>
-How can they stitch it all up?
-<br>
-I'm glad they switch it all up.
-<br>
-I'm in stitches.
-<br>
-Seeing everything I've seen.
-<br>
-I'm in stitches.
-<br>
-It's like walking in a dream.
-<br>
-Oh my god! Holy crap! Never seen a suit like that!
-<br>
-I'm in stitches!
-</p>
+<p>I do believe this is so much more than cute.</p>
+<p>Oh wow! My favorite dog! Ya think she'll notice me?</p>
+<p>How can they stitch it all up?</p>
+<p>I'm glad they switch it all up.</p>
+<p>I'm in stitches.</p>
+<p>Seeing everything I've seen.</p>
+<p>I'm in stitches.</p>
+<p>It's like walking in a dream.</p>
+<p>Oh my god! Holy crap! Never seen a suit like that!</p>
+<p>I'm in stitches!</p>
 <p class="parenthetical">(gasp)</p>
-<p>
-I think I found my crush!
-<br>
-Look at the colors and shapes. Can you commit and escape?
-<br>
-Was this a custom or an auction?
-<br>
-I wanna know, how's the visibility?
-<br>
-Do you need a cooling vest?
-<br>
-Is there padding in the chest?
-</p>
+<p>I think I found my crush!</p>
+<p>Look at the colors and shapes. Can you commit and escape?</p>
+<p>Was this a custom or an auction?</p>
+<p>I wanna know, how's the visibility?</p>
+<p>Do you need a cooling vest?</p>
+<p>Is there padding in the chest?</p>
 <p class="parenthetical">(giggling)</p>
-<p>
-Okay, you know what I mean but seriously.
-<br>
-I need one of my oooooooooown.
-<br>
-I'm in stitches!
-<br>
-Maybe I could try one on.
-<br>
-I'm in stitches!
-<br>
-Pop my head and I'll be gone.
-<br>
-Oh my god! Holy crap! It's my station and I've been waiting!
-<br>
-I'm in stitches! I'm in stitches!
-<br>
-I'm in stitcheeeeeeees!
-<br>
-And you can't cut me out.</p>
+<p>Okay, you know what I mean but seriously.</p>
+<p>I need one of my oooooooooown.</p>
+<p>I'm in stitches!</p>
+<p>Maybe I could try one on.</p>
+<p>I'm in stitches!</p>
+<p>Pop my head and I'll be gone.</p>
+<p>Oh my god! Holy crap! It's my station and I've been waiting!</p>
+<p>I'm in stitches! I'm in stitches!</p>
+<p>I'm in stitcheeeeeeees!</p>
+<p>And you can't cut me out.</p>
 </div>
 
-<p>The lighting returns to normal as Thistle returns to Clover’s side.</p>
+<p>The lighting returns to normal as Thistle returns to Clover's side.</p>
 
 <p>( END: "STITCHES" )</p>
 
@@ -500,13 +432,13 @@ And you can't cut me out.</p>
 <p>Drink some water before you leave. It is important to keep hydrated.</p>
 </div>
 
-<p>Sahny turns to meet a polar bear who is already holding a full glass of water to offer them, with slight hesitation they accept the offering. After nearly drowning themselves the hyena manages to set the glass down, thanks the bear and slips out of the room all in one motion. Shutting the door and noting “512” as the room number. The thought crosses over them of returning as a backup in the event that other parties fall through.</p>
+<p>Sahny turns to meet a polar bear who is already holding a full glass of water to offer them, with slight hesitation they accept the offering. After nearly drowning themselves the hyena manages to set the glass down, thanks the bear and slips out of the room all in one motion. Shutting the door and noting "512" as the room number. The thought crosses over them of returning as a backup in the event that other parties fall through.</p>
 
 <p>While making their way through the hallways and down to the con space Sahny checks for new messages in the main group chat.</p>
 
 <div class="dialogue">
 <h4>BAZ (TEXT)</h4>
-<p>@XxSAHNYNo1xX where'd you go? Everyone’s in for the night and I snagged a key for you.</p>
+<p>@XxSAHNYNo1xX where'd you go? Everyone's in for the night and I snagged a key for you.</p>
 </div>
 
 <div class="dialogue">
@@ -536,7 +468,7 @@ And you can't cut me out.</p>
 
 <div class="dialogue">
 <h4>THISTLE (TEXT)</h4>
-<p>It’s Clover btw, my phone can’t seem to get signal inside the building.</p>
+<p>It's Clover btw, my phone can't seem to get signal inside the building.</p>
 </div>
 
 <div class="dialogue">
@@ -581,7 +513,7 @@ And you can't cut me out.</p>
 
 <div class="dialogue">
 <h4>CLOVER (TEXT)</h4>
-<p>@XxSAHNYNo1xX I’ve called you several times, I’m not gonna stay up for you this time.</p>
+<p>@XxSAHNYNo1xX I've called you several times, I'm not gonna stay up for you this time.</p>
 </div>
 
 <div class="dialogue">
@@ -601,10 +533,13 @@ And you can't cut me out.</p>
 
 <div class="dialogue">
 <h4>CLOVER (TEXT)</h4>
-<p>Phone seems to have caught a solid signal, I’ll activate my location.</p>
+<p>Phone seems to have caught a solid signal, I'll activate my location.</p>
 </div>
 
 <p>Clover shared his location.</p>
+
+
+
 
 <h3>INT. DEALER'S DEN - DAY</h3>
 
@@ -676,7 +611,7 @@ And you can't cut me out.</p>
 <p>I've been running all over the hotel looking for you! Your phone location is pinging all over the place. What gives?</p>
 </div>
 
-<p>Clover’s stance returns to normal, as he pulls his phone from his pocket.</p>
+<p>Clover's stance returns to normal, as he pulls his phone from his pocket.</p>
 
 <div class="dialogue">
 <h4>CLOVER</h4>
@@ -763,11 +698,12 @@ And you can't cut me out.</p>
 
 
 
-<p>DEALER'S DEN - EARLIER</p>
+
+<h3>DEALER'S DEN - EARLIER</h3>
 
 <p>Baz hurries along the crowd with a chain-brand coffee cup in hand as her messenger bag sways in her hustle. She looks up and stops abruptly.</p>
 
-<p>At the end of a row of vendors is a table divided by two banners. The first banner is decorated in colorful cartoon animals, next the text “Bazeri” along with various social media icons including SocialCreature’s. Behind the other banner that reads "dauB - Fine art illustration" sits an extremely tall, pale-orange tiger, dressed in Boho chic. DAUB takes his big, round glasses to wipe them off with his shirt and smiles warmly at the passersby.</p>
+<p>At the end of a row of vendors is a table divided by two banners. The first banner is decorated in colorful cartoon animals, next the text "Bazeri" along with various social media icons including SocialCreature's. Behind the other banner that reads "dauB - Fine art illustration" sits an extremely tall, pale-orange tiger, dressed in Boho chic. DAUB takes his big, round glasses to wipe them off with his shirt and smiles warmly at the passersby.</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
@@ -783,17 +719,12 @@ And you can't cut me out.</p>
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(singing)</p>
-<p>I've been training for this weekend, for most of my life.
-<br>
-Start out doodling on napkins, when you're only four or five.
-<br>
-Now, anything you bring me, yes, anything you want!
-<br>
-I can draw it. I can make it. If you can pay the price.
-<br>
-God, I need a dollar, I need every cent.
-<br>
-Find me. It's not hard to find me. So you can,
+<p>I've been training for this weekend, for most of my life.</p>
+<p>Start out doodling on napkins, when you're only four or five.</p>
+<p>Now, anything you bring me, yes, anything you want!</p>
+<p>I can draw it. I can make it. If you can pay the price.</p>
+<p>God, I need a dollar, I need every cent.</p>
+<p>Find me. It's not hard to find me. So you can,</p>
 <p>Buy my stuff! Buy my stuff!</p>
 <p>Look into my eyes. I'm wishin', you'd pick up a big commission.</p>
 <p>Buy my stuff! Buy my stuff!</p>
@@ -826,11 +757,9 @@ Find me. It's not hard to find me. So you can,
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(singing)</p>
-<p>I really hope to soak up every nickel, quarter, and dime.
-<br>
-Things are tight right now, and all that I need right now, is for them to, buy my stuff! Buy my stuff!
-<br>
-Come get some color from our table!</p>
+<p>I really hope to soak up every nickel, quarter, and dime.</p>
+<p>Things are tight right now, and all that I need right now, is for them to, buy my stuff! Buy my stuff!</p>
+<p>Come get some color from our table!</p>
 </div>
 
 <div class="dialogue">
@@ -875,6 +804,10 @@ Come get some color from our table!</p>
 
 <p>Baz stands grabbing her sketchbook. The table disappears as she stands.</p>
 
+
+
+
+
 <h2>MATCH CUT TO:</h2>
 
 <h3>INT. F.U.R.S. BAR - NIGHT</h3>
@@ -889,7 +822,7 @@ Come get some color from our table!</p>
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(glances at her phone)</p>
-<p>Oh crap, Dealer’s closes soon! I’m missing commissions. We gotta get back!</p>
+<p>Oh crap, Dealer's closes soon! I'm missing commissions. We gotta get back!</p>
 </div>
 
 <p>DauB finishes his drink. Baz slips into her jacket, then looks at dauB.</p>
@@ -897,13 +830,10 @@ Come get some color from our table!</p>
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(singing)</p>
-<p>Who is this guy?
-<br>
-Why does he clear my mind?
-<br>
-Gotta get back. Gotta get what I really need.
-<br>
-For you to...</p>
+<p>Who is this guy?</p>
+<p>Why does he clear my mind?</p>
+<p>Gotta get back. Gotta get what I really need.</p>
+<p>For you to...</p>
 </div>
 
 <h2>MATCH CUT TO:</h2>
@@ -1065,6 +995,9 @@ For you to...</p>
 
 <p>The dealer's den is empty, except Baz and dauB. The ANNOUNCER stands with his arms dramatically waving them out.</p>
 
+
+
+
 <h3>INT. SECOND STAGE - NIGHT</h3>
 
 <p>Gathered around a well-lit stage are several groups of suiters and attendees, hundreds of eyes glued in anticipation of the competition as it unfolds. A fox suiter finishes his set, and standing before them now is the champion from the previous years. SLEDGE is an Ocelot of varying shades of pink with onyx markings, his eyes in and out of suit are a unique shade of ice blue. The crowd goes absolutely wild once he looks around, shouting and cheering as the announcer attempts to talk over them. One of the louder voices belongs to a GAZELLE who seems to be getting into a stance to run forward onto the stage when Sledge lifts both hands and shakes his head in panic. A gasp erupts from several of the members in the crowd as the bovidae is frozen in place like a deer in headlights.</p>
@@ -1080,7 +1013,7 @@ For you to...</p>
 <p>For our next performer, give it up for Sledge the dancing ocelot!</p>
 </div>
 
-<p>A catchy melody plays, accompanied by defined bass kicks as Sledge makes his way across the waxed floor and begins to resemble liquid in the smoothness of his contortions. Behind Sahny’s plush suit head are dagger wielding eyes, scanning for a mishap and as Sledge oversteps during part of his routine, Sahny is satisfied in watching him recover.</p>
+<p>A catchy melody plays, accompanied by defined bass kicks as Sledge makes his way across the waxed floor and begins to resemble liquid in the smoothness of his contortions. Behind Sahny's plush suit head are dagger wielding eyes, scanning for a mishap and as Sledge oversteps during part of his routine, Sahny is satisfied in watching him recover.</p>
 
 <div class="dialogue">
 <h4>ANNOUNCER  (OVER SPEAKERS)</h4>
@@ -1110,7 +1043,9 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 
 <p>The beat seems to climb higher and higher in pitch before dropping and in that moment of time Sahny manages to perfectly land a backflip. The crowd roars, but among the various voices a distinct noise, a series of energetic chirps and excited whistles can be heard.</p>
 
-<p>SECOND STAGE - EARLIER</p>
+
+
+<h3>SECOND STAGE - EARLIER</h3>
 
 <p>Diego paces behind the judges table, toying with his radio from paw to paw. He nervously watches the crowd, visually checking the lighting and listening acutely to the audio quality. He waits for an opportunity to talk to the judge who is watching the competitors intently.
 <br>
@@ -1141,37 +1076,37 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 <p>Um, nah! We already went through all the tracks before hand.</p>
 </div>
 
-<p>The judge distractedly looks back to Sahny’s dancing then back at Diego.</p>
+<p>The judge distractedly looks back to Sahny's dancing then back at Diego.</p>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>I swear I hear it. I’ve got an ear for this stuff. I could look at the settings for you.</p>
+<p>I swear I hear it. I've got an ear for this stuff. I could look at the settings for you.</p>
 </div>
 
 <div class="dialogue">
 <h4>JUDGE</h4>
 <p class="parenthetical">(distracted)</p>
-<p>I think we’re good Diego, besides I gotta judge this guy.</p>
+<p>I think we're good Diego, besides I gotta judge this guy.</p>
 </div>
 
-<p>Diego looks up at Sahny’s routine and huffs.</p>
+<p>Diego looks up at Sahny's routine and huffs.</p>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>Damn, I was hoping to catch Finn’s routine, but I had to refill the water coolers in the fursuit lounge.</p>
+<p>Damn, I was hoping to catch Finn's routine, but I had to refill the water coolers in the fursuit lounge.</p>
 </div>
 
-<p>The judge nervously turns back to Sahny’s routine a little distracted</p>
+<p>The judge nervously turns back to Sahny's routine a little distracted</p>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
-<p>Did they go on yet? They’re obviously going to win.</p>
+<p>Did they go on yet? They're obviously going to win.</p>
 </div>
 
 <div class="dialogue">
 <h4>JUDGE</h4>
 <p class="parenthetical">(sighs)</p>
-<p>No, not yet. They are one hell of a show stopper aren’t they?</p>
+<p>No, not yet. They are one hell of a show stopper aren't they?</p>
 </div>
 
 <p>The judge smiles.</p>
@@ -1181,7 +1116,7 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 <p>Yeah. Finn kinda reminds me of myself. Real stage presence yanno?</p>
 </div>
 
-<p>The judge becomes a little more visibly agitated and distracted by the routine he’s supposed to be watching</p>
+<p>The judge becomes a little more visibly agitated and distracted by the routine he's supposed to be watching</p>
 
 <div class="dialogue">
 <h4>JUDGE</h4>
@@ -1196,7 +1131,7 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 
 <div class="dialogue">
 <h4>JUDGE</h4>
-<p>I don’t know, there’s a lot of talent out there this year. Like this guy, he really gives it his all.</p>
+<p>I don't know, there's a lot of talent out there this year. Like this guy, he really gives it his all.</p>
 </div>
 
 <p>The Judge nods to the stage. Diego snorts.</p>
@@ -1213,7 +1148,7 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 <p>Think I could give the trophy to Finn?</p>
 </div>
 
-<p>Diego sports a toothy grin at the thought of that happening. The judge winces at what Diego just suggested, but only briefly. Sahny’s song is wrapping up and the judge immediately looks shocked and whips around to face the dance floor.</p>
+<p>Diego sports a toothy grin at the thought of that happening. The judge winces at what Diego just suggested, but only briefly. Sahny's song is wrapping up and the judge immediately looks shocked and whips around to face the dance floor.</p>
 
 <p>Diego not wanting to interrupt the show, slinks off.</p>
 
@@ -1221,6 +1156,9 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 <h4>ANNOUNCER (OVER SPEAKERS)</h4>
 <p>Another provocative display by the dancing violet deer, Sahny! Our next perform--</p>
 </div>
+
+
+
 
 <h3>INT. MAIN FURSUIT LOUNGE - NIGHT</h3>
 
@@ -1371,15 +1309,18 @@ Power</p>
 </div>
 
 <p>( END: "POWER" )</p>
+
 <p>Sahny sighs and heads back to the hotel room to change into a different suit, needing to save the deer for Saturday night. As they approach the room a note on the door catches their eyes, and it reads:</p>
 
-<p>“You were fire out there! Looking forward to seeing you win, fam.” -- Keystone~</p>
+<p>"You were fire out there! Looking forward to seeing you win, fam." -- Keystone~</p>
 
-<p>Sahny’s hands shake in excitement and shock, quickly looking around to see if anyone else is in the hallway. The idea that their idol stalked them back to their room is quickly shot down by the familiar drawing left on the door that Baz did for the four of them. Entering the room to change, the door shuts behind the hyena with a soft click.</p>
+<p>Sahny's hands shake in excitement and shock, quickly looking around to see if anyone else is in the hallway. The idea that their idol stalked them back to their room is quickly shot down by the familiar drawing left on the door that Baz did for the four of them. Entering the room to change, the door shuts behind the hyena with a soft click.</p>
+
+
 
 <h3>INT. CON SPACE - NIGHT</h3>
 
-<p>HALLWAY OUTSIDE PANELS</p>
+<h3>HALLWAY OUTSIDE PANELS</h3>
 
 <p>In a short corridor with gaudy carpet and a handful of open doors with temporary signage for Fursasion panel details, Thistle and Clover rush out of one of the doorways. Clover jams his palms into his eyes, stretching his eyelids. Thistle is stiff shoulder and wide-eyed.</p>
 
@@ -1427,13 +1368,15 @@ Power</p>
 
 <p>Clover fills up a bottle from a water cooler in the hallway. Music thumps through the walls. As the bottle continues to fill, Clover pulls out his phone and flicks at it with his thumb. A muffled thud. He looks to the right.</p>
 
-<p>OUTSIDE CON-OPS</p>
+
+<h3>OUTSIDE CON-OPS</h3>
 
 <p>A machine whines as it converts granules of sugar into the consistency of a carded cotton.</p>
 
 <p>A spectacularly dressed individual dips a paper cone into the machine and presents the second pink cloud of goodness to the ever so excited, bouncing white pooch. Thistle swipes up the treat, tosses the cash into the tip vessel, then walks away as another steps in to fill his space in line.</p>
 
-<p>HALLWAY OUTSIDE PANELS</p>
+
+<h3>HALLWAY OUTSIDE PANELS</h3>
 
 <p>Thistle bites a chunk out of the cloud of sugar as he rounds the corner where he last left Clover. He halts and whips his head away from the cotton candy, small strands cling to his doggo lips.</p>
 
@@ -1573,7 +1516,7 @@ Power</p>
 <p>I've never seen someone like that before. All helpless.</p>
 </div>
 
-<p>Thistle’s last word echoes softly. Clover’s eyes dart ponderously.</p>
+<p>Thistle's last word echoes softly. Clover's eyes dart ponderously.</p>
 
 <div class="dialogue">
 <h4>CLOVER</h4>
@@ -1589,6 +1532,9 @@ Power</p>
 </div>
 
 <p>Clover pushes past the crowd, making a gap that slowly closes behind him. Poor Thistle struggles to keep up, weaving politely through the oblivious crowd.</p>
+
+
+
 
 <h3>INT. STAIRWELL - NIGHT</h3>
 
@@ -1675,7 +1621,10 @@ Power</p>
 
 <p>Hawkus and Thistle disappear up the flights. Their footsteps fade away. Clover watches them go, then pauses for a brief minute. He growls and smacks his forehead twice. Second time, holding his head. He finally sighs an exasperated sigh.</p>
 
-<h3>INT. GUESTROOM - NIGHT</h3>
+
+
+
+<h3>INT. THE GUEST ROOM - NIGHT</h3>
 
 <p>Thistle lays in bed with his face buried in a pillow. The cotton candies lay on their sides on the end table. The door creaks open. A defeated Clover walks into the middle of the room, sighing as he sees Thistle. He leans against the wall next to his bag and slides down to sit on the ground. He covers his face with his hands, his elbows resting on his knees. Breathes in. Rubs his face. Exhales slowly.</p>
 
@@ -1769,6 +1718,9 @@ Power</p>
 
 <p>Clover stares for a beat, sighs, then lays down.</p>
 
+
+
+
 <h3>INT. OUTSIDE F.U.R.S. THEATER - NIGHT</h3>
 
 <p>Baz and dauB exit the theater. Daub holds a huge bucket of popcorn. Baz walks beside him, clasping her muzzle.</p>
@@ -1847,10 +1799,13 @@ Power</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>You just don’t know what’s good.</p>
+<p>You just don't know what's good.</p>
 </div>
 
 <p>Baz and dauB laugh as they continue on.</p>
+
+
+
 
 <h3>INT. CHAIN-BRAND COFFEE SHOP - NIGHT</h3>
 
@@ -1972,7 +1927,7 @@ Power</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>Oy, I should do that, but think what’s the point? I’ve probably killed a whole forest with all the sketchbooks I go through.</p>
+<p>Oy, I should do that, but think what's the point? I've probably killed a whole forest with all the sketchbooks I go through.</p>
 </div>
 
 <div class="dialogue">
@@ -1988,7 +1943,7 @@ Power</p>
 
 <div class="dialogue">
 <h4>DAUB</h4>
-<p>I'm only teasin' ya. When it’s for art, it’s different. It’s special. And that's gotta be worth something, ya know?</p>
+<p>I'm only teasin' ya. When it's for art, it's different. It's special. And that's gotta be worth something, ya know?</p>
 </div>
 
 <p>Baz is smiling, a sort of bitter sweet smile.</p>
@@ -2042,6 +1997,8 @@ Power</p>
 <p>The elevator door shuts.</p>
 
 
+
+
 <h3>INT. THE GUEST ROOM - NIGHT</h3>
 
 <p>The Guest Room lays restless at night. Clover is curled in a wool blanket on the floor. Thistle snores somewhere in a mess of sheets. The latch whirs and the door slides open. Baz walks into the room. Her messenger bag slides off her shoulder, dragging on the floor behind her.</p>
@@ -2055,14 +2012,14 @@ Power</p>
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(groggy, shocked)</p>
-<p>Where were <span class="italic">you</span> tonight? Consider me impressed that you made it back! Couldn’t find a room party?</p>
+<p>Where were <span class="italic">you</span> tonight? Consider me impressed that you made it back! Couldn't find a room party?</p>
 </div>
 
 <p>Placing her supplies to the side, the sergal gets up from her seat, stretching to get some blood flowing after being in the same spot for so long. As Sahny removes their head and shuffles through the room, a familiar smile is plastered on their face.</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>Wait... I don’t smell alcohol on your breath, and your eyes aren’t dilated. What... <span class="italic">were</span> you up to tonight?!</p>
+<p>Wait... I don't smell alcohol on your breath, and your eyes aren't dilated. What... <span class="italic">were</span> you up to tonight?!</p>
 </div>
 
 <div class="dialogue">
@@ -2072,12 +2029,12 @@ Power</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>The fursuiter that just squeaks? Wow, that’s like your idol. Doesn’t really seem like the party type, though.</p>
+<p>The fursuiter that just squeaks? Wow, that's like your idol. Doesn't really seem like the party type, though.</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>Sadly they’re not the drinking type.</p>
+<p>Sadly they're not the drinking type.</p>
 </div>
 
 <p>Sahny shrugs off the suit. Baz nods appreciatively, returning to drawing.</p>
@@ -2089,36 +2046,36 @@ Power</p>
 
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Guys! I’m trying to sleep.</p>
+<p>Guys! I'm trying to sleep.</p>
 </div>
 
 <p>Clover sighs and sits up, glaring at Sahny.</p>
 
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>What’s that? You’re here at a reasonable hour and you’re sober? Who the hell are you and what did you do with our Sahny?</p>
+<p>What's that? You're here at a reasonable hour and you're sober? Who the hell are you and what did you do with our Sahny?</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(sticking their tongue out)</p>
-<p>Go back to bed, coffin-dodger. I wanted to be respectful, isn’t that what you’re always preaching? Besides, celebration will start once they announce that <span class="italic">I’ve</span> won the dance comp!</p>
+<p>Go back to bed, coffin-dodger. I wanted to be respectful, isn't that what you're always preaching? Besides, celebration will start once they announce that <span class="italic">I've</span> won the dance comp!</p>
 </div>
 
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>You’re sure you’ve got it this time?</p>
+<p>You're sure you've got it this time?</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(deflated)</p>
-<p>I mean when you put it like that, what <span class="italic">if</span> I lose? Man, that’d be a total bummer, Keystone won’t want to hang out with a loser.</p>
+<p>I mean when you put it like that, what <span class="italic">if</span> I lose? Man, that'd be a total bummer, Keystone won't want to hang out with a loser.</p>
 </div>
 
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>You’re putting a lot on that contest. That’s all it is Sahny! And your life won’t suddenly come crashing down if you come second place, again. You’ll always be Bulbasaur to me.</p>
+<p>You're putting a lot on that contest. That's all it is Sahny! And your life won't suddenly come crashing down if you come second place, again. You'll always be Bulbasaur to me.</p>
 </div>
 
 <div class="dialogue">
@@ -2128,7 +2085,7 @@ Power</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
-<p>He means you’re number one, even though you suck.</p>
+<p>He means you're number one, even though you suck.</p>
 </div>
 
 <p>Baz leans over with a cheesy grin. Sahny places their paws on their hips with an exaggerated frown.</p>
