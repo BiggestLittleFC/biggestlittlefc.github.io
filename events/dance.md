@@ -6,9 +6,12 @@ layout: fullwidth
 
 <div class="one-full bg-one textcenter">
 <div class="page-wrapper">
+
 {::comment}
+
 DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTAyPd9en13" target="_blank">Sign Up Now!</a>
-{/:comment}
+
+{:/comment}
 
 <a class="button"  href="https://twitter.com/blfcdances" target="_blank">Dance Twitter</a>
 
