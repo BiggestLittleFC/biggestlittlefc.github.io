@@ -25,7 +25,7 @@ DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTA
 
 <div class="one_fourth">
 
-<h3>Thursday</h3>
+<h3 class="textcenter">Thursday</h3>
 <ul>
 <li><strong>9-10pm</strong> - Bucker Fuskyote</li>
 <li><strong>10-11pm</strong> - DJ Ear</li>
@@ -40,7 +40,7 @@ DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTA
 
 <div class="one_fourth">
 
-<h3>Friday</h3>
+<h3 class="textcenter">Friday</h3>
 <ul>
 <li><strong>10-11pm</strong> - EarVelvet</li>
 <li><strong>11pm-12am</strong> - AudioDile</li>
@@ -54,7 +54,7 @@ DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTA
 
 <div class="one_fourth">
 
-<h3>Saturday</h3>
+<h3 class="textcenter">Saturday</h3>
 <ul>
 <li><strong>10-11pm</strong> - Mathew Ebbel</li>
 <li><strong>11pm-12am</strong> - Akonite</li>
@@ -78,7 +78,7 @@ DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTA
 
 <div class="one_fourth">
 
-<h3>Sunday</h3>
+<h3 class="textcenter">Sunday</h3>
 
 <ul>
 <li><strong>8-9pm</strong> - Sparxx Traxx</li>
