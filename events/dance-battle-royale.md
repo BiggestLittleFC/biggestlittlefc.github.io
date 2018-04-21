@@ -4,30 +4,26 @@ status: LIVE
 layout: fullwidth
 ---
 
+
 <div class="one-full bg-one textcenter">
 <div class="page-wrapper">
+
 
 ## Dance Battle Royale Application
 
 [Sign up now][reglink]
 {: class="button"}
 
-</div>
-</div>
-
-
-
 {::comment}
-<div class="one-full bg-three hide">
-<div class="page-wrapper">
 
-## Location &amp; Times
+## Location &amp; Time
 
-TIMES TO GO HERE!
+**TBD**
 
-</div>
-</div>
 {:/comment}
+
+</div>
+</div>
 
 
 
