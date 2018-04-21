@@ -2,49 +2,82 @@
 title: Dances
 status: LIVE
 ---
-
+<div class="textcenter">
+{::comment}
 DJ Signups now available: <a class="button" href="https://goo.gl/forms/mtb3atMTAyPd9en13" target="_blank">Sign Up Now!</a>
+{/:comment}
 
-<a href="https://twitter.com/blfcdances" target="_blank">Dance Twitter</a>
+<a class="button"  href="https://twitter.com/blfcdances" target="_blank">Dance Twitter</a>
 
-### Thursday
+</div>
 
-- **9-10pm** - Bucker Fuskyote
-- **10-11pm** - DJ Ear
-- **11pm-12am** - Takum Fox
-- **12-1am** - Rotten Robbie
-- **1-2am** - Dune
-- **2-3am** - DJ Kota
+<div class="one_fourth">
 
-### Friday
+<h3>Thursday</h3>
+<ul>
+<li><strong>9-10pm</strong> - Bucker Fuskyote</li>
+<li><strong>10-11pm</strong> - DJ Ear</li>
+<li><strong>11pm-12am</strong> - Takum Fox</li>
+<li><strong>12-1am</strong> - Rotten Robbie</li>
+<li><strong>1-2am</strong> - Dune</li>
+<li><strong>2-3am</strong> - DJ Kota</li>
+</ul>
+</div>
 
-- **10-11pm** - EarVelvet
-- **11pm-12am** - AudioDile
-- **12-1am** - Recca
-- **1-2am** - TekFox
-- **2-3am** - Deke
 
-### Saturday
 
-- **10-11pm** - Mathew Ebbel
-- **11pm-12am** - Akonite
-- **12-1am** - Oddy
-- **1-2am** - Vander
-- **2-3am** - Darroh
-- **3-4am** - Dragonboy
+<div class="one_fourth">
 
-**Dance Till Dawn**
+<h3>Friday</h3>
+<ul>
+<li><strong>10-11pm</strong> - EarVelvet</li>
+<li><strong>11pm-12am</strong> - AudioDile</li>
+<li><strong>12-1am</strong> - Recca</li>
+<li><strong>1-2am</strong> - TekFox</li>
+<li><strong>2-3am</strong> - Deke</li>
+</ul>
+</div>
 
-- **4-5am** - Pora
-- **5-6am** - Nevin
-- **6-7am** - Alexi Husky
 
-### Sunday
 
-- **8-9pm** - Sparxx Traxx
-- **9-10pm** - DJ Spots
-- **10-11pm** - Addix
-- **11pm-12am** - Computation
-- **12-1am** - BARKSQUAD
-- **1-2am** - Vinny
-- **2-3am** - Kerberos
+<div class="one_fourth">
+
+<h3>Saturday</h3>
+<ul>
+<li><strong>10-11pm</strong> - Mathew Ebbel</li>
+<li><strong>11pm-12am</strong> - Akonite</li>
+<li><strong>12-1am</strong> - Oddy</li>
+<li><strong>1-2am</strong> - Vander</li>
+<li><strong>2-3am</strong> - Darroh</li>
+<li><strong>3-4am</strong> - Dragonboy</li>
+</ul>
+
+<p><strong>Dance Till Dawn</strong></p>
+
+<ul>
+<li><strong>4-5am</strong> - Pora</li>
+<li><strong>5-6am</strong> - Nevin</li>
+<li><strong>6-7am</strong> - Alexi Husky</li>
+</ul>
+
+</div>
+
+
+
+<div class="one_fourth">
+
+<h3>Sunday</h3>
+
+<ul>
+<li><strong>8-9pm</strong> - Sparxx Traxx</li>
+<li><strong>9-10pm</strong> - DJ Spots</li>
+<li><strong>10-11pm</strong> - Addix</li>
+<li><strong>11pm-12am</strong> - Computation</li>
+<li><strong>12-1am</strong> - BARKSQUAD</li>
+<li><strong>1-2am</strong> - Vinny</li>
+<li><strong>2-3am</strong> - Kerberos</li>
+</ul>
+
+</div>
+
+<div class="clear">
