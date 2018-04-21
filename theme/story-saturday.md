@@ -1282,19 +1282,16 @@ layout: empty
 <div class="dialogue">
 <h4>BAZ</h4>
 <p class="parenthetical">(singing)</p>
-<p>Hand me a pen.
-<br>
-I'm 'bout a thousand lines away,
-<br>
-from getting to bed, but I struggle to care.</p>
+<p>Hand me a pen.</p>
+<p>I'm 'bout a thousand lines away,</p>
+<p>from getting to bed, but I struggle to care.</p>
 </div>
 
 <div class="dialogue">
 <h4>DAUB</h4>
 <p class="parenthetical">(singing)</p>
-<p>Out from the dark, out of the corner of my eye,
-<br>
-I see the spark, that first got me to dare.</p>
+<p>Out from the dark, out of the corner of my eye,</p>
+<p>I see the spark, that first got me to dare.</p>
 </div>
 
 <div class="dialogue">
@@ -1308,9 +1305,8 @@ I see the spark, that first got me to dare.</p>
 <p class="parenthetical">(singing)</p>
 <p>Draw me into</p>
 <p class="parenthetical">(DAUB: Draw me into)</p>
-<p>what you've got going on.
-<br>
-Make me part of</p>
+<p>what you've got going on.</p>
+<p>Make me part of</p>
 <p class="parenthetical">(DAUB: Make me part of)</p>
 <p>every sketch till we hit dawn.</p>
 </div>
@@ -1318,9 +1314,8 @@ Make me part of</p>
 <div class="dialogue">
 <h4>BAZ AND DAUB</h4>
 <p class="parenthetical">(singing)</p>
-<p>I like money, but prefer your attention!
-<br>
-Draw me in. It's where I want to be drawn.</p>
+<p>I like money, but prefer your attention!</p>
+<p>Draw me in. It's where I want to be drawn.</p>
 </div>
 
 <p>The badge images fading in and out.</p>
@@ -1389,11 +1384,9 @@ Draw me in. It's where I want to be drawn.</p>
 <p class="parenthetical">(DAUB: Draw me into)</p>
 <p>What you've got going on. Make me part of,</p>
 <p class="parenthetical">(DAUB: Make me part of)</p>
-<p>Every sketch till we hit dawn!
-<br>
-I like money, but prefer your attention.
-<br>
-Draw me in. It's where I want to be drawn.</p>
+<p>Every sketch till we hit dawn!</p>
+<p>I like money, but prefer your attention.</p>
+<p>Draw me in. It's where I want to be drawn.</p>
 </div>
 
 <div class="dialogue">
@@ -1478,7 +1471,7 @@ Draw me in. It's where I want to be drawn.</p>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p><span class="italic">Well</span>...</p>
+<p>Well...</p>
 </div>
 
 <p>Piano bit ends. Sahny steps out of the bathroom, the body suit already on. They make their way across the room, to the bins, as they sing.</p>
@@ -1525,7 +1518,7 @@ Draw me in. It's where I want to be drawn.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(singing)</p>
-<p>I'm going alright! I'm going all night! I'm going all iiiiiin!</p>
+<p>I'm going alright! I'm going all night! I'm going all in!</p>
 </div>
 
 
@@ -1551,17 +1544,17 @@ Draw me in. It's where I want to be drawn.</p>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>... I don't remember. Let's go!</p>
+<p>I don't remember. Let's go!</p>
 </div>
 
 <div class="dialogue">
 <h4>THISTLE</h4>
-<p>Right behind ya! er... actually, you should probably follow me</p>
+<p>Right behind ya! er... actually, you should probably follow me.</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>Alright. Here. We. GO.</p>
+<p>Alright. Here. We. Go!</p>
 </div>
 
 <p>Sahny knocks three times, the door creaks open. Party noises can be heard inside the room.</p>
@@ -1593,7 +1586,7 @@ Draw me in. It's where I want to be drawn.</p>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>Good! Me too. In my pocket. Lemme just... get these on...</p>
+<p>Good! Me too. In my pocket. Lemme just ... get these on...</p>
 </div>
 
 <div class="dialogue">
