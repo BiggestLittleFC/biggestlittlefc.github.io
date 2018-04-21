@@ -1,5 +1,5 @@
 ---
-title: "One Weekend - Thursday"
+title: "One Weekend - Friday"
 status: LIVE
 layout: empty
 ---
