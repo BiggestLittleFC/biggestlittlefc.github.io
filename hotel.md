@@ -50,8 +50,9 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 - To book a suite, book by phone and give them our booking code. Suites in the Summit level are discounted 25%. Suites in the A Hotel are not discounted this year.
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
 - If you want to be on the [Hospitality Floor][hospitalityfloor], book a regular room when booking opens, and we will assign you to that floor in a separate process.
-- If you smoke, and can tolerate some noise from the [Hospitality Floor][hospitalityfloor]: get your reservation done as quick as you can, then edit your reservation to request a smoking floor. It helps us have less non-con guests on that floor.
-- The Hotel does not allow consumption of marijuana on-property, in hotel rooms, or even in your car in the parking lot. The Hotel does allow possession of up to one ounce, secured in your hotel room, if you are over 21 years old.
+- If you're willing to be really quiet, please apply for the [quiet floor][quietfloor].
+- If you smoke, and can tolerate some noise from the [Hospitality Floor][hospitalityfloor]: call the hotel and put in a request to be on the smoking floor.
+- While recreational marijuana is now legal in Nevada, the hotel does not allow consumption or possession of marijuana on-property, in hotel rooms, or even in your car in the parking lot.
 
 </div>
 </div>
@@ -146,3 +147,6 @@ Can I pre-pay for my room?
 
 [hospitalityfloor]: /hospitality-floor/
 {:title="Hospitality Floor"}
+
+[quietfloor]: https://docs.google.com/forms/d/e/1FAIpQLSfNRGJLLPr8x210h4XKj8UfgZOoDDm1kwy9_i8NcHxD4WwcDA/viewform
+{:title="Quiet Floor" target="_blank" rel="noopener noreferrer"}
