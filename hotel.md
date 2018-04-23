@@ -4,8 +4,8 @@ status: LIVE
 layout: fullwidth
 
 description: Book your room for BLFC at our host hotel, the Grand Sierra Resort. 
-#hotellink: "https://aws.passkey.com/event/49463635/owner/16854/home"
-hotellink: "https://goo.gl/tbuJFk"
+hotellink: "https://aws.passkey.com/event/49463635/owner/16854/home"
+#hotellink: "https://goo.gl/tbuJFk"
 #hotelbookcode: "RAARF8"
 hotelphone: "1-800-648-5080"
 prices:
@@ -38,21 +38,21 @@ The spacious <a href="http://www.grandsierraresort.com/" target="_blank">Grand S
 
 ## Book A Room
 
-The hotel booking link will appear below. Please don't mash the refresh button on your browser; we've tested the auto-refresh very thoroughly.
-For an even faster experience, use <a target="_blank" href="https://api.goblfc.org/hotel.php">this stripped-down page instead.</a>
+<!--The hotel booking link will appear below. Please don't mash the refresh button on your browser; we've tested the auto-refresh very thoroughly.
+For an even faster experience, use <a target="_blank" href="https://api.goblfc.org/hotel.php">this stripped-down page instead.</a>-->
 
 <iframe style="border:none;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>
 
-- **Tip: during the initial booking rush, book your room for just yourself, and after confirmation, edit it to add roommates.**
 - You will be charged a **deposit** for the first night when you book, which is **refunded** if you cancel the room later.
 - Your credit/debit card must have an expiration date AFTER the con.
 - To book by phone, call {{ page.hotelphone }} and use the booking code that reveals with the booking link above.
 - To book a suite, book by phone and give them our booking code. Suites in the Summit level are discounted 25%. Suites in the A Hotel are not discounted this year.
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
-- If you want to be on the [Hospitality Floor][hospitalityfloor], book a regular room when booking opens, and we will assign you to that floor in a separate process.
-- If you're willing to be really quiet, please apply for the [quiet floor][quietfloor].
-- If you smoke, and can tolerate some noise from the [Hospitality Floor][hospitalityfloor]: call the hotel and put in a request to be on the smoking floor.
-- While recreational marijuana is now legal in Nevada, the hotel does not allow consumption or possession of marijuana on-property, in hotel rooms, or even in your car in the parking lot.
+- If you want host a party on the [Hospitality Floor][hospitalityfloor], please use the [application form][partylink].
+- If you want to avoid elevators all weekend, please apply for the [noisy floor][noisyfloor]. Party hosts have priority there, but everyone is welcome. You must be willing to tolerate noise and never issue noise complaints.
+- If you want extra peace and quiet, please apply for the [quiet floor][quietfloor]. Volunteers have priority there, but anyone is welcome. This floor also offers a way to avoid elevators.
+- If you smoke, and can tolerate some noise bleed from the [Hospitality Floor][hospitalityfloor]: please call the hotel and put in a request to be on the smoking floor. Every person we can put on that floor lowers the chance of the hospitality floor being hit with noise complaints.
+- Recreational marijuana is now legal in Nevada, but the hotel does not allow consumption or possession of marijuana on-property, in hotel rooms, or even in your car in the parking lot.
 
 </div>
 </div>
@@ -63,7 +63,7 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 
 ## Room Types
 
-Rooms also require a daily $25 resort fee which pays for wireless internet, an airport shuttle (runs every half hour), parking, bottled water in your room (refreshed daily). The resort fee (plus tax) is charged separately when you check in.
+Rooms also require a daily $25 resort fee which pays for wireless internet, an airport shuttle (runs every half hour), parking, bottled water in your room (refreshed daily). The resort fee (plus tax) is charged separately when you check in. There is also a $1 per day housekeeping tip charged to your room, which you can optionally have turned off at check-in. If you want to leave a bigger tip, you may still leave cash tips in your room.
 
 ### The Summit at Grand Sierra
 
@@ -114,7 +114,13 @@ What is the Tourism Fee?
 : A fee mandated by the City of Reno for all hotels, instituted in 2015.
 
 Is there a 'party floor?'
-: The closest equivalent is the [Hospitality Floor][hospitalityfloor]. We will open applications for the [Hospitality Floor][hospitalityfloor] at a later date.
+: The closest equivalent is the [Hospitality Floor][hospitalityfloor]. Feel free to [apply][partylink]. 
+
+I hate elevators!
+: If you're willing to tolerate the noise of the noisy floor and not issue noise complaints, apply for the [noisy floor][noisyfloor]. 
+
+Is there a quiet floor?
+: Yes! [please apply][quietfloor]. Volunteers have priority there, but anyone is welcome. This floor also offers a way to avoid elevators.
 
 Check in/out times?
 : Check in after 3PM. Check out by 11AM.
@@ -133,7 +139,7 @@ What's the best way to bring in my luggage?
   Or, you can park in the front entrance, and leave it up to the valet parking and bellmen to move your car and luggage. Last we checked, there was no official fee for this service, but tips are expected.
 
 Can I pre-pay for my room?
-: Yes, just call the hotel with your confirmation number.
+: Yes, just call the hotel with your confirmation number. You'll need to get a form from them, and fax in a copy of your credit card and the completed form.
 
 </div>
 
@@ -144,9 +150,14 @@ Can I pre-pay for my room?
 [hotellink]: https://goo.gl/tbuJFk
 {:title="Book a Room" target="_blank" rel="noopener noreferrer"}
 
-
 [hospitalityfloor]: /hospitality-floor/
 {:title="Hospitality Floor"}
 
+[noisyfloor]: https://goo.gl/forms/2Xllq6AA6S4s4Wj62
+{:title="Noisy Floor" target="_blank" rel="noopener noreferrer"}
+
 [quietfloor]: https://docs.google.com/forms/d/e/1FAIpQLSfNRGJLLPr8x210h4XKj8UfgZOoDDm1kwy9_i8NcHxD4WwcDA/viewform
 {:title="Quiet Floor" target="_blank" rel="noopener noreferrer"}
+
+[partylink]: https://docs.google.com/forms/d/e/1FAIpQLSf-IkP8ppQ6SUE8I4-5IOUdbx1MGtYo-dq-ZQr5pEQUZQWP_A/viewform?usp=sf_link
+{:title="Sign up for the hospitality floor" target="_blank" rel="noopener noreferrer"}
