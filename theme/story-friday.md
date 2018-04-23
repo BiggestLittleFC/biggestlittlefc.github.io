@@ -12,8 +12,8 @@ layout: empty
 <div class="textright">
 <a href="/theme/story-00" class="button">Pre-Con Prologue</a>
 <a href="/theme/story-thursday" class="button">Thursday</a>
-<a href="#" class="button btn-disabled">Saturday <small>(coming soon)</small></a>
-<a href="#" class="button btn-disabled">Sunday <small>(coming soon)</small></a>
+<a href="/theme/story-saturday" class="button">Saturday</a>
+<a href="/theme/story-sunday" class="button">Sunday</a>
 <a class="button btn-disabled" href="#" target="_blank">Download Episode <small>(Coming Soon)</small></a>
 </div>
 

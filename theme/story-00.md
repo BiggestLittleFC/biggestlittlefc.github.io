@@ -9,9 +9,9 @@ layout: empty
 
 <div class="textright">
 <a href="/theme/story-thursday" class="button">Thursday</a>
-<a href="#" class="button btn-disabled">Friday <small>(coming soon)</small></a>
-<a href="#" class="button btn-disabled">Saturday <small>(coming soon)</small></a>
-<a href="#" class="button btn-disabled">Sunday <small>(coming soon)</small></a>
+<a href="/theme/story-friday" class="button">Friday</a>
+<a href="/theme/story-saturday" class="button">Saturday</a>
+<a href="/theme/story-sunday" class="button">Sunday</a>
 <a class="button" href="/theme/00-prologue-v2.pdf" target="_blank">Download Episode</a>
 </div>
 
