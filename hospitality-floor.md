@@ -180,4 +180,4 @@ Useful information
 
 
 [reglink]: https://docs.google.com/forms/d/e/1FAIpQLSf-IkP8ppQ6SUE8I4-5IOUdbx1MGtYo-dq-ZQr5pEQUZQWP_A/viewform?usp=sf_link
-{:title="Sign up for the battle royale!" target="_blank" rel="noopener noreferrer"}
+{:title="Sign up for the hospitality floor" target="_blank" rel="noopener noreferrer"}
