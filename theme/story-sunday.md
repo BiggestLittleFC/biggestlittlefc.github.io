@@ -17,6 +17,15 @@ layout: empty
 <a href="#" class="button btn-disabled" target="_blank">Download Episode <small>(Coming Soon)</small></a>
 </div>
 
+<div id="sidebar-nav">
+<a href="#scene1">INT. THE GUEST ROOM - DAY</a>
+<a href="#scene2">EXT. F.U.R.S. DRIVING RANGE - DAY</a>
+<a href="#scene3">INT. CHAIN-BRAND COFFEE SHOP - DAY</a>
+<a href="#scene4">INT. DEALER'S DEN - DAY</a>
+<a href="#scene5">EXT. F.U.R.S. GUEST DROP-OFF - DAY</a>
+<a href="#scene6">INT. CON MAIN STAGE - DAY</a>
+</div>
+
 <div id="script" class="us-letter dpi100">
 
 <div class="page title-page">
@@ -38,7 +47,7 @@ layout: empty
 
 
 
-
+<a name="scene1"></a>
 <h3>INT. THE GUEST ROOM - DAY</h3>
 
 <p>BATHROOM</p>
@@ -351,7 +360,7 @@ layout: empty
 <p>Daub exits.</p>
 
 
-
+<a name="scene2"></a>
 <h3>EXT. F.U.R.S. DRIVING RANGE - DAY</h3>
 
 <p>Thistle stands solemnly on a paved ledge overlooking the glittering pond below. In the distance, golfers drive balls into the water.</p>
@@ -521,7 +530,7 @@ layout: empty
 <p>Clover wraps an arm around Thistle as they turn to walk toward the hotel.</p>
 
 
-
+<a name="scene3"></a>
 <h3>INT. CHAIN-BRAND COFFEE SHOP - DAY</h3>
 
 <p>Sahny yawns waiting in line at "Rawrbucks", the generic chain-brand coffee shop. In front of them waits RILEY, a brown-eyed dingo, their golden yellow tail wagging in anticipation of caffeine. Upon making the order, hurried paws begin to pat down every pocket of their shorts.</p>
@@ -624,7 +633,7 @@ layout: empty
 </div>
 
 
-
+<a name="scene3"></a>
 <h3>INT. DEALER'S DEN - DAY</h3>
 
 <p>Baz sits at her table, her arm pinned under her head, her cheek smashed against her palm. She leans heavily on one side. Her eyes stare blankly with a half-lidded gaze.</p>
@@ -775,7 +784,7 @@ layout: empty
 <p>Daub dips his head. His shoulders droop and it almost appears like he shrinks a bit, giving the faintest impression of a smaller cat.</p>
 
 
-
+<a name="scene4"></a>
 <h3>EXT. F.U.R.S. GUEST DROP-OFF - DAY</h3>
 
 <p>Baz walks through the glass doors. She joins Clover, Thistle, and Sahny already outside, standing by a rideshare vehicle with the trunk open.</p>
@@ -873,7 +882,7 @@ layout: empty
 
 
 
-
+<a name="scene6"></a>
 <h3>INT. CON MAIN STAGE - DAY</h3>
 
 <p>Baz, Clover, and Sahny disappear in the crowd as they find some seats. Diego jumps onto the far side of the stage, and walks up to the curtain.</p>
