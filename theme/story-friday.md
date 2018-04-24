@@ -149,6 +149,7 @@ layout: empty
 <p>You got this!</p>
 </div>
 
+<a name="scene3"></a>
 
 <h3>MAIN STAGE</h3>
 
@@ -1233,6 +1234,7 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 
 <p>As Sahny emerges once more from the headless lounge their eyes fall on Keystone's entourage following with envy.</p>
 
+<a name="scene8-2"></a>
 <p>( MUSIC: "POWER" )</p>
 
 <div class="dialogue">
@@ -1740,7 +1742,7 @@ Power</p>
 
 
 
-<a name="scene11"></a>
+<a name="scene10"></a>
 <h3>INT. OUTSIDE F.U.R.S. THEATER - NIGHT</h3>
 
 <p>Baz and dauB exit the theater. Daub holds a huge bucket of popcorn. Baz walks beside him, clasping her muzzle.</p>
