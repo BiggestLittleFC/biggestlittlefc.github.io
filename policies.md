@@ -4,7 +4,7 @@ status: LIVE
 ---
 
 ## Rule Number 1
-Any action, behavior, or dress that causes significant interference with convention operations, significant discomfort to other attendees, or adversely affects the convention’s relationship with its guests, its venues, or the public is strictly forbidden and may result in revocation of your con badge.
+Any action, behavior, or dress that causes significant interference with convention operations, significant discomfort to other attendees, or adversely affects the convention’s relationship with its guests, its venues, or the public is strictly forbidden and may result in revocation of your con badge and expulsion from the property.
 
 ## No Masks on Casino Floor
 Do not wear anything that covers your face anywhere in the casino area, restaurants, or inside the spa-level shops. Casino security will quickly find you (there are cameras everywhere), and escort you away. They may also kick you out, and we won't even try to stop them. This rule only applies to the mask covering your face. You can “break the magic” and carry a mask through these areas, as long as your face is visible.
