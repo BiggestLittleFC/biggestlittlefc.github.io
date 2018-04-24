@@ -75,6 +75,4 @@ The Amtrak station is located in downtown Reno. Walk to the bus station (1 block
 
 ## International Travel
 
-The Reno/Tahoe airport does not typically accept international flights. If you're flying in from outside the United States, check on the price of flying into San Francisco (SFO) or Sacramento (SMF) and using Megabus.
-
-Also check if you know any friends who are driving in from bigger cities, and consider if it's cheaper to fly into their city and share the car trip with them. 
+The Reno/Tahoe airport does not typically accept international flights directly. You'll need to fly through a larger international airport first. Also check if you know any friends who are driving in from bigger cities with airport codes of LAX, SFO, LAS, or PHX, and consider if it's cheaper to fly into their city and share the car trip with them. 
