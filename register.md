@@ -131,6 +131,7 @@ Window across from Nevada Foyer
 Window across from Nevada Foyer
 
 <a href="../assets/img/Registration - friday.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - friday - small.jpg"></a>
+<a href="../assets/img/Registration - swag.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - swag - small.jpg"></a>
 
 <div class="clear"></div>
 </div>
