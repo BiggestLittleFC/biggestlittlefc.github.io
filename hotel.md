@@ -44,7 +44,8 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 <!--<iframe style="border:none;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>-->
 Our Hotel block is sold out! If you are still looking for a room and don't mind sharing it with someone, please consider using <a href="https://www.conroomies.com/convention/blfc2018">ConRoomies</a> to find some crash space.
 
-<b>- If you want host a party on the [Hospitality Floor][hospitalityfloor], please use the [application form][partylink].
+<b>
+- If you want host a party on the [Hospitality Floor][hospitalityfloor], please use the [application form][partylink].
 - If you want to avoid elevators all weekend, please apply for the [noisy floor][noisyfloor]. Party hosts have priority there, but everyone is welcome. You must be willing to tolerate noise and never issue noise complaints.</b>
 - You will be charged a **deposit** for the first night when you book, which is **refunded** if you cancel the room later.
 - Your credit/debit card must have an expiration date AFTER the con.
