@@ -12,6 +12,21 @@ jQuery(document).ready(function($) {
 		}
 	});
 
+// Sidebar nav
+	// for each link, determine position of id
+		// Get ids
+		// get body offsets
+		// assign to attr
+		// On browser resize, recalc offsets
+	// animate scroll to with offset 
+	// once scrolled to id, the link hovers
+$("#sidebar-nav a").click(function(e){
+	e.preventDefault();
+	var target = $("[name=" + this.href.split("#")[1] + "]").offset().top;
+	var headerOffset = 120;
+	$("body,html").animate({"scroll-top" : target - headerOffset}, 800);
+});
+
 // Scrolling functions
 	$(window).scroll(function(){
 

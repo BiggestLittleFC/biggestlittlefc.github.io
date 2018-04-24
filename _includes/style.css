@@ -219,7 +219,7 @@ p.button {
 	transition: all 0.25s ease-in-out 0s;
 	right: 0;
 }
-#sidebar-nav a:hover {
+#sidebar-nav a:hover, #sidebar-nav a.onscreen {
 	opacity: 1;
 	right: -10px;
 }
