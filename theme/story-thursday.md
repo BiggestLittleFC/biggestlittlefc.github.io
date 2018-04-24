@@ -17,6 +17,23 @@ layout: empty
 <a class="button btn-disabled" href="#" target="_blank">Download Episode <small>(Coming Soon)</small></a>
 </div>
 
+
+<div id="sidebar-nav">
+<a href="#scene1">MUSIC : "One Weekend Overture"</a>
+<a href="#scene2">INT. THISTLE'S APARTMENT - DAY</a>
+<a href="#scene3">INT. SAHNY'S APARTMENT – DAY</a>
+<a href="#scene4">INT. BAZ'S PLACE - DAY</a>
+<a href="#scene5">MUSIC : "One Weekend"</a>
+<a href="#scene6">EXT. BAZ'S PLACE - DAY</a>
+<a href="#scene7">INT. AIRPLANE #1 - DAY</a>
+<a href="#scene8">INT. F.U.R.S. - DAY</a>
+<a href="#scene9">INT. AIRPLANE #2 - DAY</a>
+<a href="#scene10">INT. GAS STATION - DAY</a>
+<a href="#scene11">MUSIC : "Reg Line"</a>
+<a href="#scene12">INT. THE GUEST ROOM - NIGHT</a>
+</div>
+
+
 <div id="script" class="us-letter dpi100">
 
 <div class="page title-page">
@@ -35,7 +52,7 @@ layout: empty
 <p>SUPERIMPOSE: "Thursday"</p>
 <p>FADE IN:</p>
 
-<h3>EXT. RENO, NEVADA ABOVE F.U.R.S. - DAY</h3>
+<h3 id="scene1">EXT. RENO, NEVADA ABOVE F.U.R.S. - DAY</h3>
 
 <p>A small SPARROW soars through clear blue skies. Wind rushes through its feathers. It glides over a small city surrounded by snow-capped indigo mountains. Its wings flutter and it dives into the valley.</p>
 
@@ -60,7 +77,7 @@ layout: empty
 
 <h2>FADE TO:</h2>
 
-<h3>INT. THISTLE'S APARTMENT - DAY</h3>
+<h3 id="scene2">INT. THISTLE'S APARTMENT - DAY</h3>
 
 <p>The title suspends in front of a white door inside a well-lit studio apartment which is highly maintained, if not for the mess of clothes strewn about the bed and floor. Carelessly the pile is settled next to a backpack and an overly-full wheeled suitcase. The logo fades away with the overture.</p>
 
@@ -93,7 +110,7 @@ layout: empty
 <p>Just fueling up. On my way to pick you up. Please be ready this time.</p>
 </div>
 
-<h3>INT. SAHNY'S APARTMENT – DAY</h3>
+<h3 id="scene3">INT. SAHNY'S APARTMENT – DAY</h3>
 
 <p>A young, brown-spotted hyena with bright-colored attire and the overall demeanor of an avid partier, SAHNY lounges on their couch. They review a mound of alcohols, fursuit props, and vibrant furry masses packed away in and around plastic storage bins. A phone nearby buzzes. Sahny reads over it and snickers. The hyena tips the bottom of their phone up to their mouth and speaks into it.</p>
 
@@ -131,7 +148,7 @@ cya at con, my luvies!
 
 <p>Their phone chimes.</p>
 
-<h3>INT. BAZ'S PLACE - DAY</h3>
+<h3 id="scene4">INT. BAZ'S PLACE - DAY</h3>
 
 <p>BAZ, a sergal with clothing as bold as her fur is gray, sits in a computer chair. She slurps from a noodle cup. Sahny's message is on the SocialCreature desktop app. She scoffs and types on her keyboard with one hand.</p>
 
@@ -153,7 +170,7 @@ I can't work for free... Give me da money, Sahny!</span>
 
 <p>Baz sets down the noodle cup. She places her hand to her brow, closes her eyes, leans back, and sighs.</p>
 
-<h3>INT. AIRPORT #1 - DAY</h3>
+<h3 id="scene5">INT. AIRPORT #1 - DAY</h3>
 
 <p>Thistle stands with his wheeled suitcase and backpack in front of gigantic windows overlooking an airport runway. A commercial aircraft rolls into a gate. Thistle reads over a boarding pass. He closes his eyes, takes a slow deep breath. The opening chords for "ONE WEEKEND" strum in. He sings and dances across the terminal.</p>
 
@@ -162,32 +179,21 @@ I can't work for free... Give me da money, Sahny!</span>
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(singing)</p>
-<p>Perhaps my expectations aren't realistic.
-<br>
-To think that any single conference could defy,
-<br>
-a trend a decade-long where I rot working retail.
-<br>
-And now I'm giving up before it all begins!
-<br>
-One weekend, where I can finally have a say.
-<br>
-One weekend, that lets me get out and away.
-<br>
-So as I clutch an airline ticket and a suitcase, say a prayer for my one weekend.
-<br>
-One, three-day weekend.
-<br>
-One weekend, all it takes to find and make the place you want to live in.
-<br>
-One weekend, time enough to find the stuff you're missing out on.
-<br>
-One weekend, every issue, every problem, every complication.
-<br>
-One weekend, give me just a few more days so I can get my.
-<br>
-One weekend. One weekend. One weekend!</p>
+<p>Perhaps my expectations aren't realistic.</p>
+<p>To think that any single conference could defy,</p>
+<p>a trend a decade-long where I rot working retail.</p>
+<p>And now I'm giving up before it all begins!</p>
+<p>One weekend, where I can finally have a say.</p>
+<p>One weekend, that lets me get out and away.</p>
+<p>So as I clutch an airline ticket and a suitcase, say a prayer for my one weekend.</p>
+<p>One, three-day weekend.</p>
+<p>One weekend, all it takes to find and make the place you want to live in.</p>
+<p>One weekend, time enough to find the stuff you're missing out on.</p>
+<p>One weekend, every issue, every problem, every complication.</p>
+<p>One weekend, give me just a few more days so I can get my.</p>
+<p>One weekend. One weekend. One weekend!</p>
 </div>
+
 <h3>INT. BAZ'S PLACE - DAY</h3>
 <p>Baz kicks away from her desk and spins in her chair as she opens with her lines. She continues dancing around her room on, around, and with her furniture.</p>
 
@@ -346,8 +352,10 @@ One weekend. This weekend!</p>
 <h4>SAHNY</h4>
 <p>Kidding!</p>
 </div>
+
 <p>Sahny gives a "what" gesture, shakes their head, and turns their attention back to their phone. Clover rolls his eyes, shifts his weight, and rests his head on his arm propped against the driver window.</p>
-<h3>EXT. BAZ'S PLACE - DAY</h3>
+
+<h3 id="scene6">EXT. BAZ'S PLACE - DAY</h3>
 
 <p>Clover's SUV rolls into the parking lot and parks next to Baz standing on the sidewalk with her backpack and messenger bag. Sahny opens the SUV door and hugs Baz.</p>
 
@@ -395,7 +403,7 @@ One weekend. This weekend!</p>
 
 <p>The SUV drives away.</p>
 
-<h3>INT. AIRPLANE #1 - DAY</h3>
+<h3 id="scene7">INT. AIRPLANE #1 - DAY</h3>
 
 <p>Thistle sits in a window seat of a plane. He buries his muzzle into the top of the backpack clutched tightly in his lap. He takes long, deep breaths. His eyes, extra wide and staring into the distance through the window. His ears flat against his head.</p>
 
@@ -578,7 +586,7 @@ One weekend. This weekend!</p>
 
 <h2>MATCH CUT TO:</h2>
 
-<h3>INT. F.U.R.S. - DAY</h3>
+<h3 id="scene8">INT. F.U.R.S. - DAY</h3>
 
 <p>KAREN, a well-dressed fox jogs up to Diego. The hyena runs his fingers nervously through his hair, power-walking through the pristine halls of the F.U.R.S. Karen struggles to keep up with his pace. She reads from a clipboard.</p>
 
@@ -646,7 +654,7 @@ One weekend. This weekend!</p>
 
 <h2>MATCH CUT TO:</h2>
 
-<h3>INT. AIRPLANE #2 - DAY</h3>
+<h3 id="scene9">INT. AIRPLANE #2 - DAY</h3>
 
 <p>Thistle rushes down another terminal corridor.</p>
 
@@ -687,7 +695,7 @@ One weekend. This weekend!</p>
 
 <p>Clover's notification sounds.</p>
 
-<h3>INT. GAS STATION - DAY</h3>
+<h3 id="scene10">INT. GAS STATION - DAY</h3>
 
 <p>Clover stands behind an old sheep lady in line, he carries a soda and sunflower seeds. He pulls the phone from his pocket and scans it. Sahny steps up behind him, carrying an aggressive energy drink and a cylinder of chips. Baz holds a large drink can of tea and a box of cookies. He turns to the two of them.</p>
 
@@ -987,18 +995,18 @@ One weekend. This weekend!</p>
 <h4>SAHNY</h4>
 <p>Yee.</p>
 </div>
+
 <p>Baz nods, then turns back to look out the window.</p>
 
-<p>( MUSIC : "REG LINE" )</p>
+<p id="scene11">( MUSIC : "REG LINE" )</p>
 
 <p>Several landscapes fade in and out as the SUV drives down the long stretch of road. The sun disappears and the sky fades to night. The guitar strums in for "REG LINE". Sahny turns around in the seat and grins at the fursuit head facing out the rear window. Baz yawns and stretches in her seat. Clover bobs his head to the music.</p>
 
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(singing)</p>
-<p>On the road, gonna beat the traffic.
-<br>
-There isn't much at 4 am.</p>
+<p>On the road, gonna beat the traffic.</p>
+<p>There isn't much at 4 am.</p>
 </div>
 
 <div class="dialogue">
@@ -1010,11 +1018,9 @@ There isn't much at 4 am.</p>
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(singing, blissful)</p>
-<p>In the back you can see "the magic",
-<br>
-Mesh eyes starin' back towards home.
-<br>
-800 miles can't be that far.</p>
+<p>In the back you can see "the magic",</p>
+<p>Mesh eyes starin' back towards home.</p>
+<p>800 miles can't be that far.</p>
 </div>
 
 <div class="dialogue">
@@ -1350,7 +1356,7 @@ Reg Line!</p>
 <p>Alright, alright. It sounds like a busy day planned. Let's check in and head up to the room. See what the others are up to.</p>
 </div>
 
-<h3>INT. THE GUEST ROOM - NIGHT</h3>
+<h3 id="scene12">INT. THE GUEST ROOM - NIGHT</h3>
 
 <p>A modern design decorates a double queen hotel guest room. Through the window, the technicolor downtown Reno skyline gleams against the silhouette of the mountain in the distance. Baz draws at a small table in the corner. She doesn't notice as Clover and Thistle walk into the room.</p>
 
