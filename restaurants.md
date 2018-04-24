@@ -1,9 +1,12 @@
 ---
 title: Restaurants
-status: LIVEx
+status: LIVE
 ---
 
 {::options parse_block_html="true" /}
+<div id="con-space-food">
+  If you want quick food and want to stay close to the action, there are several snack carts inside con space that serve half-priced food to anyone with a con badge! For a more traditional sit-down meal, see the restaurant options below.
+</div>
 
 <div id="restaurant-cards">
 
@@ -29,8 +32,8 @@ status: LIVEx
 <strong>Yogurt Beach</strong> - <em>Frozen Yogurt with 100+ toppings</em>
 <ul>
 <li>THU: 11AM - 9:30PM</li>
-<li>FRI: 11AM - 10:30PM</li>
-<li>SAT: 11AM - 10:30PM</li>
+<li>FRI: 11AM - 11PM</li>
+<li>SAT: 11AM - 11PM</li>
 <li>SUN: 11AM - 9:30PM</li>
 </ul>
 </a>
@@ -102,7 +105,7 @@ status: LIVEx
 </ul>
 </a>
 
-
+<!--
 <a href="https://www.grandsierraresort.com/dining-and-lounges/briscola" target="_blank" title="Briscola" style="background-image:url(/wp-content/uploads/Delicious-meal-served-in-Briscola-at-Grand-Sierra-Resort_640x360.jpg);">
 <strong>Briscola</strong> - <em>Italian Fusion, Lighter Portions</em>
 <ul>
@@ -112,7 +115,7 @@ status: LIVEx
 <li>SUN: CLOSED</li>
 </ul>
 </a>
-
+-->
 
 
 <a href="https://www.grandsierraresort.com/dining-and-lounges/rim" target="_blank" title="Rim" style="background-image:url(https://www.grandsierraresort.com/images/Grand-Sierra-Resort_Asian-Restaurant-sushi_Rim_640x360.jpg);">
