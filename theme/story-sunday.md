@@ -894,7 +894,7 @@ layout: empty
 
 <div class="dialogue">
 <h4>KAREN</h4>
-<p>Diego! Diego! There you are! I have a laptop set up for you if you wanna write up your speech or at least bullet points you wish to cover. I think that's all you have time for at this point. It's right over h-</p>
+<p>Diego! Diego! There you are! I have a laptop set up for you if you wanna write up your speech or at least bullet points you wish to cover. I think that's all you have time for at this point. It's right over h--</p>
 </div>
 
 <p>Karen turns to direct the hyena to the laptop when a paw calmly touches her back, patting it.</p>
