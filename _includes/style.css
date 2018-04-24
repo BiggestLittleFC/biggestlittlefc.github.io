@@ -193,10 +193,19 @@ p.button {
 #sidebar-nav {
 	position: fixed;
 	z-index: 1;
-	left: 40px;
+	left: -20%;
 	top: 150px;
+	transition: all 0.5s ease-in-out 0s;
+	background-color: rgba(173, 77, 183, 0.31);
+	padding: 10px;
+	text-align: right;
+}
+#sidebar-nav::before {
+	content: 'Page Nav';
+	display: block;
 }
 #sidebar-nav a {
+	position: relative;
 	display: block;
 	font-size: 15px;
 	padding: 5px 15px 5px 30px;
@@ -208,7 +217,7 @@ p.button {
 }
 #sidebar-nav a:hover {
 	opacity: 1;
-	margin-left: 10px
+	right: -10px;
 }
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
