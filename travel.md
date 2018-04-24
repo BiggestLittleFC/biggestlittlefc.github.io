@@ -2,6 +2,8 @@
 title: Getting Here
 status: LIVE
 ---
+<div class="one-full bg-one">
+<div class="page-wrapper">
 We are located at the Grand Sierra Resort in Reno, Nevada.
 
 2500 East 2nd Street
@@ -38,7 +40,11 @@ Reno, NV 89595
  - Take exit 66 for Mill St.
  - Turn left on Mill St.
  - Take the next legal left turn into our South entrance.
+</div>
+</div>
 
+<div class="one-full bg-one">
+<div class="page-wrapper">
 ### Parking
 
 Tons of free parking is available around the Grand Sierra.
@@ -76,3 +82,6 @@ The Amtrak station is located in downtown Reno. Walk to the bus station (1 block
 ## International Travel
 
 The Reno/Tahoe airport does not typically accept international flights directly. You'll need to fly through a larger international airport first. Also check if you know any friends who are driving in from bigger cities with airport codes of LAX, SFO, LAS, or PHX, and consider if it's cheaper to fly into their city and share the car trip with them. 
+
+</div>
+</div>
