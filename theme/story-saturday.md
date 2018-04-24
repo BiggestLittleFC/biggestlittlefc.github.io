@@ -17,6 +17,20 @@ layout: empty
 <a class="button btn-disabled" href="#" target="_blank">Download Episode <small>(Coming Soon)</small></a>
 </div>
 
+
+<div id="sidebar-nav">
+<a href="#scene1">INT. THE GUEST ROOM - DAY</a>
+<a href="#scene2">INT. DEALER'S DEN - DAY</a>
+<a href="#scene3">INT. THE GUEST ROOM - NIGHT</a>
+<a href="#scene4">INT. NOISY BLOCK - NIGHT</a>
+<a href="#scene5">MUSIC: "Realization"</a>
+<a href="#scene6">EXT. SAFE HAVEN ZOO - NIGHT</a>
+<a href="#scene6-2">MUSIC : "Draw me in"</a>
+<a href="#scene7">MUSIC : "Going All In"</a>
+<a href="#scene8">INT. F.U.R.S HOTEL HALLWAY - NIGHT</a>
+<a href="#scene9">EXT. F.U.R.S. ROOF - NIGHT</a>
+</div>
+
 <div id="script" class="us-letter dpi100">
 
 <div class="page title-page">
@@ -37,7 +51,7 @@ layout: empty
 <p>FADE IN:</p>
 
 
-
+<a name="scene1"></a>
 <h3>INT. THE GUEST ROOM - DAY</h3>
 
 <p>Baz is asleep at the table in the corner. Her face pressed against her sketchbook and legs crossed under her. The pencil resting in her palm rolls out of her loose grasp and clatters against the table. She jerks awake and lifts her groggy head, the fur on her cheek is disheveled. She stretches with a light groan.</p>
@@ -359,7 +373,7 @@ layout: empty
 </div>
 
 
-
+<a name="scene2"></a>
 <h3>INT. DEALER'S DEN - DAY</h3>
 
 <p>Baz doodles at her table in the busy dealer's den. JOUDI, an individual approaches the table, but this doesn't slow Baz's drawing. They scan through the badges hanging from the commission board. They pick out one.</p>
@@ -665,7 +679,7 @@ layout: empty
 <p>Baz and dauB look at each other, completely befuddled. DauB raises up a finger to point in the direction of the sign. Chester turns around and walks in the way they pointed, rather than the direction the sign points.</p>
 
 
-
+<a name="scene3"></a>
 <h3>INT. THE GUEST ROOM - NIGHT</h3>
 
 <p>Clover and Thistle walk through the guest room door. Clover carries a retail bag. Sahny rushes up to Clover.</p>
@@ -677,7 +691,7 @@ layout: empty
 
 <div class="dialogue">
 <h4>CLOVER</h4>
-<p>Ah..sh-- that's right.</p>
+<p>Ah, sh-- that's right.</p>
 </div>
 
 <div class="dialogue">
@@ -787,7 +801,7 @@ layout: empty
 </div>
 
 
-
+<a name="scene4"></a>
 <h3>INT. NOISY BLOCK - NIGHT</h3>
 
 
@@ -909,7 +923,7 @@ layout: empty
 
 
 
-
+<a name="scene5"></a>
 <h3>EXT. F.U.R.S. ROOF - NIGHT</h3>
 
 <p>The roof door swings open, Thistle rushes out to the edge of the rooftop, as the beginning piano chords of "Realization" echo in the open air. His eyes water as he looks out on the flickering orange lights of the cityscape beneath the silhouette of the mountains against the blue, moonlit night.</p>
@@ -1107,7 +1121,7 @@ layout: empty
 <p>They walk towards the entrance.</p>
 
 
-
+<a name="scene6"></a>
 <h3>EXT. SAFE HAVEN ZOO - NIGHT</h3>
 
 <p>Warm lamplight glows on the path that Baz and dauB walk on. All around them are trees in between animal cages. They are in the midst of conversation that seems more interesting to them than the animals around. Baz carries her messenger bag and dauB clutches his sketchbook.</p>
@@ -1276,7 +1290,7 @@ layout: empty
 <p class="parenthetical">(coughs)</p>
 <p>Okay, I can't do that voice. I sketched these during our dinner, can you ink these? I'll help.</p>
 </div>
-
+<a name="scene6-2"></a>
 <p>Daub smirks at her impression, and graciously accepts the badge sketches with both hands. He dips a pen into an ink jar. He places the pen to the paper and draws out a confident stroke on top of a sketch easily recognizable in Baz's style.</p>
 
 <p>( MUSIC: "DRAW ME IN" )</p>
@@ -1440,7 +1454,7 @@ layout: empty
 </div>
 
 
-
+<a name="scene7"></a>
 <h3>INT. THE GUEST ROOM - NIGHT</h3>
 
 <p>Decked in a black spandex suit, Sahny kneels next to an opened plastic bin in the guest room. They pull out a plush, purple, deer fursuit. A balaclava wrapping around their face.</p>
@@ -1453,7 +1467,7 @@ layout: empty
 
 <div class="dialogue">
 <h4>SAHNY</h4>
-<p>Oh my <span class="italic">god</span>, I'm so ready!</p>
+<p>Oh my god, I'm so ready!</p>
 </div>
 
 <div class="dialogue">
@@ -1721,7 +1735,7 @@ layout: empty
 <p>( END: "I'M GOING ALL IN" )</p>
 
 
-
+<a name="scene8"></a>
 <h3>INT. F.U.R.S HOTEL HALLWAY - NIGHT</h3>
 
 <p>Clover holds his phone at eye level, tilting it as if to catch some indoor rain. Diego hastily walks around the corner. He slides behind the bear as Clover spins in place, still holding his phone out. He doubletakes as he sees Diego out of the corner of his eye.</p>
@@ -1878,8 +1892,7 @@ layout: empty
 
 <p>Diego jiggles the handle, the door creaks open. Pushing on the door, Diego peaks around the door. Then walks through, followed by Clover.</p>
 
-
-
+<a name="scene1"></a>
 <h3>EXT. F.U.R.S. ROOF - NIGHT</h3>
 
 <p>Diego does a half-hearted search of the surrounding rooftop and behind obvious hiding spots.</p>
