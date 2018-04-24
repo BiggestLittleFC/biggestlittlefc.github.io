@@ -2,6 +2,87 @@
 title: Policies
 status: LIVE
 ---
+
+## Rule Number 1
+Any action, behavior, or dress that causes significant interference with convention operations, significant discomfort to other attendees, or adversely affects the convention’s relationship with its guests, its venues, or the public is strictly forbidden and may result in revocation of your con badge.
+
+## No Masks on Casino Floor
+Do not wear anything that covers your face anywhere in the casino area, restaurants, or inside the spa-level shops. Casino security will quickly find you (there are cameras everywhere), and escort you away. They may also kick you out, and we won't even try to stop them. This rule only applies to the mask covering your face. You can “break the magic” and carry a mask through these areas, as long as your face is visible.
+Con space, hallways, hotel rooms, movie theater, go-karts, and mini-golf are all fursuit-friendly.
+
+## Casino
+This convention takes place inside a casino hotel.
+If you are 21 or older, you are welcome to gamble in the casino any time you like.
+If you are under 21, you may pass through the casino to go elsewhere, like restaurants, but you cannot stop and you cannot sit at any gambling tables or machines.
+Our convention space is not in the casino area and welcomes all ages. Attendees may not gamble anywhere but in licensed casino areas.
+
+## Alcohol and Drugs
+Smoking and vaping are not allowed anywhere in or around con space. You may smoke or vape nicotine products in designated areas of the casino floor or bars. Alcohol is allowed in con space, if bought from bars in the hotel.
+Recreational marijuana is legal in Nevada, but per hotel policy, it is not permitted anywhere inside or outside the building, including the parking lot.
+Never allow anyone under 21 access to alcohol or marijuana. Please drink responsibly, and remember our climate will dehydrate you fast. Babysitting someone who has had too much is a huge drag for everyone. Please drive sober.
+Other drugs are illegal. We will call police if you posses or sell any illegal drugs.
+
+## Medical Emergencies
+If you are aware of a life-threatening emergency, immediately call 2-911 on any house phone or hotel room phone. If the emergency is a drug overdose, even your own, **immediately seek help**. Good Samaritan laws protect you from prosecution (see NRS chapter 453C).
+
+## Minors
+To get their badge, anyone who is 16 or 17 years old must have a signed and notarized parental permission form. (If your parent can accompany you to registration to sign the form in person, no notary is required.) Anyone younger than 16 **must always be accompanied by a parent or guardian**. The guardian must buy a badge, but the badges for under 16 years old are free.
+Minors are never permitted to enter areas designated for mature audiences.
+
+## Harassment
+Threats, harassment, and stalking will never be tolerated, and are grounds for immediate revocation of badge and expulsion from the property. If you are ever feeling threatened or harassed, clearly tell them to stop, and go to FLARE base to report the behavior. Also remember that costumes, no matter how they appear, do not indicate any kind of consent. 
+
+## General Conduct
+Obey all laws. **If it's not legal outside the con, it's not legal inside the con either.**
+Be nice to each other. If you don’t have something nice to say, keep your comments to yourself.
+Please don't block any doors. If you're in a line that forms in front of a door, please leave space in front of the door. Please don't block pathways, high-traffic areas, and elevators; step to the side. Please don’t sit on the floor in hallways. Please don’t congregate around elevators unless you are waiting for them.
+Do not display, draw conspicuously, or otherwise show any explicit artwork.
+Please consider the safety of yourself and others; don't throw things, don't tackle people from behind, etc. Remember that fursuiters have very limited visibility, and they may not see you even if they appear to be looking right at you.
+
+## Dress Code
+Since we share the hotel with other guests, please keep your clothing reasonably inoffensive. The con space is more forgiving than public areas, so to avoid disturbing other hotel guests, please cover up adult-charged clothing while traveling from your hotel room to the con space. Additionally, wearing of racist or hateful symbols such as armbands constitutes harassment and will not be allowed; you will be asked to put such items away.
+
+## We’re Not Alone…
+Remember there are other guests in the hotel who are not here for the con. **Please** remember that your behavior and appearance will be their first impression of the furry fandom. Respect their personal space; don't approach them unless they invite you for a picture/hug/etc. Fursuiters: go out with a handler until you have assessed the crowds.
+
+## Sales, Flyers, and Solicitation
+**Do not place flyers, signs, or business cards in any public spaces,** such as tables, bars, and hallways. Flyers must be placed inside our convention space. We will throw away any postings outside those areas or any postings that are offensive, inappropriate or pornographic. You may hang flyers or signs on walls only inside con space, and only with blue painter’s tape.
+Only authorized dealers and artists with temporary business licenses issued by the con may sell things. Nobody may sell raffle or drawing tickets.
+We cannot allow handheld signs advertising anything in exchange for anything else. Signs offering free things are okay.
+
+## Hotel
+Remember that we are guests of the hotel, and must follow hotel policies as well as ours. We’re really proud of how respectful all our attendees are of the property and the employees; they love having us there every year. Let’s keep it that way! If you see trash, take a second to pick it up. Please leave good tips if you can afford it. Remember to tip housekeeping too!
+
+## Costume Props
+**Absolutely no guns of any kind.** No nerf guns, no water guns, no obviously-neon-colored guns, and definitely no real guns. Nothing with a sharp edge or point is permitted. Other props may be permitted with permission from con ops or FLARE, but still must be shown to them before you use them as a prop. Contact staff if you have any doubts.
+
+## Music
+Portable speakers must be turned off in areas where other people can’t walk away from your speakers, such as inside elevators, waiting in any line, in the dealers den, near any stage, or in a panel room. In areas where people can walk away from you, your music must always be quiet enough to talk over without raising your voice (recommended: 60dB at 2 inches). Live musicians may only play in the same areas where portable speakers may be used, and may not obstruct walkways or disrupt any scheduled event, and also must be quiet enough to talk over. Musicians may not play with their case open to ask for money.
+
+## Photography and Audiovisual Recording
+By attending BLFC, you are authorizing our staff members to take your picture in the convention area for promotional use only. We will always try to ask first, but you might still be in the background of something. If you find yourself in one of our promotional pictures and want to be removed, ask and we will be happy to blur you out or use a different picture. You have no claim or ownership over any pictures taken by a con staff member for promotional use. The convention will never sell these pictures or give them to any media entity for non-promotional purposes.
+Anyone is welcome to take photos and video for personal and non-commercial uses. Please make your best effort to not photograph or video people who don’t want to be filmed. Always ask the main subject if a photo is okay, and be willing to blur or remove background people if they ask you to.
+Cameras are forbidden in some areas of the con, such as the Fursuit Lounge and the Art Gallery.
+If you see anyone you suspect is taking photos or video for commercial purposes (such as news articles), please report the photographer to con ops.
+Also note: per hotel policy, photos and video are not permitted on the casino floor. 
+
+## Hygiene
+Convention attendees deserve reasonable air quality. Staff reserve the right to ask you to leave con space if you are the source of a noticeable smell (except those caused by medical issues).
+
+## Staff Complaints
+If there is a staff member being rude or inappropriate, **please report it** at the volunteer desk or con ops. Especially in the stress of a convention, sometimes volunteers don’t realize they’re misbehaving. Sometimes the department heads don't see a volunteer's action. We need to know; please try to get a name. We will make every effort to remedy the situation.
+
+## Liability Waiver
+BLFC staff will make every effort to maintain a safe environment for our attendees. However, it’s impossible to anticipate every possible source of injury or accident. By attending the con, you agree to indemnify and hold harmless the con and its staff of and from any and all claims, demands, actions, causes of action, losses, damages, lawsuits, including reasonable attorneys’ fees and court costs, but only to the extent caused by, related to, or arising out of the work performed by the con. BLFC’s liability is limited to the cost of attendance.
+
+## Policy Revisions
+We reserve the right to make adjustments or additions to these policies at any time, and you are always responsible for adhering to the current version of these policies. If any major policy changes are made, we will make every effort to announce the changes.
+
+## Please Report it to Us, not Twitter
+If you see someone violating these policies or engaging in illegal activities, please immediately report it to the nearest staff member you can find, or report it using the phone numbers on the back of your badge. Posting pictures of it on social media is much less helpful than reporting it.
+
+<!--
+
 <div id="policies-accordion" class="accordion-list">
 
 Fursuit Heads and Masks *HEY! THIS IS IMPORTANT!*
@@ -170,3 +251,4 @@ Liability Waiver *You get hurt, it's not our fault.*
 
 
 </div>
+-->
