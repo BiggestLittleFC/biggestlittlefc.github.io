@@ -44,13 +44,13 @@ For an even faster experience, use <a target="_blank" href="https://api.goblfc.o
 <!--<iframe style="border:none;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>-->
 Our Hotel block is sold out! If you are still looking for a room and don't mind sharing it with someone, please consider using <a href="https://www.conroomies.com/convention/blfc2018">ConRoomies</a> to find some crash space.
 
+*- If you want host a party on the [Hospitality Floor][hospitalityfloor], please use the [application form][partylink].
+- If you want to avoid elevators all weekend, please apply for the [noisy floor][noisyfloor]. Party hosts have priority there, but everyone is welcome. You must be willing to tolerate noise and never issue noise complaints.*
 - You will be charged a **deposit** for the first night when you book, which is **refunded** if you cancel the room later.
 - Your credit/debit card must have an expiration date AFTER the con.
 - To book by phone, call {{ page.hotelphone }} and use the booking code that reveals with the booking link above.
 - To book a suite, book by phone and give them our booking code. Suites in the Summit level are discounted 25%. Suites in the A Hotel are not discounted this year.
 - If you want a suite, book a regular room first during the initial rush, then call to have them convert it to a suite. That way you still have something if the suites are full.
-- If you want host a party on the [Hospitality Floor][hospitalityfloor], please use the [application form][partylink].
-- If you want to avoid elevators all weekend, please apply for the [noisy floor][noisyfloor]. Party hosts have priority there, but everyone is welcome. You must be willing to tolerate noise and never issue noise complaints.
 - If you want extra peace and quiet, please apply for the [quiet floor][quietfloor]. Volunteers have priority there, but anyone is welcome. This floor also offers a way to avoid elevators.
 - If you smoke, and can tolerate some noise bleed from the [Hospitality Floor][hospitalityfloor]: please call the hotel and put in a request to be on the smoking floor. Every person we can put on that floor lowers the chance of the hospitality floor being hit with noise complaints.
 - Recreational marijuana is now legal in Nevada, but the hotel does not allow consumption or possession of marijuana on-property, in hotel rooms, or even in your car in the parking lot.
