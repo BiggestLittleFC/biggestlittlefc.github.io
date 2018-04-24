@@ -28,6 +28,9 @@
 
 	#template-empty {padding-top: 110px;}
 	#titlecard h1 {font-size: 40px;}
+	#sidebar-nav {
+		right: -330px;
+	}
 } 
 
 @media all and (max-width: 480px)  {

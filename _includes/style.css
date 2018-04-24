@@ -193,31 +193,31 @@ p.button {
 #sidebar-nav {
 	position: fixed;
 	z-index: 1;
-	left: -20%;
-	left: calc( -20% + 180px );
-	top: 150px;
+	right: -260px;
+	top: 100px;
 	transition: all .5s ease-in-out 0s;
 	background-color: rgba(173,77,183,.31);
 	padding: 10px;
-	text-align: right;
+	width: 360px;
 }
-#sidebar-nav:hover {
-	left: 0px;
+#sidebar-nav:hover, #sidebar-nav:active {
+	right: 0;
 }
 #sidebar-nav::before {
-	content: 'Page Nav';
+	content: 'PAGE NAVIGATION';
 	display: block;
 }
 #sidebar-nav a {
 	position: relative;
 	display: block;
 	font-size: 15px;
-	padding: 5px 15px 5px 30px;
+	padding: 5px 20px 5px 15px;
 	margin: 5px 0;
 	background-color: #000;
 	color: #fff;
 	opacity: 0.6;
-	transition: all 0.75s ease-in-out 0s;
+	transition: all 0.25s ease-in-out 0s;
+	right: 0;
 }
 #sidebar-nav a:hover {
 	opacity: 1;
