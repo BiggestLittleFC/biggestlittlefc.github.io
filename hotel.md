@@ -41,7 +41,8 @@ The spacious <a href="http://www.grandsierraresort.com/" target="_blank">Grand S
 <!--The hotel booking link will appear below. Please don't mash the refresh button on your browser; we've tested the auto-refresh very thoroughly.
 For an even faster experience, use <a target="_blank" href="https://api.goblfc.org/hotel.php">this stripped-down page instead.</a>-->
 
-<iframe style="border:none;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>
+<!--<iframe style="border:none;width:100%;" src="https://api.goblfc.org/hotel.php?iframe=true"></iframe>-->
+Our Hotel block is sold out! If you are still looking for a room and don't mind sharing it with someone, please consider using <a href="https://www.conroomies.com/convention/blfc2018">ConRoomies</a> to find some crash space.
 
 - You will be charged a **deposit** for the first night when you book, which is **refunded** if you cancel the room later.
 - Your credit/debit card must have an expiration date AFTER the con.
