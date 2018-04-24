@@ -5,7 +5,7 @@ status: LIVE
 
 {::options parse_block_html="true" /}
 <div id="con-space-food">
-  If you want quick food and want to stay close to the action, there are several snack carts inside con space that serve half-priced food to anyone with a con badge! For a more traditional sit-down meal, see the restaurant options below.
+  For a quick bite where you can stay close to the action, there are several snack carts inside con space. All food sold inside the con space is **half price** with a con badge! For a more traditional sit-down meal with your friends, see the restaurant options below.
 </div>
 
 <div id="restaurant-cards">
@@ -60,10 +60,10 @@ status: LIVE
 <a href="https://www.grandsierraresort.com/dining-and-lounges/cantina" target="_blank" title="Cantina" style="background-image:url(https://www.grandsierraresort.com/images/Grand-Sierra-Resort_Cantina_Mexican-Restaurant_Entrance_640x360.jpg);">
 <strong>Cantina</strong> - <em>Mexican, Tequila Bar</em>
 <ul>
-<li>THU: 5PM - 9:30PM</li>
+<li>THU: 5PM - 10PM</li>
 <li>FRI: 5PM - MIDNIGHT</li>
-<li>SAT: 5PM - MIDNIGHT</li>
-<li>SUN: 11:30AM - 9PM</li>
+<li>SAT: 11:30AM - MIDNIGHT</li>
+<li>SUN: 11:30AM - 10PM</li>
 </ul>
 </a>
 
