@@ -39,12 +39,11 @@ status: LIVE
 </a>
 
 
-<a href="https://www.grandsierraresort.com/retail-shopping/grand-sweets-and-treats" target="_blank" title="Grand Sweets and Treats" style="background-image:url(https://www.goblfc.org/wp-content/uploads/grand-sweet-and-treats.jpg);">
-<strong>Grand Sweets and Treats</strong> - <em>CANDY CANDY CANDY</em>
+<a href="https://www.grandsierraresort.com/retail-shopping/grand-sweets-and-treats" target="_blank" title="Grand Sweets and Treats">
+<strong>Grand Sweets and Treats</strong> - <em>CANDY CANDY CANDY</em></a>
 <ul>
 <li>Daily:  10am - 10pm</li>
 </ul>
-</a>
 
 <a href="https://www.grandsierraresort.com/dining-and-lounges/port-of-subs" target="_blank" title="Port of Subs" style="background-image:url(https://www.grandsierraresort.com/images/Port_of_Subs_640x360.jpg);">
 <strong>Port of Subs</strong> - <em>Sandwiches</em>
