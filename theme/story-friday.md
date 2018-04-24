@@ -51,8 +51,8 @@ layout: empty
 <p>SUPERIMPOSE: "Friday"</p>
 <p>FADE IN:</p>
 
-
-<h3 id="scene1">INT. THE GUEST ROOM - DAY</h3>
+<a name="scene1"></a>
+<h3>INT. THE GUEST ROOM - DAY</h3>
 
 <p>Daylight pours in around the cracked curtains. There's a mess of bedsheets in an empty bed by the window. On the other bed with Thistle's footpaw sticks out of a twisted wreck of pillows and bedding. Thistle groans while stirring awake. His arm stretches out of the blanket heap with a muffled yawn. He pauses. Then, with flailing kicks he rushes upright. Grabs the clock that flashes "12:25".  His face fills with panic.</p>
 
@@ -126,8 +126,8 @@ layout: empty
 <p>Thistle sniffs the air as Clover presents a nondescript, take-out box and places another "Good Boix" shirt on top of it. Thistle accepts it, wagging his tail.</p>
 
 
-
-<h3 id="scene2">INT. CON SPACE - DAY</h3>
+<a name="scene2"></a>
+<h3>INT. CON SPACE - DAY</h3>
 
 <h3>HALLWAY</h3>
 
@@ -426,8 +426,8 @@ layout: empty
 <p>Clover chuckles. They both turn and push through the crowd.</p>
 
 
-
-<h3 id="scene4">INT. RANDOM HOTEL ROOM - DAY</h3>
+<a name="scene4"></a>
+<h3>INT. RANDOM HOTEL ROOM - DAY</h3>
 
 <p>A hotel room, similar to the Guest Room. The furniture is pushed against the walls or upturned. The bedding spread all around. Empty glass bottles of various shapes and labels spread on the floor. Through the curtains, a stream of daylight flows in.</p>
 
@@ -560,8 +560,8 @@ layout: empty
 
 
 
-
-<h3 id="scene5">INT. DEALER'S DEN - DAY</h3>
+<a name="scene5"></a>
+<h3>INT. DEALER'S DEN - DAY</h3>
 
 <p>The room is filled with rows of tables, side by side, lined with various hand-crafted swag and art pieces. Crowds walk along one side of the tables. On the other side, merchants stand to pitch their products or sit behind frames crowded with items, quietly sketching.</p>
 
@@ -718,8 +718,8 @@ layout: empty
 
 
 
-
-<h3 id="scene6">DEALER'S DEN - EARLIER</h3>
+<a name="scene6"></a>
+<h3>DEALER'S DEN - EARLIER</h3>
 
 <p>Baz hurries along the crowd with a chain-brand coffee cup in hand as her messenger bag sways in her hustle. She looks up and stops abruptly.</p>
 
@@ -1017,8 +1017,8 @@ layout: empty
 
 
 
-
-<h3 id="scene7">INT. SECOND STAGE - NIGHT</h3>
+<a name="scene7"></a>
+<h3>INT. SECOND STAGE - NIGHT</h3>
 
 <p>Gathered around a well-lit stage are several groups of suiters and attendees, hundreds of eyes glued in anticipation of the competition as it unfolds. A fox suiter finishes his set, and standing before them now is the champion from the previous years. SLEDGE is an Ocelot of varying shades of pink with onyx markings, his eyes in and out of suit are a unique shade of ice blue. The crowd goes absolutely wild once he looks around, shouting and cheering as the announcer attempts to talk over them. One of the louder voices belongs to a GAZELLE who seems to be getting into a stance to run forward onto the stage when Sledge lifts both hands and shakes his head in panic. A gasp erupts from several of the members in the crowd as the bovidae is frozen in place like a deer in headlights.</p>
 
@@ -1179,8 +1179,8 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 
 
 
-
-<h3 id="scene8">INT. MAIN FURSUIT LOUNGE - NIGHT</h3>
+<a name="scene8"></a>
+<h3>INT. MAIN FURSUIT LOUNGE - NIGHT</h3>
 
 <p>Sahny is drowning themselves in body spray, febreezing the parts of their suit that is dry and desperately attempting to dust and fan out the moisture that has found its way into the most troublesome of places. Switching the usual amber eyes with an intoxicating neon spiral of green was all part of the transformation as the evening fast approached.</p>
 
@@ -1337,8 +1337,8 @@ Power</p>
 <p>Sahny's hands shake in excitement and shock, quickly looking around to see if anyone else is in the hallway. The idea that their idol stalked them back to their room is quickly shot down by the familiar drawing left on the door that Baz did for the four of them. Entering the room to change, the door shuts behind the hyena with a soft click.</p>
 
 
-
-<h3 id="scene9">INT. CON SPACE - NIGHT</h3>
+<a name="scene9"></a>
+<h3>INT. CON SPACE - NIGHT</h3>
 
 <h3>HALLWAY OUTSIDE PANELS</h3>
 
@@ -1740,8 +1740,8 @@ Power</p>
 
 
 
-
-<h3 id="scene11">INT. OUTSIDE F.U.R.S. THEATER - NIGHT</h3>
+<a name="scene11"></a>
+<h3>INT. OUTSIDE F.U.R.S. THEATER - NIGHT</h3>
 
 <p>Baz and dauB exit the theater. Daub holds a huge bucket of popcorn. Baz walks beside him, clasping her muzzle.</p>
 
@@ -2018,8 +2018,8 @@ Power</p>
 
 
 
-
-<h3 id="scene11">INT. THE GUEST ROOM - NIGHT</h3>
+<a name="scene11"></a>
+<h3>INT. THE GUEST ROOM - NIGHT</h3>
 
 <p>The Guest Room lays restless at night. Clover is curled in a wool blanket on the floor. Thistle snores somewhere in a mess of sheets. The latch whirs and the door slides open. Baz walks into the room. Her messenger bag slides off her shoulder, dragging on the floor behind her.</p>
 
