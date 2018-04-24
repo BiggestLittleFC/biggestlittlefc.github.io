@@ -18,11 +18,11 @@ layout: empty
 </div>
 
 <div id="sidebar-nav">
-<a href="#scene1">INT. THE GUEST ROOM - DAY</a>
+<a href="#scene1">MUSIC: "Hey Buddy"</a>
 <a href="#scene2">EXT. F.U.R.S. DRIVING RANGE - DAY</a>
 <a href="#scene3">INT. CHAIN-BRAND COFFEE SHOP - DAY</a>
 <a href="#scene4">INT. DEALER'S DEN - DAY</a>
-<a href="#scene5">EXT. F.U.R.S. GUEST DROP-OFF - DAY</a>
+<a href="#scene5">MUSIC: "Good Con"</a>
 <a href="#scene6">INT. CON MAIN STAGE - DAY</a>
 </div>
 
@@ -633,7 +633,7 @@ layout: empty
 </div>
 
 
-<a name="scene3"></a>
+<a name="scene4"></a>
 <h3>INT. DEALER'S DEN - DAY</h3>
 
 <p>Baz sits at her table, her arm pinned under her head, her cheek smashed against her palm. She leans heavily on one side. Her eyes stare blankly with a half-lidded gaze.</p>
@@ -784,7 +784,7 @@ layout: empty
 <p>Daub dips his head. His shoulders droop and it almost appears like he shrinks a bit, giving the faintest impression of a smaller cat.</p>
 
 
-<a name="scene4"></a>
+<a name="scene5"></a>
 <h3>EXT. F.U.R.S. GUEST DROP-OFF - DAY</h3>
 
 <p>Baz walks through the glass doors. She joins Clover, Thistle, and Sahny already outside, standing by a rideshare vehicle with the trunk open.</p>
@@ -794,44 +794,44 @@ layout: empty
 <div class="dialogue">
 <h4>CLOVER</h4>
 <p class="parenthetical">(sung)</p>
-<p>Packed my bags, know Iʼm forgetting something.</p>
+<p>Packed my bags, know I'm forgetting something.</p>
 <p>Wish I could take you all home with me.</p>
-<p>Thereʼs a plane, bound to fly you off to somewhere,</p>
+<p>There's a plane, bound to fly you off to somewhere,</p>
 <p>back to the inside of my phone.</p>
-<p>And I canʼt stop thinkin. Yeah, my mind is racinʼ!</p>
-<p>Why canʼt I stay here with you?</p>
-<p>Iʼm sad itʼs over, and Iʼm glad it happened.</p>
-<p>But please, please donʼt say it!</p>
-<p>No, I wonʼt say goodbye.</p>
-<p>And, I donʼt want to hear you say it either.</p>
+<p>And I can't stop thinkin. Yeah, my mind is racin'!</p>
+<p>Why can't I stay here with you?</p>
+<p>I'm sad it's over, and I'm glad it happened.</p>
+<p>But please, please don't say it!</p>
+<p>No, I won't say goodbye.</p>
+<p>And, I don't want to hear you say it either.</p>
 <p>Only time can keep us apart now.</p>
-<p>So, I wonʼt say goodbye.</p>
+<p>So, I won't say goodbye.</p>
 <p>But, I can tell you, it was a good con.</p>
 <p>Here we stand, get in line to get out.</p>
 <p>Kinda wish the roads would all be closed.</p>
 <p>Oh, no more darkness! No I have seen the light!</p>
-<p>And Iʼll be thinkinʼ of you, as we crawl back home.</p>
-<p>And my job is waitinʼ and these bills need payinʼ and hey!</p>
-<p>I kinda miss the place Iʼm from.</p>
-<p>All the pictures we took, and the stuff weʼre bringinʼ home.</p>
+<p>And I'll be thinkin' of you, as we crawl back home.</p>
+<p>And my job is waitin' and these bills need payin' and hey!</p>
+<p>I kinda miss the place I'm from.</p>
+<p>All the pictures we took, and the stuff we're bringin' home.</p>
 <p>Can remind us, can remind us of the good times.</p>
-<p>No, I wonʼt say goodbye.</p>
-<p>And I donʼt want to hear you say it either.</p>
+<p>No, I won't say goodbye.</p>
+<p>And I don't want to hear you say it either.</p>
 <p>Only time can keep us apart now.</p>
-<p>So, I wonʼt say goodbye.</p>
+<p>So, I won't say goodbye.</p>
 <p>But, I can tell you, it was a good con.</p>
 </div>
 
 <div class="dialogue">
 <h4>THISTLE</h4>
 <p class="parenthetical">(sung)</p>
-<p>One weekend. Time to take a chance even though it hurts, Iʼll be better.</p>
+<p>One weekend. Time to take a chance even though it hurts, I'll be better.</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(sung)</p>
-<p>One weekend. Time to tell the world that you couldnʼt care less what it thinks.</p>
+<p>One weekend. Time to tell the world that you couldn't care less what it thinks.</p>
 </div>
 
 <div class="dialogue">
@@ -849,8 +849,8 @@ layout: empty
 <div class="dialogue">
 <h4>ALL</h4>
 <p class="parenthetical">(sung)</p>
-<p>One weekend. Isnʼt this the life?</p>
-<p>And I wouldnʼt change it for no one.</p>
+<p>One weekend. Isn't this the life?</p>
+<p>And I wouldn't change it for no one.</p>
 <p>One weekend. I could go for at least one more weekend!</p>
 </div>
 
