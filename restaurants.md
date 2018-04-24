@@ -4,11 +4,11 @@ status: LIVE
 ---
 
 {::options parse_block_html="true" /}
-<div id="con-space-food">
-  For a quick bite where you can stay close to the action, there are several snack carts inside con space. All food sold inside the con space is **half price** with a con badge! For a more traditional sit-down meal with your friends, see the restaurant options below.
-</div>
 
-<div id="restaurant-cards">
+## Quick Food
+For a quick bite where you can stay close to the action, there are several snack carts inside con space. All food sold inside the con space is **half price** with a con badge! For a more traditional sit-down meal with your friends, see the restaurant options below.
+
+## Sit-down Restaurants
 
 <a href="https://www.grandsierraresort.com/dining-and-lounges/starbucks" target="_blank" title="Starbucks" style="background-image:url(https://www.grandsierraresort.com/images/starbucks_grand-sierra-resort_640x360.jpg);">
 <strong>Starbucks</strong> - <em>Coffee, Pastries</em>
