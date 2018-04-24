@@ -114,8 +114,12 @@ After the hours listed below, you can register at Con Ops, (window to the left o
 **<big>Wednesday 6PM-10PM:</big>**
 Pre-reg Patrons and Sponsors only, in the Nevada Room
 
+<a href="../assets/img/Registration - wednesday.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - wednesday - small.jpg"></a>
+
 **<big>Thursday 3PM-12AM:</big>**
 Nevada Room (separate lines for pre-reg and at-con)
+
+<a href="../assets/img/Registration - thursday.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - thursday - small.jpg"></a>
 
 **<big>Friday 10AM-11PM:</big>**
 Window across from Nevada Foyer
@@ -125,6 +129,8 @@ Window across from Nevada Foyer
 
 **<big>Sunday 11AM-2PM:</big>**
 Window across from Nevada Foyer
+
+<a href="../assets/img/Registration - friday.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - friday - small.jpg"></a>
 
 <div class="clear"></div>
 </div>
