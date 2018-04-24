@@ -13,24 +13,25 @@ jQuery(document).ready(function($) {
 	});
 
 // Sidebar nav
-	// for each link, determine position of id
-		// Get ids
-		// get body offsets
-		// assign to attr
-		// On browser resize, recalc offsets
-	// animate scroll to with offset 
-	// once scrolled to id, the link hovers
-$("#sidebar-nav a").click(function(e){
+
+
+$("#sidebar-nav a").each(function( index ) {
+	var topset = $("[name=" + this.href.split("#")[1] + "]").offset().top;
+	$(this).data('topset',topset);
+}).click(function(e){
 	e.preventDefault();
-	var target = $("[name=" + this.href.split("#")[1] + "]").offset().top;
 	var headerOffset = 120;
+	var target = $(this).data('topset');
 	$("body,html").animate({"scroll-top" : target - headerOffset}, 800);
 });
+	// once scrolled to id, the link hovers
 
 // Scrolling functions
 	$(window).scroll(function(){
 
 		var wScroll = $(this).scrollTop();
+
+
 
 	// Body BG Parallax
 		$('body').css({
