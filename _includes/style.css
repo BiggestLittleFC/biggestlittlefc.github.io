@@ -189,6 +189,27 @@ p.button {
 	background: #101010;
 	text-shadow: -2px 1px 0 #000;
 }
+/* ---- SIDEBAR ------------------------------------------------------------------------------------------------------------------------------------- */
+#sidebar-nav {
+	position: fixed;
+	z-index: 1;
+	left: 40px;
+	top: 150px;
+}
+#sidebar-nav a {
+	display: block;
+	font-size: 15px;
+	padding: 5px 15px 5px 30px;
+	margin: 5px 0;
+	background-color: #000;
+	color: #fff;
+	opacity: 0.6;
+	transition: all 0.75s ease-in-out 0s;
+}
+#sidebar-nav a:hover {
+	opacity: 1;
+	margin-left: 10px
+}
 /* ---- HEADER ------------------------------------------------------------------------------------------------------------------------------------- */
 #header {
 	text-shadow: 2px 2px 0px rgba(0,0,0,1);
