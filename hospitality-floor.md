@@ -4,7 +4,7 @@ status: LIVE
 layout: fullwidth
 ---
 
-<div class="one-full bg-one textcenter">
+<div class="one-full bg-one">
 <div class="page-wrapper">
 
 ## Room Parties
@@ -19,7 +19,7 @@ We also have a <a href="#rules-for-room-parties">Room Party Policy guide</a>. It
 </div>
 
 
-<div class="one-full bg-two textcenter">
+<div class="one-full bg-two">
 <div class="page-wrapper">
 
 ## Room Party Application
