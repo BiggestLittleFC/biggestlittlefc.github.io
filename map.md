@@ -5,11 +5,11 @@ status: LIVE
 
 <div class="one-full bg-one">
 <div class="page-wrapper">
-
-- <a href="#floor0">Bazaar: Floor 0: Silver State Pavilion</a>
-- <a href="#floor0">Dealer's Den: Floor 0: Silver State Pavilion</a>
+## Legend
 
 - <a href="#floor0">Art Show: Floor 0: Nevada Room</a>
+- <a href="#floor0">Bazaar: Floor 0: Silver State Pavilion</a>
+- <a href="#floor0">Dealer's Den: Floor 0: Silver State Pavilion</a>
 - <a href="#floor0">Tabletop Gaming: Floor 0: Nevada Room</a>
 - <a href="#floor0">Video Gaming: Floor 0: Nevada Room</a>
 - <a href="#floor0">Volunteering: Floor 0: Nevada Room</a>
