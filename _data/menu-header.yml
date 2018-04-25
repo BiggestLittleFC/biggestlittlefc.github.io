@@ -24,12 +24,12 @@ toc:
 #        url: "/theme/"
       - page: Music
         url: "/music/"
-##      - page: Story
-##        url: "/"
+      - page: Story
+        url: "/theme/story-thursday"
       - page: Art Guidelines
         url: "/style-guide/"
       - page: Con Book
-        url: "/"
+        url: "#comingsoon"
       - page: Theme Credits
         url: "/theme/credits/"
 ##      - page: Past Years
