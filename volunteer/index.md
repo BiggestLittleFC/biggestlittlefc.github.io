@@ -28,6 +28,24 @@ Open meetings, usually held 6pm (Pacific time) on the third Thursday each month 
 
 ## Volunteer Levels
 
+### Recruit
+
+#### 4 Hours
+<ul><li>Love and Adoration</li>
+<li>A special thank-you gift</li>
+<li>Two $12 meal vouchers</li></ul>
+
+#### 8 Hours
+<ul><li>Two more $12 meal vouchers</li></ul>
+
+#### 12 Hours
+<ul><li>Love and Adoration</li>
+<li>A special thank-you gift</li>
+<li>Two more $12 meal vouchers, plus either:</li>
+<li><ul><li>A refund of your attendee level badge, **OR**</li>
+<li>A ticket to the Sundey night Staff Appreciation Dinner</li></ul></li></ul>
+
+
 **Under going revision. Please check back later.**
 
 <div class="clear"></div>
