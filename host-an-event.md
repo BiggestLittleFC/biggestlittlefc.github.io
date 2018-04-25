@@ -3,16 +3,23 @@ title: Host an Event
 status: LIVE
 layout: fullwidth
 ---
-<div class="one-full bg-one">
+
+<div class="one-full bg-one textcenter">
 <div class="page-wrapper">
+
+**Panel &amp; Meet-'n-greet applications are closed**
+
+{::comment}
 
 Help us, help you to entertain others.
 
 [Host a Panel or Event][signuplink]
 
-</div>
-</div>
+{:/comment}
 
+
+</div>
+</div>
 
 
 
@@ -124,3 +131,4 @@ What panels are happening?
 
 [signuplink]: https://docs.google.com/forms/d/e/1FAIpQLSe4bfsDydMyg8Koj1D67I2P4ZixboELcM1tfb2F3cPYuaDm8Q/viewform?usp=send_form
 {:title="Host an Event at BLFC" class="button" target="_blank" rel="noopener noreferrer"}
+
