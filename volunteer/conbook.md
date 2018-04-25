@@ -2,7 +2,12 @@
 title: Help with the Conbook
 deadline: "May 1st"
 status: LIVE
+layout: fullwidth
 ---
+
+<div class="one-full bg-one">
+<div class="page-wrapper">
+
 ## Theme and Deadline
 
 **All submissions must be in by {{ page.deadline }}.**
@@ -10,6 +15,13 @@ status: LIVE
 Submissions are more likely to be used if they follow <a href="/theme/">this year's theme</a>. Please email con book lead (<a href="mailto:conbook@goblfc.org">conbook@goblfc.org</a>) to submit your work.
 
 **Note:** our con book is a PDF download and is not printed as a physical book.
+
+</div>
+</div>
+
+
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 ## How to help
 
@@ -47,9 +59,12 @@ Submissions are more likely to be used if they follow <a href="/theme/">this yea
 - **Wait, Recipes?** - Yes! We hope to include a small 2-to-4-page section of recipes, just for fun!
 - **Category** - Please list if your recipe is intended to be a side dish, main dish, dessert, beverage, or other. This allows the con book staff to organize the submissions.
 - **Content** - Please include:
+  - Your name (fan name or real name)
+  - List of ingredients with quantities stated
+  - Optional ingredients, if any
+  - Instructions
+  - A color photo of the finished dish, sized 5 inches by 3 inches, 300 DPI, landscape orientation.
 
- - Your name (fan name or real name)
- - List of ingredients with quantities stated
- - Optional ingredients, if any
- - Instructions
- - A color photo of the finished dish, sized 5 inches by 3 inches, 300 DPI, landscape orientation.
+
+</div>
+</div>
