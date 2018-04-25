@@ -26,10 +26,12 @@ Open meetings, usually held 6pm (Pacific time) on the third Thursday each month 
 <div class="one-full bg-two">
 <div class="page-wrapper">
 
-## Volunteer Levels
-
-### Recruit
-
+## Rewards - Recruit
+Recruits are unproven people we haven't worked with yet. If we don't know you yet, you will be a Recruit for at least a year while you prove your reliability. Most Recruits sign up at-con, but if you know you will volunteer, please apply now for a wider choice of hours.
+  When you sign up, we will build your schedule around the hours you're willing to volunteer. If we run short on people outside your scheduled times, you may get a phone call asking for help. Responding to our call and helping will count 1.5x time.
+  Sometimes, you may end up "idle," waiting for assignment in the volunteer lounge. You're welcome to socialize while waiting, and we'll also try to have some entertainment options in the volunteer lounge. "Idle time" counts 0.5x time.
+  Any hours volunteered on Thursday or Monday count 1.5x time.
+  
 #### 4 Hours
 <ul><li>Love and Adoration</li>
 <li>A special thank-you gift</li>
@@ -42,8 +44,8 @@ Open meetings, usually held 6pm (Pacific time) on the third Thursday each month 
 <ul><li>Love and Adoration</li>
 <li>A special thank-you gift</li>
 <li>Two more $12 meal vouchers, plus either:</li>
-<li><ul><li>A refund of your attendee level badge, **OR**</li>
-<li>A ticket to the Sundey night Staff Appreciation Dinner</li></ul></li></ul>
+<ul><li>A refund of your attendee level badge, **OR**</li>
+<li>A ticket to the Sundey night Staff Appreciation Dinner</li></ul></ul>
 
 
 **Under going revision. Please check back later.**
