@@ -1061,14 +1061,12 @@ layout: empty
 <p>Next up is the very controversial, you may love them you may hate them, Sahhhhhhhnnnnnyyyyyyyyy!</p>
 </div>
 
-<p>Slow and soft the song begins, a perfectly paced opening as the freestyler makes their way to the optimal place in ample time. Divulging into several breakbeat style switches, the tune invites the very pop-n-lock moves Sahny shows off. Some have been seen with last years performance but a lot have not, and there still seems to be a card unplayed on the field. With the glances in between angled adjustments Sahny spots Clover and Thistle one moment, and the next they are gone. A glimpse of blue and pale white.. could it be? Hard to tell with the sudden crowd gathered on the right side of the stage.</p>
+<p>Slow and soft the song begins, a perfectly paced opening as the freestyler makes their way to the optimal place in ample time. Divulging into several breakbeat style switches, the tune invites the very pop-n-lock moves Sahny shows off. Some have been seen with last years performance but a lot have not, and there still seems to be a card unplayed on the field. With the glances in between angled adjustments Sahny spots Clover and Thistle one moment, and the next they are gone. A glimpse of blue and pale white. Could it be? Hard to tell with the sudden crowd gathered on the right side of the stage.</p>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(muffled)</p>
-<p>I've never had this big a turnout before! I wonder how many will line up to get my autograph?!
-<br>
-Okay.. you've got this, we've practiced it hundreds of times before, we couldn't be more ready..</p>
+<p>I've never had this big a turnout before! I wonder how many will line up to get my autograph?! Okay, you've got this! We've practiced it hundreds of times before. We couldn't be more ready.</p>
 </div>
 
 <p>The beat seems to climb higher and higher in pitch before dropping and in that moment of time Sahny manages to perfectly land a backflip. The crowd roars, but among the various voices a distinct noise, a series of energetic chirps and excited whistles can be heard.</p>
@@ -1249,94 +1247,67 @@ Okay.. you've got this, we've practiced it hundreds of times before, we couldn't
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(singing)</p>
-<p>I don't know their faces, never learned their names
-<br>
-realized there's a difference between
-<br>
-being in the crowd and being cheered onto the stage</p>
+<p>I don't know their faces, never learned their names.</p>
+<p>Realized there's a difference between being in the crowd and being cheered onto the stage</p>
 </div>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(singing)</p>
-<p>I've been climbing ever higher
-<br>
-see my name on every list
-<br>
-guess where all that kindness gets you
-<br>
-begging, wondering what you've missed
-<br>
-You need Power</p>
+<p>I've been climbing ever higher.</p>
+<p>See my name on every list</p>
+<p>Guess where all that kindness gets you</p>
+<p>Begging, wondering what you've missed</p>
+<p>You need power!</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(singing)</p>
-<p>Got to have Power</p>
+<p>Got to have power!</p>
 </div>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p>I used to think like you, be nice, play by the rules, and surely I'll get ahead eventually. If I work hard. but it turns out</p>
 <p class="parenthetical">(singing)</p>
-<p>It's not who you know but rather who knows you and if you
-<br>
-wanna cut in line you'll need view counts,
-<br>
-white knights, con chairs, check marks, free rides...
-<br>
-Gotta get that</p>
+<p>It's not who you know but rather who knows you and if you</p>
+<p>wanna cut in line you'll need view counts, white knights, con chairs, check marks, free rides...</p>
+<p>Gotta get that</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY AND DIEGO</h4>
 <p class="parenthetical">(singing)</p>
-<p>Power
-<br>
-more and more
-<br>
-Power
-<br>
-Bring me that
-<br>
-Power
-<br>
-Ya gotta have some Power</p>
+<p>Power</p>
+<p>more and more</p>
+<p>Power</p>
+<p>Bring me that</p>
+<p>Power</p>
+<p>Ya gotta have some Power</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
 <p class="parenthetical">(singing)</p>
-<p>On my own I might be feeble
-<br>
-hardly worth a second glance</p>
+<p>On my own I might be feeble hardly worth a second glance</p>
 </div>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
 <p class="parenthetical">(singing)</p>
-<p>call me ruthless, call me evil
-<br>
-think you'll ever change their stance
-<br>
-You're just giving me your</p>
+<p>call me ruthless, call me evil</p>
+<p>think you'll ever change their stance</p>
+<p>You're just giving me your</p>
 </div>
 
 <div class="dialogue">
 <h4>SAHNY AND DIEGO</h4>
 <p class="parenthetical">(singing)</p>
-<p>Power
-<br>
-I need all the
-<br>
-Power
-<br>
-Power
-<br>
-Gimme all the
-<br>
-Power</p>
+<p>Power</p>
+<p>I need all the Power!</p>
+<p>Power</p>
+<p>Gimme all the Power</p>
 </div>
 
 <p>( END: "POWER" )</p>
