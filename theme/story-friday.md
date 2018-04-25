@@ -4,6 +4,15 @@ status: LIVE
 layout: empty
 ---
 
+<style type="text/css">
+	#header {
+		position: absolute;
+	}
+	#sticky-foot {
+		display: none;
+	}
+</style>
+
 {::nomarkdown}
 
 <link href="/assets/theme/screenplay.css" media="all" rel="stylesheet">
