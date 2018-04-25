@@ -68,7 +68,7 @@ Staff are people we know well enough to rely on. For Staff, the success of the c
 <ul><li>Two more $12 meal vouchers</li>
 <li>A ticket to the Sunday night Staff Appreciation Dinner</li></ul>
 
-#### 12 Hours
+#### 12+ Hours
 <ul><li>Two more $12 meal vouchers</li>
 <li>$120 voucher to reduce your hotel bill</li></ul>
 
