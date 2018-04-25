@@ -7,6 +7,10 @@ layout: fullwidth
 <div class="one-full bg-one">
 <div class="page-wrapper">
 
+## Location
+
+The Hospitality floor is located on floor 1. To find it, go to the 1st floor elevator lobby for elevators 2-7, then turn around. You'll see a hall that leads to the 1st floor hotel rooms. **No elevators!**
+
 ## Room Parties
 
 While room parties are not a common thing amongst furry conventions, it's growing in popularity in various areas. It is an idea that started by fans for fans - an opportunity to celebrate the fandom or organization of your choice, right in your hotel room.
@@ -43,7 +47,7 @@ If you have any questions, please contact us at partymaven@goblfc.org
 
 ## Rules for Room Parties
 
-All room parties must pre-register with Biggest Little Fur Con (BLFC) Party Mavens and have a pre-existing reservation at the hotel. The party organizers are responsible for providing a confirmation number for the reservation before the deadline. Any party that does not provide this information may lose their party room space at the convention.
+All room parties must pre-register with Biggest Little Fur Con (BLFC) Party Mavens and have a pre-existing reservation at the hotel. The party organizers are responsible for providing a confirmation number for the reservation before the deadline. Any party that does not provide this information may lose their party room space at the convention. Parties can be open invite or private.
 
 A party may promote their event with age appropriate materials. Flyers may be posted only inside convention space, and only if approved by event staff and blue painter’s tape is used. The room party host(s) will honor any restriction of promotion material made by the hotel. If any promotional material is found to be questionable, offensive, or inappropriate to a staff member or attendee, the materials may be removed by staff at any time.
 
