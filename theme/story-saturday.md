@@ -591,7 +591,7 @@ layout: empty
 
 <div class="dialogue">
 <h4>DAUB</h4>
-<p>Did Clover as you to make this schedule? Or did you two work together to make this schedule?</p>
+<p>Did Clover ask you to make this schedule? Or did you two work on it together?</p>
 </div>
 
 <p>Thistle shakes his head, looking off to the side.</p>
