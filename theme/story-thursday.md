@@ -444,8 +444,6 @@ One weekend. This weekend!</p>
 
 <p>Thistle looks up towards her. She points down at his bag.</p>
 
-<p>FLIGHT ATTENDANT #1, a short gray ferret with kind eyes, leans in.</p>
-
 <div class="dialogue">
 <h4>FLIGHT ATTENDANT #1</h4>
 <p>I'm sorry sir. But, you'll have to stow your bag under the seat in front of you before take-off.</p>
@@ -498,7 +496,6 @@ One weekend. This weekend!</p>
 
 <div class="dialogue">
 <h4>FLIGHT ATTENDANT #1</h4>
-<p class="parenthetical">(to himself)</p>
 <p>Here you are, sweetie. Oh, I'm sorry, but I'll have to ask you to turn your phone off during this flight. As soon as they clean up the fuss outside, we'll be taking off.</p>
 </div>
 
