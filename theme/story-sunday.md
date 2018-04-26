@@ -18,7 +18,7 @@ layout: empty
 <link href="/assets/theme/screenplay.css" media="all" rel="stylesheet">
 <div id="screenplay" class="us-letter dpi100">
 
-<div class="textright">
+<div class="textright noprint">
 <a href="/theme/story-00" class="button">Pre-Con Prologue</a>
 <a href="/theme/story-thursday" class="button">Thursday</a>
 <a href="/theme/story-friday" class="button">Friday</a>
