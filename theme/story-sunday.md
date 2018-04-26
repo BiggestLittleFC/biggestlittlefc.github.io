@@ -26,7 +26,7 @@ layout: empty
 <a href="#" class="button btn-disabled" target="_blank">Download Episode <small>(Coming Soon)</small></a>
 </div>
 
-<div id="sidebar-nav">
+<div id="sidebar-nav" class="noprint">
 <a href="#scene1">MUSIC: "Hey Buddy"</a>
 <a href="#scene2">EXT. F.U.R.S. DRIVING RANGE - DAY</a>
 <a href="#scene3">INT. CHAIN-BRAND COFFEE SHOP - DAY</a>

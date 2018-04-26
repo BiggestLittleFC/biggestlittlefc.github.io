@@ -27,7 +27,7 @@ layout: empty
 </div>
 
 
-<div id="sidebar-nav">
+<div id="sidebar-nav" class="noprint">
 <a href="#scene1">MUSIC : "One Weekend Overture"</a>
 <a href="#scene2">INT. THISTLE'S APARTMENT - DAY</a>
 <a href="#scene3">INT. SAHNY'S APARTMENT – DAY</a>

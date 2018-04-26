@@ -27,7 +27,7 @@ layout: empty
 </div>
 
 
-<div id="sidebar-nav">
+<div id="sidebar-nav" class="noprint">
 <a href="#scene1">INT. THE GUEST ROOM - DAY</a>
 <a href="#scene2">INT. CON SPACE - DAY</a>
 <a href="#scene3">MUSIC : "Tell Me Something I Don't Know"</a>

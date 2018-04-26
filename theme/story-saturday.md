@@ -27,7 +27,7 @@ layout: empty
 </div>
 
 
-<div id="sidebar-nav">
+<div id="sidebar-nav" class="noprint">
 <a href="#scene1">INT. THE GUEST ROOM - DAY</a>
 <a href="#scene2">INT. DEALER'S DEN - DAY</a>
 <a href="#scene3">INT. THE GUEST ROOM - NIGHT</a>
