@@ -44,25 +44,33 @@ price:
 
 Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
 
+<div class="one-half bg-two">
+
 **Times may be subject to change.**
 
 - {:.one_fourth } **Friday** - {{ page.public.friday }}
 - {:.one_fourth } **Saturday** - {{ page.public.saturday }}
 - {:.one_fourth } **Final Bidding** - {{ page.public.final }}
 - {:.one_fourth } **Sunday Checkout** - {{ page.public.sunday }}
-
+</div>
+<div class="one-half bg-two">
 
 ### Setup time
 
 - {:.one_third } **Thursday** - {{ page.setup.thursday }}
 - {:.one_third } **Friday** - {{ page.setup.friday }}
+</div>
+</div>
+</div>
 
-</div>
-</div>
+<div class="one-full bg-two">
+<div class="page-wrapper">
 
 ## Opening Gala
 
 This year, we will host an opening gala, *with wine and cheese*, where you can peruse the art gallery and make your initial bids. Please join us! Patrons may enter at 2pm, Sponsors at 2:30pm, on Friday.
+</div>
+</div>
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
