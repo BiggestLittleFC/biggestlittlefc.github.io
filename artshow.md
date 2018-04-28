@@ -36,7 +36,6 @@ price:
 
 
 
-{::comment}
 
 <div class="one-full bg-two">
 <div class="page-wrapper">
@@ -61,8 +60,9 @@ Art Show will be located downstairs, connected to the hangout space in the <a hr
 </div>
 </div>
 
-{:/comment}
+## Opening Gala
 
+This year, we will host an opening gala, *with wine and cheese*, where you can peruse the art gallery and make your initial bids. Please join us! Patrons may enter at 2pm, Sponsors at 2:30pm, on Friday.
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
