@@ -35,7 +35,7 @@ Recruits are unproven people we haven't worked with yet. If we don't know you ye
   
 #### 4 Hours
 <ul><li>Love and Adoration</li>
-<li> **Early access to hotel booking next year** </li>
+<li> <strong>Early access to hotel booking next year</strong> </li>
 <li>Priority for the quiet floor this year (apply on <a href="/hotel/">hotel page</a>)</li>
 <li>A special thank-you gift</li>
 <li>Two $12 meal vouchers</li></ul>
@@ -45,7 +45,7 @@ Recruits are unproven people we haven't worked with yet. If we don't know you ye
 
 #### 12 Hours
 <ul><li>Two more $12 meal vouchers, plus either:</li>
-<ul><li>A refund of your attendee level badge, **OR** </li>
+<ul><li>A refund of your attendee level badge, <strong>OR</strong> </li>
 <li>A ticket to the Sunday night Staff Appreciation Dinner</li></ul></ul>
 
 #### Over 12 Hours
@@ -60,7 +60,7 @@ Staff are people we know well enough to rely on. For Staff, the success of the c
 
 #### 4 Hours
 <ul><li>Love and Adoration</li>
-<li>  **Early access to hotel booking next year**  </li>
+<li><strong>Early access to hotel booking next year</strong></li>
 <li>Priority for the quiet floor this year (apply on <a href="/hotel/">hotel page</a>)</li>
 <li>A special thank-you gift</li>
 <li>A free attendee-level badge</li>
