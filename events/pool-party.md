@@ -25,7 +25,7 @@ New this year, we have a pool party! From 8pm to midnight on three days of the c
 - Saturday: 8pm-midnight
 
 ## DJ schedule
-DJ schedule posting soon. To be curteous to people trying to sleep, the sound system will be turned down at 10pm.
+DJ schedule posting soon. To be curteous to people trying to sleep in rooms that face the pool, the sound system will be turned down at 10pm.
 
 </div>
 </div>
