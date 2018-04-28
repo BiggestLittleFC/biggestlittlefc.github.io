@@ -68,6 +68,8 @@ toc:
         url: "/artshow/"
       - page: Bazaar
         url: "/bazaar/"
+      - page: Pool Party
+        url: "/events/pool-party/"
   - title: About
     subfolderitems:
       - page: About BLFC
