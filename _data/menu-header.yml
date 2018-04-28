@@ -58,14 +58,14 @@ toc:
 #        url: "/activities"
       - page: Dance
         url: "/events/dance/"
-      - page: Pool Party
-        url: "/events/pool-party/"
       - page: Dealers Den
         url: "/dealers/"
       - page: Art Show
         url: "/artshow/"
       - page: Bazaar
         url: "/bazaar/"
+      - page: Pool Party
+        url: "/events/pool-party/"
 #  - title: About
 #    subfolderitems:
 #      - page: About BLFC
