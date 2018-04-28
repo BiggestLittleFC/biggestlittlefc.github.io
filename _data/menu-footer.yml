@@ -22,12 +22,12 @@ toc:
 #        url: "/theme/"
       - page: Music
         url: "/music/"
-#      - page: Story
-#        url: "/theme/story/"
+      - page: Story
+        url: "/theme/story-thursday"
       - page: Art Guidelines
         url: "/style-guide/"
-#      - page: Con Book
-#        url: "/"
+      - page: Con Book
+        url: "/"
       - page: Theme Credits
         url: "/theme/credits/"
       - page: Submit Art
@@ -44,8 +44,8 @@ toc:
         url: "/events/dance-battle-royale/"
       - page: Dance Competition
         url: "/events/dance-comp/"
-      - page: Competitions
-        url: "/events/competitions/"
+#      - page: Competitions
+#        url: "/events/competitions/"
       - page: Fursuit Festival
         url: "/events/fursuit-festival/"
       - page: Fursuit Charity Dance Auction
@@ -54,12 +54,12 @@ toc:
         url: "/events/meet-n-greets/"
       - page: Panels
         url: "/events/panels/"
-      - page: Host an Event
-        url: "/host-an-event/"
+#      - page: Host an Event
+#        url: "/host-an-event/"
   - title: Activities
     subfolderitems:
-      - page: All Activities
-        url: "/activities"
+#      - page: All Activities
+#        url: "/activities"
       - page: Dance
         url: "/events/dance/"
       - page: Dealers Den
