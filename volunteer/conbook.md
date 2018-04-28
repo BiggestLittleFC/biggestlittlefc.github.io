@@ -12,7 +12,9 @@ layout: fullwidth
 
 **All submissions must be in by {{ page.deadline }}.**
 
-Submissions are more likely to be used if they follow <a href="/theme/">this year's theme</a>. Please email con book lead (<a href="mailto:conbook@goblfc.org">conbook@goblfc.org</a>) to submit your work.
+Submissions are more likely to be used if they follow <a href="/style-guide/">this year's theme</a>. Please email con book lead (<a href="mailto:conbook@goblfc.org">conbook@goblfc.org</a>) to submit your work.
+
+If you want further inspiration, you can also listen to the <a href="/music/">music</a> and read the <a href="/theme/story-00/">story</a>.
 
 **Note:** our con book is a PDF download and is not printed as a physical book.
 
