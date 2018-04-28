@@ -14,8 +14,8 @@ toc:
         url: "/restaurants/"
       - page: Volunteer
         url: "/volunteer/"
-#      - page: Con Map
-#        url: "/map/"
+      - page: Con Map
+        url: "/map/"
       - page: Policies
         url: "/policies/"
   - title: Theme
@@ -42,8 +42,8 @@ toc:
         url: "/events/dance-battle-royale/"
       - page: Dance Comp.
         url: "/events/dance-comp/"
-      - page: Competitions
-        url: "/events/competitions/"
+#      - page: Competitions
+#        url: "/events/competitions/"
       - page: Fursuit Festival
         url: "/events/fursuit-festival/"
       - page: Fursuit Charity Dance Auction
@@ -54,8 +54,8 @@ toc:
         url: "/events/panels/"
   - title: Activities
     subfolderitems:
-      - page: All Activities
-        url: "/activities"
+#      - page: All Activities
+#        url: "/activities"
       - page: Dance
         url: "/events/dance/"
       - page: Dealers Den
