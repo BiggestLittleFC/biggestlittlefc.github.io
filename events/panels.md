@@ -14,7 +14,7 @@ Panels are activities put on by con attendees, that range from mini classes, whe
 </div>
 </div>
 
-
+<!--
 
 <div class="one-full bg-two">
 <div class="page-wrapper">
@@ -25,7 +25,7 @@ Excellent! BLFC is highly dependent on amazing individuals, like yourself, to ru
 
 </div>
 </div>
-
+-->
 
 
 <div class="one-full bg-three">
@@ -33,7 +33,7 @@ Excellent! BLFC is highly dependent on amazing individuals, like yourself, to ru
 
 ## List of Panels
 
-**Currently there are no panels.** - Consider <a href="/host-an-event/">hosting a panel</a>!
+The panel schedule is almost finished and should be posted by Monday.
 
 </div>
 </div>
