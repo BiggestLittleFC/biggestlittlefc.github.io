@@ -20,9 +20,9 @@ New this year, we have a pool party! From 8pm to midnight on three days of the c
 
 
 ## Pool Party Hours
-Thursday: 8pm-midnight
-Friday: 8pm-midnight
-Saturday: 8pm-midnight
+- Thursday: 8pm-midnight
+- Friday: 8pm-midnight
+- Saturday: 8pm-midnight
 
 ## DJ schedule
 DJ schedule posting soon. To be curteous to people trying to sleep, the sound system will be turned down at 10pm.
