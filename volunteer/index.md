@@ -35,7 +35,8 @@ Recruits are unproven people we haven't worked with yet. If we don't know you ye
   
 #### 4 Hours
 <ul><li>Love and Adoration</li>
-<li>Priority for the quiet floor (apply on <a href="/hotel/">hotel page</a>)</li>
+<li>**Early access to hotel booking next year**</li>
+<li>Priority for the quiet floor this year (apply on <a href="/hotel/">hotel page</a>)</li>
 <li>A special thank-you gift</li>
 <li>Two $12 meal vouchers</li></ul>
 
@@ -59,7 +60,8 @@ Staff are people we know well enough to rely on. For Staff, the success of the c
 
 #### 4 Hours
 <ul><li>Love and Adoration</li>
-<li>Priority for the quiet floor (apply on <a href="/hotel/">hotel page</a>)</li>
+<li>**Early access to hotel booking next year**</li>
+<li>Priority for the quiet floor this year (apply on <a href="/hotel/">hotel page</a>)</li>
 <li>A special thank-you gift</li>
 <li>A free attendee-level badge</li>
 <li>Two $12 meal vouchers</li></ul>
