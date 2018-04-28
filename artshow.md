@@ -44,21 +44,21 @@ price:
 
 Art Show will be located downstairs, connected to the hangout space in the <a href="/events/map/">Nevada Room</a>.
 
-<div class="one-half bg-two">
+<div class="one-full bg-two">
 
 **Times may be subject to change.**
 
-- {:.one_fourth } **Friday** - {{ page.public.friday }}
-- {:.one_fourth } **Saturday** - {{ page.public.saturday }}
-- {:.one_fourth } **Final Bidding** - {{ page.public.final }}
-- {:.one_fourth } **Sunday Checkout** - {{ page.public.sunday }}
+- **Friday** - {{ page.public.friday }}
+- **Saturday** - {{ page.public.saturday }}
+- **Final Bidding** - {{ page.public.final }}
+- **Sunday Checkout** - {{ page.public.sunday }}
 </div>
-<div class="one-half bg-two">
+<div class="one-full bg-two">
 
 ### Setup time
 
-- {:.one_third } **Thursday** - {{ page.setup.thursday }}
-- {:.one_third } **Friday** - {{ page.setup.friday }}
+- **Thursday** - {{ page.setup.thursday }}
+- **Friday** - {{ page.setup.friday }}
 </div>
 </div>
 </div>
