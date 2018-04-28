@@ -6,7 +6,7 @@ duedates:
   mailin: "TBD"
   atcon: "1pm Friday"
 public: 
-  friday: "<br>Patrons 2p<br>Sponsors 2:30p<br>Everyone 3p-8p"
+  friday: "Patrons 2p, Sponsors 2:30p, Everyone 3p-8p"
   saturday: "12p-7p"
   final: "7p-8p Sat"
   sunday: "11a-8p"
