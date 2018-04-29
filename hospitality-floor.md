@@ -9,7 +9,7 @@ layout: fullwidth
 
 ## Location
 
-The Hospitality floor is located on floor 1. To find it, go to the 1st floor elevator lobby for elevators 2-7, then turn around. You'll see a hall that leads to the 1st floor hotel rooms. **No elevators!**
+The Hospitality floor is located on floor 1, and is restricted to people over 21 only. To find it, go to the 1st floor elevator lobby for elevators 2-7, then turn around. You'll see a hall that leads to the 1st floor hotel rooms. **No elevators!**
 
 ## Room Parties
 
