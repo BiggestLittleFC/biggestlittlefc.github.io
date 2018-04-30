@@ -68,7 +68,7 @@ Art Gallery will be located downstairs, connected to the hangout space in the <a
 
 ## Opening Gala
 
-This year, we will host an **opening gala**, *with wine and cheese*, where you can peruse the art gallery and make your initial bids. Please join us! Patrons may enter at 2pm, Sponsors at 2:30pm, on Friday.
+This year, we will host an **opening gala**, *with wine and cheese*, where you can peruse the art gallery, make your initial bids, and socialize with some of the artists on display. Please join us! Patrons enter at 2pm, Sponsors at 2:30pm, on Friday.
 </div>
 </div>
 
