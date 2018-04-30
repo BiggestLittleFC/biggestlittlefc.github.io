@@ -116,18 +116,18 @@ Pre-reg Patrons and Sponsors only, in the Nevada Room
 
 <a href="../assets/img/Registration - wednesday.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - wednesday - small.jpg"></a>
 
-**<big>Thursday 3PM-12AM:</big>**
+**<big>Thursday 12PM-12AM:</big>**
 Nevada Room (separate lines for pre-reg and at-con)
 
 <a href="../assets/img/Registration - thursday.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - thursday - small.jpg"></a>
 
-**<big>Friday 10AM-11PM:</big>**
+**<big>Friday 9AM-11PM:</big>**
 Window across from Nevada Foyer
 
 **<big>Saturday 10AM-8PM:</big>**
 Window across from Nevada Foyer
 
-**<big>Sunday 11AM-2PM:</big>**
+**<big>Sunday 11AM-3PM:</big>**
 Window across from Nevada Foyer
 
 <a href="../assets/img/Registration - friday.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - friday - small.jpg"></a>
