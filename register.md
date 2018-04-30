@@ -111,7 +111,7 @@ Remember: If you're over 16 and under 18, you'll need a signed and notarized [pa
 These hours and locations may change before the con happens. Make sure to check this page again shortly before the con.<br>
 After the hours listed below, you can register at Con Ops, (window to the left of the Grand Ballroom).
 
-**<big>Wednesday 6PM-10PM:</big>**
+**<big>Wednesday 7PM-10PM:</big>**
 Pre-reg Patrons and Sponsors only, in the Nevada Room
 
 <a href="../assets/img/Registration - wednesday.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/Registration - wednesday - small.jpg"></a>
