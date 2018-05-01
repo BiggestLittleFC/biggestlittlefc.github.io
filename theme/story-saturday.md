@@ -1120,14 +1120,7 @@ layout: empty
 <p>Okay.</p>
 </div>
 
-<p>Sahny reaches out a hand paw. Thistle grabs it and Sahny pulls him to his feet.</p>
-
-<div class="dialogue">
-<h4>SAHNY</h4>
-<p>You shouldn't let Clover bring you down. Clover's ... Clover. He'll come around.</p>
-</div>
-
-<p>They walk towards the entrance.</p>
+<p>Sahny reaches out a hand paw. Thistle grabs it and Sahny pulls him to his feet. They walk towards the entrance.</p>
 
 
 <a name="scene6"></a>
