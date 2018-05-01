@@ -23,7 +23,17 @@ approvaldate: "November 30th"
 layout: fullwidth
 ---
 
-<div class="one-full bg-one">
+<div class="one-full bg-one textcenter">
+<div class="page-wrapper">
+
+<a class="button" href="https://api.goblfc.org/vendorlist.php" target="_blank">List of Dealers</a>
+
+</div>
+</div>
+
+
+
+<div class="one-full bg-two">
 <div class="page-wrapper">
 
 ## Sale Hours & Location
@@ -36,7 +46,7 @@ During operating hours, the Dealer's Den hosts a central community hang-out fun 
 - {:.one_third } **Saturday** - {{ page.open.saturday }}
 - {:.one_third } **Sunday** - {{ page.open.sunday }}
 
-<a class="button" href="https://api.goblfc.org/vendorlist.php" target="_blank">List of Dealers</a>
+
 
 ## Map of Dealers Den
 
