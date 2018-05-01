@@ -36,41 +36,15 @@ During operating hours, the Dealer's Den hosts a central community hang-out fun 
 - {:.one_third } **Saturday** - {{ page.open.saturday }}
 - {:.one_third } **Sunday** - {{ page.open.sunday }}
 
+<a class="button" href="https://api.goblfc.org/vendorlist.php" target="_blank">List of Dealers</a>
+
 ## Map of Dealers Den
-<a href="../assets/img/DealersDen_Website.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="../assets/img/DealersDen_Website_small.jpg"></a>
-</div>
-</div>
 
-
-
-
-<div class="one-full bg-two">
-<div class="page-wrapper">
-
-
-## List of Dealers
-
-<div id="dealer-list" class="accordion-list">
-
-{% for item in site.data.dealers %}
-
-<dt>
-  {{ item.name }}
-</dt>
-<dd>
-  {{ item.description }}
-  <!--<a href="{{ item.website }}" target="_blank">[ Website ]</a>-->
-</dd>
-
-{% endfor %}
-
-</div>
+<a href="/assets/img/DealersDen_Website.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter" src="/assets/img/DealersDen_Website_small.jpg"></a>
 
 
 </div>
 </div>
-
-
 
 
 
