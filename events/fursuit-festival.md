@@ -39,3 +39,5 @@ There will be six dedicated photo stations for scheduled photo shoots. There's a
 </div>
 
 </div></div>
+<div class="clear">
+</div>
