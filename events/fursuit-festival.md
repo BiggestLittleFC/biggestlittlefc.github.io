@@ -6,7 +6,7 @@ layout: fullwidth
 
 <div class="one-full bg-one"><div class="page-wrapper" style="padding: 3vw 3vw">
 
-## About the Festival
+# About the Festival
 
 We are excited to bring back the Fursuit Festival! This year **on Friday**, after the Dealer’s Den closes, we will be launching with our giant group fursuit photo in Main Stage at **7:20pm** SHARP and then fill both the main stage and second stage areas with tons of photo shoot areas and activities for everyone to enjoy! Here's how the evening will work:
 
@@ -57,7 +57,7 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 # Photo Schedule
 
-<div class="one_half" style="padding:10px">
+<div class="one_third" style="padding:10px">
 
 ### 7:30 - Makers
 <ol>
@@ -71,8 +71,31 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 </div>
 
-<div class="one_half" style="padding:10px">
+<div class="one_third" style="padding:10px">
 
+### 7:45 - Species
+<ol>
+<li>Foxes</li>
+<li>Wolves</li>
+<li>Lions & Tigers</li>
+<li>Rabbits & Rodents</li>
+<li>Avian</li>
+<li>Hybrids</li>
+</ol>
+
+</div>
+
+<div class="one_third" style="padding:10px">
+
+### 8:00 - Makers
+<ol>
+<li>Twinkyarts</li>
+<li>Don't Hug Cacti</li>
+<li>More Fur Less</li>
+<li>Sunny Valley</li>
+<li>Jill Costumes</li>
+<li>Kilcodo Costumes</li>
+</ol>
 
 </div>
 
@@ -117,3 +140,4 @@ For any questions feel free to reach out to us at <a href="mailto:fursuiting@gob
 
 <div class="clear">
 </div>
+
