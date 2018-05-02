@@ -24,6 +24,19 @@ The Festival will be Friday evening, starting **7PM** and going until **9PM**. S
 
 <div class="one_half" style="padding:10px">
 
+### Photo stations
+
+There will be six dedicated photo stations for scheduled photo shoots. There's also an impromptu photo station again this year, so even if you’re not on the schedule, you can still get the red carpet treatment! To get a group photo at the impromptu station, just assemble your group and walk right up!
+
+</div>
+
+</div></div>
+
+
+<div class="one-full bg-two"><div class="page-wrapper" style="padding: 3vw 3vw">
+
+<div class="one_half" style="padding:10px">
+
 ### A Tale of Two Rooms
 
 This year, all photo shoots will be in Main Stage, keeping the Grand Ballroom free for activities and games. Plenty of space for fursuiters, photographers, and other people to freely wander and mingle!
@@ -32,12 +45,31 @@ This year, all photo shoots will be in Main Stage, keeping the Grand Ballroom fr
 
 <div class="one_half" style="padding:10px">
 
-### Photo stations
-
-There will be six dedicated photo stations for scheduled photo shoots. There's also an impromptu photo station again this year, so even if you’re not on the schedule, you can still get the red carpet treatment! To get a group photo at the impromptu station, just assemble your group and walk right up!
 
 </div>
 
 </div></div>
+
+<div class="one-full bg-two"><div class="page-wrapper" style="padding: 3vw 3vw">
+
+<div class="one_half" style="padding:10px">
+
+
+</div>
+
+<div class="one_half" style="padding:10px">
+
+
+</div>
+
+</div></div>
+
+
+<div class="one-full bg-one"><div class="page-wrapper" style="padding: 3vw 3vw">
+
+For any questions feel free to reach out to us at <a href="mailto:fursuiting@goblfc.org">fursuiting@goblfc.org</a>!
+
+</div></div>
+
 <div class="clear">
 </div>
