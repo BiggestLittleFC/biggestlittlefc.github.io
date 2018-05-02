@@ -59,6 +59,15 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 <div class="one_half" style="padding:10px">
 
+### 7:30 - Makers
+<ol>
+<li>Self-Made</li>
+<li>Arend Studios</li>
+<li>Fursuits By Lacy</li>
+<li>Crystumes</li>
+<li>Dream Machine</li>
+<li>Beastcub Creations</li>
+</ol>
 
 </div>
 
@@ -108,5 +117,3 @@ For any questions feel free to reach out to us at <a href="mailto:fursuiting@gob
 
 <div class="clear">
 </div>
-
-
