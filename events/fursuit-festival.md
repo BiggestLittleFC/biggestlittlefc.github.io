@@ -45,12 +45,17 @@ This year, all photo shoots will be in Main Stage, keeping the Grand Ballroom fr
 
 <div class="one_half" style="padding:10px">
 
+### Open to the Public
+
+After the giant group fursuit photo, the festival begins! Suiters and non-suiters mingle across both rooms, creating lots of great interaction opportunities for fursuiters, which means all the one-on-one interaction time you can get without needing to keep up with a parade line!
 
 </div>
 
 </div></div>
 
-<div class="one-full bg-two"><div class="page-wrapper" style="padding: 3vw 3vw">
+<div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
+
+# Photo Schedule
 
 <div class="one_half" style="padding:10px">
 
@@ -64,12 +69,44 @@ This year, all photo shoots will be in Main Stage, keeping the Grand Ballroom fr
 
 </div></div>
 
+<div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
+
+<div class="one_half" style="padding:10px">
+
+
+</div>
+
+<div class="one_half" style="padding:10px">
+
+
+</div>
+
+</div></div>
+
+<div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
+
+<div class="one_half" style="padding:10px">
+
+
+</div>
+
+<div class="one_half" style="padding:10px">
+
+
+</div>
+
+</div></div>
 
 <div class="one-full bg-one"><div class="page-wrapper" style="padding: 3vw 3vw">
 
+# Other Info
+
 For any questions feel free to reach out to us at <a href="mailto:fursuiting@goblfc.org">fursuiting@goblfc.org</a>!
 
+<!-- faq here -->
 </div></div>
 
 <div class="clear">
 </div>
+
+
