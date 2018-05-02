@@ -35,7 +35,7 @@ Fox Amoore &amp; Pepper Coyote
 	<li>"Reg Line"</li>
 	<li>"Tell Me Something I Don't Know"</li>
 	<li>"Stitches"</li>
-	<li>"Buy My Stuff"</li>
+	<li><a href="https://foxamoore.bandcamp.com/track/buy-my-stuff" target="_blank">"Buy My Stuff"</a></li>
 	<li>"Power"</li>
 	<li><a href="https://www.youtube.com/watch?v=EoKqe4IEDN8" target="_blank">"Realization"</a></li>
 	<li>"Draw Me In"</li>
