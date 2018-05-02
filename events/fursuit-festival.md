@@ -14,7 +14,7 @@ We are excited to bring back the Fursuit Festival! This year **on Friday**, afte
 
 <div class="one-full bg-two"><div class="page-wrapper">
 
-<div class="one_third">
+<div class="one_third" style="padding:10px">
 
 ### Big Group Photo
 
@@ -22,7 +22,7 @@ The Festival will be Friday evening, starting **7PM** and going until **9PM**. S
 
 </div>
 
-<div class="one_third">
+<div class="one_third" style="padding:10px">
 
 ### A Tale of Two Rooms
 
@@ -30,7 +30,7 @@ This year, all photo shoots will be in Main Stage, keeping the Grand Ballroom fr
 
 </div>
 
-<div class="one_third">
+<div class="one_third" style="padding:10px">
 
 ### Photo stations
 
