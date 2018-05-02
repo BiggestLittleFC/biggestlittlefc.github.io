@@ -103,13 +103,45 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 <div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
 
-<div class="one_half" style="padding:10px">
+<div class="one_third" style="padding:10px">
 
+### 8:15 - Colors
+<ol>
+<li>Black & White</li>
+<li>Red</li>
+<li>Green & Blue</li>
+<li>Orange & Yellow</li>
+<li>Brown & Gray</li>
+<li>Purple & Pink</li>
+</ol>
 
 </div>
 
-<div class="one_half" style="padding:10px">
+<div class="one_third" style="padding:10px">
 
+### 8:30 - Makers
+<ol>
+<li>DWTA</li>
+<li>Made Fur You</li>
+<li>Blue Nose Creations</li>
+<li>Mischief Makers</li>
+<li>ByCats4Cats</li>
+<li>Tunny Says IDK</li>
+</ol>
+
+</div>
+
+<div class="one_third" style="padding:10px">
+
+### 8:45 - Species
+<ol>
+<li>Domestic Dogs</li>
+<li>Domestic Cats</li>
+<li>Bears & Pandas</li>
+<li>Raccoons & Red Pandas</li>
+<li>Hooved</li>
+<li>Reptiles & Dragons</li>
+</ol>
 
 </div>
 
@@ -117,18 +149,27 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 <div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
 
-<div class="one_half" style="padding:10px">
+<div class="one_third" style="padding:10px">
 
+### 8:55 - Makers
+<ol>
+<li>One Fur All</li>
+<li>Dandylions LLC</li>
+<li>Stormfire Studios</li>
+<li>Sparkle Kreations</li>
+<li>Roofur</li>
+<li>Lemonbrat</li>
+</ol>
 
 </div>
 
-<div class="one_half" style="padding:10px">
+<div class="one_third" style="padding:10px">
+</div>
 
-
+<div class="one_third" style="padding:10px">
 </div>
 
 </div></div>
-
 <div class="one-full bg-one"><div class="page-wrapper" style="padding: 3vw 3vw">
 
 # Other Info
