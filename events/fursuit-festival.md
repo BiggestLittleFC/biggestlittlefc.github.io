@@ -4,7 +4,7 @@ status: LIVE
 layout: fullwidth
 ---
 
-<div class="one-full bg-one textcenter"><div class="page-wrapper">
+<div class="one-full bg-one"><div class="page-wrapper">
 
 ## About the Festival
 
@@ -12,7 +12,7 @@ We are excited to bring back the Fursuit Festival! This year **on Friday**, afte
 
 </div></div>
 
-<div class="one-full bg-two textcenter"><div class="page-wrapper">
+<div class="one-full bg-two"><div class="page-wrapper">
 
 <div class="one_third">
 
