@@ -31,8 +31,8 @@ Fox Amoore &amp; Pepper Coyote
 <h2>Song list</h2>
 <ol>
 	<li>"Overture"</li>
-	<li><a href="http://www.furaffinity.net/view/26022927/" target="_blank">"One Weekend" <small>(Exclusive preview)</small></a></li>
-	<li>"Reg Line"</li>
+	<li><a href="https://foxamoore.bandcamp.com/track/one-weekend" target="_blank">"One Weekend" <small>(Exclusive preview)</small></a></li>
+	<li><a href="https://foxamoore.bandcamp.com/track/reg-line" target="_blank">"Reg Line"</a></li>
 	<li>"Tell Me Something I Don't Know"</li>
 	<li>"Stitches"</li>
 	<li><a href="https://foxamoore.bandcamp.com/track/buy-my-stuff" target="_blank">"Buy My Stuff"</a></li>
