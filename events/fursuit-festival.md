@@ -179,7 +179,30 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 For any questions feel free to reach out to us at <a href="mailto:fursuiting@goblfc.org">fursuiting@goblfc.org</a>!
 
-<!-- faq here -->
+<div class="accordion-list">
+
+On Friday
+: The festival will be on FRIDAY from 6:30PM until 9PM.
+
+Keeping You Safe
+: Security will be present around spaces still restricted to con attendees only, such as the fursuit lounge or video game room.
+
+Lots of Activities
+: You’ll see a lot of your favorite activities from last year returning, as well as a few new stations to try out. Be sure to stop by all of them to enjoy playing with all of your suiting and non-suiting friends – but please don’t take any props with you!
+
+Info Stations
+: Not sure of where a photo station is or when a particular photo shoot is happening? There will now be information stations available in the main ballroom, second stage area, and fursuit lounge, that will hold lots of useful information to help you plan your festival schedule! We will also have team members from Con Ops floating around able to answer your questions live, and big paper copies of the photo schedule hung up around the rooms.
+
+So Many Fans
+: Powerful fans will be scattered around the Festival, for a quick refresher without having to use the fursuit lounge.
+
+Accessible Fursuit Lounges
+: There will be two fursuit lounges available - The main fursuit lounge by second stage, and part of backstage behind main stage will be available as well. But these areas will still be very busy; please keep your visits as brief as you can to make room for others who need it.
+
+No more lines
+: This year, we eliminated any reason to form a line: There is no special fursuit tag giveaway. You can mingle in Second Stage if you like until the group photo time. Non-suiters simply mingle in Second Stage until the photo is taken.
+
+
 </div></div>
 
 <div class="clear"></div>
