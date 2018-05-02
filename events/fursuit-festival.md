@@ -171,7 +171,7 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 </div></div>
 
-<div class="clear">
+<div class="clear"></div>
 
 <div class="one-full bg-one"><div class="page-wrapper" style="padding: 3vw 3vw">
 
@@ -182,7 +182,5 @@ For any questions feel free to reach out to us at <a href="mailto:fursuiting@gob
 <!-- faq here -->
 </div></div>
 
-<div class="clear">
-</div>
-
+<div class="clear"></div>
 
