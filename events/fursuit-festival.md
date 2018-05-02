@@ -4,15 +4,15 @@ status: LIVE
 layout: fullwidth
 ---
 
-<div class="one-full bg-one">
+<div class="one-full bg-one"><div class="page-wrapper" style="padding: 3vw 3vw">
 
 ## About the Festival
 
 We are excited to bring back the Fursuit Festival! This year **on Friday**, after the Dealer’s Den closes, we will be launching with our giant group fursuit photo in Main Stage at **7:20pm** SHARP and then fill both the main stage and second stage areas with tons of photo shoot areas and activities for everyone to enjoy! Here's how the evening will work:
 
-</div>
+</div></div>
 
-<div class="one-full bg-two"><div class="page-wrapper">
+<div class="one-full bg-two"><div class="page-wrapper" style="padding: 3vw 3vw">
 
 <div class="one_third" style="padding:10px">
 
