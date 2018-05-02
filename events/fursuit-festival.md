@@ -59,6 +59,20 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 <div class="one_third" style="padding:10px">
 
+### 6:45 - Big Photo Staging
+Start gathering in Main Stage for the giant group photo
+
+</div>
+
+<div class="one_third" style="padding:10px">
+
+### 7:20 SHARP
+Giant group photo is taken and the festival begins!
+
+</div>
+
+<div class="one_third" style="padding:10px">
+
 ### 7:30 - Makers
 <ol>
 <li>Self-Made</li>
@@ -70,6 +84,10 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 </ol>
 
 </div>
+
+</div></div>
+
+<div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
 
 <div class="one_third" style="padding:10px">
 
@@ -99,10 +117,6 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 </div>
 
-</div></div>
-
-<div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
-
 <div class="one_third" style="padding:10px">
 
 ### 8:15 - Colors
@@ -116,6 +130,10 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 </ol>
 
 </div>
+
+</div></div>
+
+<div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
 
 <div class="one_third" style="padding:10px">
 
@@ -132,7 +150,7 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 </div>
 
 <div class="one_third" style="padding:10px">
-
+  
 ### 8:45 - Species
 <ol>
 <li>Domestic Dogs</li>
@@ -142,12 +160,8 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 <li>Hooved</li>
 <li>Reptiles & Dragons</li>
 </ol>
-
+  
 </div>
-
-</div></div>
-
-<div class="one-full bg-three"><div class="page-wrapper" style="padding: 3vw 3vw">
 
 <div class="one_third" style="padding:10px">
 
@@ -163,12 +177,6 @@ After the giant group fursuit photo, the festival begins! Suiters and non-suiter
 
 </div>
 
-<div class="one_third" style="padding:10px">
-</div>
-
-<div class="one_third" style="padding:10px">
-</div>
-
 </div></div>
 
 <div class="clear"></div>
@@ -182,13 +190,10 @@ For any questions feel free to reach out to us at <a href="mailto:fursuiting@gob
 <div class="accordion-list">
 
 On Friday
-: The festival will be on FRIDAY from 6:30PM until 9PM.
+: The festival will comprise of 6:30-7:20 big photo staging, 7:20 SHARP big photo, and 7:30-9PM small photoshoots and mingle time!
 
 Keeping You Safe
-: Security will be present around spaces still restricted to con attendees only, such as the fursuit lounge or video game room.
-
-Lots of Activities
-: You’ll see a lot of your favorite activities from last year returning, as well as a few new stations to try out. Be sure to stop by all of them to enjoy playing with all of your suiting and non-suiting friends – but please don’t take any props with you!
+: Security will be present at the fursuit lounge to keep out non-attendees.
 
 Info Stations
 : Not sure of where a photo station is or when a particular photo shoot is happening? There will now be information stations available in the main ballroom, second stage area, and fursuit lounge, that will hold lots of useful information to help you plan your festival schedule! We will also have team members from Con Ops floating around able to answer your questions live, and big paper copies of the photo schedule hung up around the rooms.
