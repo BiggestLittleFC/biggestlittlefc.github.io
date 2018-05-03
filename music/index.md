@@ -34,7 +34,7 @@ Fox Amoore &amp; Pepper Coyote
 	<li><a href="https://foxamoore.bandcamp.com/track/one-weekend" target="_blank">"One Weekend" <small>(Exclusive preview)</small></a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/reg-line" target="_blank">"Reg Line"</a></li>
 	<li>"Tell Me Something I Don't Know"</li>
-	<li>"Stitches"</li>
+	<li><a href="https://foxamoore.bandcamp.com/track/stitches" target="_blank">"Stitches"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/buy-my-stuff" target="_blank">"Buy My Stuff"</a></li>
 	<li>"Power"</li>
 	<li><a href="https://www.youtube.com/watch?v=EoKqe4IEDN8" target="_blank">"Realization"</a></li>
