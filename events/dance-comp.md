@@ -13,10 +13,10 @@ times:
 
 ## Dance Comp. Application
 Applications are now closed. See you at the con!
-{::comment}
+<!--
 [Sign up now][reglink]
 {: class="button"}
-{:/comment}
+-->
 </div>
 </div>
 
