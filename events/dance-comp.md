@@ -12,10 +12,11 @@ times:
 <div class="page-wrapper">
 
 ## Dance Comp. Application
-
+Applications are now closed. See you at the con!
+{::comment}
 [Sign up now][reglink]
 {: class="button"}
-
+{:/comment}
 </div>
 </div>
 
@@ -35,7 +36,7 @@ times:
 {:/comment}
 
 
-
+{::comment}
 <div class="one-full bg-two">
 <div class="page-wrapper">
 
@@ -58,14 +59,14 @@ times:
 
 </div>
 </div>
-
+{:/comment}
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
 
 ## Judging Criteria
 
-During both the preliminaries and the main stage event, judges will be using the **ballroom system**, wherein competitors are ranked against each other in real-time, to make sure no one is forgotten about in the decision making process.
+{::comment}During both the preliminaries and the main stage event, judges will be using the **ballroom system**, wherein competitors are ranked against each other in real-time, to make sure no one is forgotten about in the decision making process.{:/comment}
 
 These are some of the aspects our judges will be looking for; some judges consider different aspects more important than others!
   
