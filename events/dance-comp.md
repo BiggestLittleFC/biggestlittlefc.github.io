@@ -4,8 +4,8 @@ status: LIVE
 layout: fullwidth
 times: 
   showup: "TBD"
-  preliminaries: "TBD"
-  finals: "TBD"
+  preliminaries: "Friday at Noon"
+  finals: "Saturday at 3pm"
 ---
 
 <div class="one-full bg-one textcenter">
@@ -32,30 +32,30 @@ Applications are now closed. See you at the con!
 {:/comment}
 
 
-{::comment}
 <div class="one-full bg-two">
 <div class="page-wrapper">
 
 ## How to Compete
+{::comment}
 
 1. [Sign up][reglink] and submit your music (please make sure the quality of your music is 256kbps or higher).
    Go fill out information about yourself or your group and give us your dance music.
    We’ll take care of the paperwork and have everything ready for you!
+{:/comment}
 
-2. <a href="#dance-comp-rules">Familiarize yourself with our rules</a>! Nothing more embarrassing than being fouled on a technicality!
+1. <a href="#dance-comp-rules">Familiarize yourself with our rules</a>! Nothing more embarrassing than being fouled on a technicality!
 
-3. Compete in the preliminaries (**{{ page.times.preliminaries }}**) - You’ll perform for a panel of judges and our production team.
+2. Compete in the preliminaries (**{{ page.times.preliminaries }}**) - You’ll perform for a panel of judges and our production team.
    Bring your best to have a chance at Finals. We’ll post the results and tell you who qualified for the finals!
    **NOTE**: What you perform at prelims *must* be what you intend to perform in the finals.
 
-4. The big showdown (**{{ page.times.finals }}**) - The cream of the crop will perform in front of a live audience at the con and for the live stream broadcast around the globe.
+3. The big showdown (**{{ page.times.finals }}**) - The cream of the crop will perform in front of a live audience at the con and for the live stream broadcast around the globe.
 
-5. Win prizes and respect.
+4. Win prizes and respect.
 
 
 </div>
 </div>
-{:/comment}
 
 <div class="one-full bg-three">
 <div class="page-wrapper">
