@@ -35,6 +35,7 @@ Excellent! BLFC is highly dependent on amazing individuals, like yourself, to ru
 
 The Panel schedule can be viewed here.
 <a class="button" href="/program.pdf/">Program</a>
+  
 Any at-con corrections to the schedule can be found <a href="https://twitter.com/search?q=errata%20from%3A%40biggestlittlefc">here</a>.
 
 </div>
