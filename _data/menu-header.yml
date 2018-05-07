@@ -39,10 +39,10 @@ toc:
 ##        url: "/"
   - title: Events
     subfolderitems:
-    - page: Events Schedule
-        url: "https://www.goblfc.org/program.pdf"
 #      - page: All events
 #        url: "/events/"
+      - page: Events Schedule
+        url: "/events/dance-battle-royale/"
       - page: Dance Battle Royale
         url: "/events/dance-battle-royale/"
       - page: Dance Comp.
