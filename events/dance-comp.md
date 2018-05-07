@@ -3,7 +3,7 @@ title: Dance Competition
 status: LIVE
 layout: fullwidth
 times: 
-  showup: "TBD"
+  showup: "Saturday at 2pm"
   preliminaries: "Friday at Noon"
   finals: "Saturday at 3pm"
 ---
