@@ -39,6 +39,8 @@ toc:
 ##        url: "/"
   - title: Events
     subfolderitems:
+    - page: Events Schedule
+        url: "https://www.goblfc.org/program.pdf"
 #      - page: All events
 #        url: "/events/"
       - page: Dance Battle Royale
@@ -53,8 +55,7 @@ toc:
         url: "/events/fursuit-charity-dance-auction/"
 #      - page: "Meet 'n Greets"
 #        url: "/events/meet-n-greets/"
-      - page: Panels
-        url: "/events/panels/"
+      
   - title: Activities
     subfolderitems:
 #      - page: All Activities
