@@ -69,7 +69,7 @@ $('#page-content').removeClass('home-scroll');
 <li class="one_fourth">
 <h3>4. Enjoy</h3>
 <p>There is a ton to do at BLFC. So whether you wanna buy, learn, dance, or play, there's something for you.</p>
-<a class="button" href="/events/">Program</a>
+<a class="button" href="/program.pdf">Event Schedule</a>
 </li>
 </ol>
 <div class="clear"></div>
