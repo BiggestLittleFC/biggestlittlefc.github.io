@@ -195,7 +195,7 @@ I can't work for free... Give me da money, Sahny!</span>
 
 <p>Thistle stands with his wheeled suitcase and backpack in front of gigantic windows overlooking an airport runway. A commercial aircraft rolls into a gate. Thistle reads over a boarding pass. He closes his eyes, takes a slow deep breath. The opening chords for "ONE WEEKEND" strum in. He sings and dances across the terminal.</p>
 
-<p>( MUSIC : "ONE WEEKEND" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/one-weekend" target="_blank">MUSIC : "ONE WEEKEND"</a> )</p>
 
 <div class="dialogue">
 <h4>THISTLE</h4>
@@ -1040,7 +1040,7 @@ One weekend. This weekend!</p>
 
 
 <a name="scene11"></a>
-<p>( MUSIC : "REG LINE" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/reg-line" target="_blank">MUSIC : "REG LINE"</a> )</p>
 
 <p>Several landscapes fade in and out as the SUV drives down the long stretch of road. The sun disappears and the sky fades to night. The guitar strums in for "REG LINE". Sahny turns around in the seat and grins at the fursuit head facing out the rear window. Baz yawns and stretches in her seat. Clover bobs his head to the music.</p>
 

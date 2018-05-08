@@ -63,7 +63,7 @@ layout: empty
 
 <p>Sahny wakes with a groan inside the bathtub. Clover kneels next to them. The music of "HEY BUDDY" fades in, Sahny clutches their head and squints as the music begins. The bathroom mirror slides away to reveal an unenthusiastic Mariachi band, playing to the music.</p>
 
-<p>( MUSIC: "HEY BUDDY" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/hey-buddy" target="_blank">MUSIC: "HEY BUDDY"</a> )</p>
 
 <div class="dialogue">
 <h4>CLOVER</h4>

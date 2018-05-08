@@ -31,17 +31,17 @@ Fox Amoore &amp; Pepper Coyote
 <h2>Song list</h2>
 <ol>
 	<li>"Overture"</li>
-	<li><a href="https://foxamoore.bandcamp.com/track/one-weekend" target="_blank">"One Weekend" <small>(Exclusive preview)</small></a></li>
+	<li><a href="https://foxamoore.bandcamp.com/track/one-weekend" target="_blank">"One Weekend"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/reg-line" target="_blank">"Reg Line"</a></li>
-	<li>"Tell Me Something I Don't Know"</li>
+	<li><a href="https://foxamoore.bandcamp.com/track/tell-me-something" target="_blank">"Tell Me Something I Don't Know"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/stitches" target="_blank">"Stitches"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/buy-my-stuff" target="_blank">"Buy My Stuff"</a></li>
-	<li>"Power"</li>
-	<li><a href="https://www.youtube.com/watch?v=EoKqe4IEDN8" target="_blank">"Realization"</a></li>
-	<li>"Draw Me In"</li>
-	<li>"I'm Going All In"</li>
-	<li>"Hey Buddy"</li>
-	<li>"Good Con</li>
+	<li><a href="https://foxamoore.bandcamp.com/track/power" target="_blank">"Power"</a></li>
+	<li><a href="https://foxamoore.bandcamp.com/track/realization" target="_blank">"Realization"</a></li>
+	<li><a href="https://foxamoore.bandcamp.com/track/draw-me-in" target="_blank">"Draw Me In"</a></li>
+	<li><a href="https://foxamoore.bandcamp.com/track/goin-all-in" target="_blank">"I'm Going All In"</a></li>
+	<li><a href="https://foxamoore.bandcamp.com/track/hey-buddy" target="_blank">"Hey Buddy"</a></li>
+	<li>"Good Con"</li>
 </ol>
 
 <div class="clear"></div>

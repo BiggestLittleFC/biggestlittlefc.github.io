@@ -164,7 +164,7 @@ layout: empty
 
 <p>He walks out on stage with the confidence of a rock star, waving out at the crowd as the piano intro plays.</p>
 
-<p>( MUSIC: "TELL ME SOMETHING I DON'T KNOW" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/tell-me-something" target="_blank">MUSIC: "TELL ME SOMETHING I DON'T KNOW"</a> )</p>
 
 <div class="dialogue">
 <h4>DIEGO</h4>
@@ -335,7 +335,7 @@ layout: empty
 
 <p>A medley of colorful fur approaches, as a group of Fursuiters mob the hallway. The Fursuiters walk right in front of the crowd that the two are in. Clover grins, watching the excited little dog take in the sight.</p>
 
-<p>( MUSIC: "STITCHES" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/stitches" target="_blank">MUSIC: "STITCHES"</a> )</p>
 
 <p>Thistle steps through the gathering crowd, in tune with the opening piano keys of "STITCHES". The crowd blurs away into a fuzzy haze of shapes. The naturally lit corridor brightens to an almost iridescent glow. He dances unnoticed between the Fursuiters.</p>
 
@@ -744,7 +744,7 @@ layout: empty
 
 <p>The lights fade on the dealers den, the piano tune fades in, a spotlight shines on Baz. Her purple jacket shimmers like a sequin dress. She walks towards the table, singing and dancing as she goes.</p>
 
-<p>( MUSIC: "BUY MY STUFF" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/buy-my-stuff" target="_blank">MUSIC: "BUY MY STUFF"</a> )</p>
 
 <div class="dialogue">
 <h4>BAZ</h4>
@@ -1242,7 +1242,7 @@ layout: empty
 <p>As Sahny emerges once more from the headless lounge their eyes fall on Keystone's entourage following with envy.</p>
 
 <a name="scene8-2"></a>
-<p>( MUSIC: "POWER" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/power" target="_blank">MUSIC: "POWER"</a> )</p>
 
 <div class="dialogue">
 <h4>SAHNY</h4>

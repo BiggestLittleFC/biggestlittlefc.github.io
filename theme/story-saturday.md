@@ -937,7 +937,7 @@ layout: empty
 
 <p>The roof door swings open, Thistle rushes out to the edge of the rooftop, as the beginning piano chords of "Realization" echo in the open air. His eyes water as he looks out on the flickering orange lights of the cityscape beneath the silhouette of the mountains against the blue, moonlit night.</p>
 
-<p>( MUSIC: "REALIZATION" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/realization" target="_blank">MUSIC: "REALIZATION"</a> )</p>
 
 <div class="dialogue">
 <h4>THISTLE</h4>
@@ -1295,7 +1295,7 @@ layout: empty
 <a name="scene6-2"></a>
 <p>Daub smirks at her impression, and graciously accepts the badge sketches with both hands. He dips a pen into an ink jar. He places the pen to the paper and draws out a confident stroke on top of a sketch easily recognizable in Baz's style.</p>
 
-<p>( MUSIC: "DRAW ME IN" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/draw-me-in" target="_blank">MUSIC: "DRAW ME IN"</a> )</p>
 
 <p>Daub taps out the beginning of "DRAW ME IN" with a pen. A little otters floats in the pool behind them and toots on a tiny sax to join in the music. With the cymbal crash, the otter dives into the water with a splash. The darkness of the park fades away. Baz and dauB fall gracefully from their seats through a painted world that blends their two styles. The pens in their hands draw out black ribbons that dance around them as they duet and dance close together.</p>
 
@@ -1465,7 +1465,7 @@ layout: empty
 
 <p>Thistle turns to Sahny, crossing the room with the purple mass of fur in their arms. Piano intro bit starts up as they connect eyes.</p>
 
-<p>( MUSIC: "I'M GOING ALL IN" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/goin-all-in" target="_blank">MUSIC: "I'M GOING ALL IN"</a> )</p>
 
 <div class="dialogue">
 <h4>SAHNY</h4>
