@@ -42,6 +42,8 @@ toc:
 #      - page: All events
 #        url: "/events/"
       - page: Events Schedule
+        url: "https://api.goblfc.org/schedule.php"
+      - page: Pocket Program Download
         url: "/program.pdf"
       - page: Dance Battle Royale
         url: "/events/dance-battle-royale/"
