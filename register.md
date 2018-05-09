@@ -21,7 +21,7 @@ layout: fullwidth
 
 ## Pre-Registration
 
-[Pre-register today!][reglink]
+[Register today!][reglink]
 
 **Important**: Patron and Sponsor are only available until {{ page.upgradeend }}. **No upgrades at-con**.
 
