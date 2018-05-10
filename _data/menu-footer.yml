@@ -31,6 +31,7 @@ toc:
         url: "/style-guide/"
       - page: Con Book
         url: "/conbook.pdf"
+        target: "_blank"
       - page: Theme Credits
         url: "/theme/credits/"
       - page: Submit Art
