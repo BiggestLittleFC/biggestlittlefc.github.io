@@ -12,6 +12,9 @@ toc:
         url: "/travel/"
       - page: Restaurants
         url: "/restaurants/"
+      - page: Program
+        url: "/program.pdf"
+        target: "_blank"
       - page: Con Map
         url: "/map/"
       - page: Policies
@@ -27,7 +30,7 @@ toc:
       - page: Art Guidelines
         url: "/style-guide/"
       - page: Con Book
-        url: "/"
+        url: "/conbook.pdf"
       - page: Theme Credits
         url: "/theme/credits/"
       - page: Submit Art
