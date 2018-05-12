@@ -9,10 +9,11 @@ status: LIVE
 <div id="home-btn-bar" class="textcenter">
 
 <a class="button" href="/map/">Map</a>
-<a class="button" href="https://api.goblfc.org/schedule.php" target="_blank">Schedule</a>
-<a class="button" href="https://www.goblfc.org/program.pdf" target="_blank">Program</a>
-<a class="button" href="https://www.goblfc.org/theme/story-thursday">Theme Story</a>
+<a class="button" href="/schedule.php" target="_blank">Schedule</a>
+<a class="button" href="/program.pdf" target="_blank">Program</a>
+<a class="button" href="/theme/story-thursday">Theme Story</a>
 <a class="button" href="https://www.youtube.com/c/BiggestlittlefurconOrg/live" target="_blank">Live Stream</a>
+<a class="button" href="/restaurants/" target="_blank">Food</a>
 
 </div>
 
@@ -25,7 +26,11 @@ status: LIVE
 <div id="home-stage2" class="big-chunk textcenter">
 <div id="home-stage-content">
 
-<img src="//goblfc.org/assets/theme/BLFC2018-logo-s.png" alt="BLFC the Musical - Now Showing">
+<img src="/assets/theme/BLFC2018-logo-s.png" alt="BLFC the Musical - Now Showing">
+
+<h1>Welcome to BLFC 2018</h1>
+
+<p>Please, enjoy your con!</p>
 
 </div>
 </div>
@@ -34,26 +39,31 @@ status: LIVE
 
 <style>
 #home-btn-bar {
-	padding: 10px 0;
-	margin-top: 50px;
+  padding: 30px 0 10px;
+  margin-top: 20px;
+  position: relative;
+  background: #080008;
+  z-index: 40;
+  box-shadow: 0 12px 12px rgba(0,0,0,0.8);
 }
 #curtain-wrap {
-	position: relative;
+  position: relative;
 }
 #home-curtain-left, #home-curtain-right, #home-curtain-top {
-	position: absolute;
+  position: absolute;
 }
 #home-stage-content img {
-	height: auto;
+  height: auto;
 }
 #home-curtain-top {
-	top: 10px;
+  top: -10px;
 }
 #home-curtain-left, #home-curtain-right {
-	width: 23vw;
-	height: 80vh;
+  top: 50px;
+  width: 23vw;
+  height: 80vh;
 }
-.button {
-	margin: 4px;
+a.button {
+  margin: 4px;
 }
 </style>
