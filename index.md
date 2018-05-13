@@ -9,7 +9,7 @@ status: LIVE
 <div id="home-btn-bar" class="textcenter">
 
 <a class="button" href="/map/">Map</a>
-<a class="button" href="/schedule.php" target="_blank">Schedule</a>
+<a class="button" href="http://api.goblfc.org/schedule.php" target="_blank">Schedule</a>
 <a class="button" href="/program.pdf" target="_blank">Program</a>
 <a class="button" href="/theme/story-thursday">Theme Story</a>
 <a class="button" href="https://www.youtube.com/c/BiggestlittlefurconOrg/live" target="_blank">Live Stream</a>
