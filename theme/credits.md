@@ -177,5 +177,6 @@ status: LIVE
 
 <p class="credit-copy">Story, art and design &copy;2018 BLFC Corp.</p>
 <p class="credit-copy">The story, names, characters and incidents portrayed in this production are fictitious. Any identification with actual persons, places, buildings and products is purely convenient.</p>
+<p class="credit-copy">Thank you to the five thousand four hundred and thirty-five attendees who made this possible. We hope you all had a Good Con.</p>
 
 </div>
