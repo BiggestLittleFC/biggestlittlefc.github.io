@@ -798,7 +798,7 @@ layout: empty
 
 <p>Baz walks through the glass doors. She joins Clover, Thistle, and Sahny already outside, standing by a rideshare vehicle with the trunk open.</p>
 
-<p>( MUSIC: "GOOD CON" )</p>
+<p>( <a href="https://foxamoore.bandcamp.com/track/good-con" target="_blank">MUSIC: "GOOD CON"</a> )</p>
 
 <div class="dialogue">
 <h4>CLOVER</h4>

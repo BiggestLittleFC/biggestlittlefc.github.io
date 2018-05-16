@@ -30,7 +30,7 @@ Fox Amoore &amp; Pepper Coyote
 <div id="card-playlist" class="textcenter one-full bg-two">
 <h2>Song list</h2>
 <ol>
-	<li>"Overture"</li>
+	<li><a href="https://foxamoore.bandcamp.com/track/overture-one-weekend" target="_blank">"Overture"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/one-weekend" target="_blank">"One Weekend"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/reg-line" target="_blank">"Reg Line"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/tell-me-something" target="_blank">"Tell Me Something I Don't Know"</a></li>
@@ -41,7 +41,7 @@ Fox Amoore &amp; Pepper Coyote
 	<li><a href="https://foxamoore.bandcamp.com/track/draw-me-in" target="_blank">"Draw Me In"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/goin-all-in" target="_blank">"I'm Going All In"</a></li>
 	<li><a href="https://foxamoore.bandcamp.com/track/hey-buddy" target="_blank">"Hey Buddy"</a></li>
-	<li>"Good Con"</li>
+	<li><a href="https://foxamoore.bandcamp.com/track/good-con" target="_blank">"Good Con"</a></li>
 </ol>
 
 <div class="clear"></div>
