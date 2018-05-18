@@ -20,6 +20,10 @@ status: LIVE
 <p class="credit-single">Lithium, Lunania &amp; Coyoli and Djarums</p>
 
 
+<h2>Adapted for Stage by</h2>
+<p class="credit-single">Aubirb</p>
+
+
 <h2>Cast</h2>
 <ul class="credit-group">
   <li>
