@@ -18,17 +18,16 @@ status: LIVE
 
 </div>
 
-<div id="curtain-wrap">
-
 <div id="home-curtain-top"></div>
 <div id="home-curtain-left"></div>
 <div id="home-curtain-right"></div>
 <div id="home-curtain-main"><div id="home-curtain-end"></div></div>
+<div id="home-scroll-notice">{% include graphic-scrollnotice.svg %}</div>
  
-<div id="home-stage2" class="big-chunk textcenter">
+<div id="home-stage" class="big-chunk textcenter">
 <div id="home-stage-content">
 
-<img src="/assets/theme/BLFC2018-logo-s.png" alt="BLFC the Musical - Now Showing">
+<img src="/assets/theme/BLFC2018-logo-s.png" alt="BLFC: A Musical Tail">
 
 <h1>Welcome back to BLFC 2018</h1>
 
@@ -37,7 +36,6 @@ status: LIVE
 </div>
 </div>
 
-</div>
 <script>
 $(window).scroll(function(){
 
@@ -86,6 +84,9 @@ $(window).scroll(function(){
   height: 80vh;
 }
 */
+#home-stage-content {
+  min-height: 200vh;
+}
 a.button {
   margin: 4px;
 }
