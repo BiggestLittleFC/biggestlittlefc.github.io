@@ -37,24 +37,26 @@ status: LIVE
 </div>
 
 <script>
-  $(window).scroll(function(){
-      var wScroll = $(this).scrollTop();
-      var wHeight = $(window).height();
-      console.log(wScroll);
-      console.log(wHeight);
-      /* scroll notice fade out */
-      if ( wScroll > 10 ) {
-        $('#home-scroll-notice').css({ 'opacity' : '0' });
-      }
-      if ( wScroll > wHeight - 1 ) {
-        $('#page-content').addClass('home-scroll');
-        console.log('Dooooowwnn');
-      }
-      if ( wScroll < wHeight + 1 ) {
-        $('#page-content').removeClass('home-scroll');
-        console.log('and uuup');
-      }
-  });
+$(window).scroll(function(){
+  var wScroll = $(this).scrollTop();
+  var wHeight = $(window).height();
+  console.log(wScroll);
+  console.log(wHeight);
+  /* scroll notice fade out */
+  if ( wScroll > 10 ) {
+    $('#home-scroll-notice').css({ 'opacity' : '0' });
+  }
+
+  /* after curtain raised, make elements scroll with page */
+  if ( wScroll > wHeight - 1 ) {
+    $('#page-content').addClass('home-scroll');
+    console.log('Dooooowwnn');
+  }
+  if ( wScroll < wHeight + 1 ) {
+    $('#page-content').removeClass('home-scroll');
+    console.log('and uuup');
+  }
+});
 </script>
  
 <style>
@@ -66,15 +68,15 @@ status: LIVE
   z-index: 40;
   box-shadow: 0 12px 12px rgba(0,0,0,0.8);
 }
+#home-stage-content img {
+  height: auto;
+}
 /*
 #curtain-wrap {
   position: relative;
 }
 #home-curtain-left, #home-curtain-right, #home-curtain-top {
   position: absolute;
-}
-#home-stage-content img {
-  height: auto;
 }
 #home-curtain-top {
   top: -10px;
@@ -85,6 +87,9 @@ status: LIVE
   height: 80vh;
 }
 */
+.home #page-content {
+  min-height: 220vh;
+}
 #home-stage-content {
   min-height: 200vh;
 }
