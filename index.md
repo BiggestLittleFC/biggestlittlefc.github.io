@@ -37,23 +37,24 @@ status: LIVE
 </div>
 
 <script>
-$(window).scroll(function(){
-
-  var wScroll = $(this).scrollTop();
-  var wHeight = $(window).height();
-  // scroll notice fade out
-  if ( wScroll > 10 ) {
-    $('#home-scroll-notice').css({ 'opacity' : '0' });
-  }
-  if ( wScroll > wHeight - 1 ) {
-    $('#page-content').addClass('home-scroll');
-    //console.log('Dooooowwnn');
-  }
-  if ( wScroll < wHeight + 1 ) {
-    $('#page-content').removeClass('home-scroll');
-    //console.log('and uuup');
-  }
-});
+  $(window).scroll(function(){
+      var wScroll = $(this).scrollTop();
+      var wHeight = $(window).height();
+      console.log(wScroll);
+      console.log(wHeight);
+      /* scroll notice fade out */
+      if ( wScroll > 10 ) {
+        $('#home-scroll-notice').css({ 'opacity' : '0' });
+      }
+      if ( wScroll > wHeight - 1 ) {
+        $('#page-content').addClass('home-scroll');
+        console.log('Dooooowwnn');
+      }
+      if ( wScroll < wHeight + 1 ) {
+        $('#page-content').removeClass('home-scroll');
+        console.log('and uuup');
+      }
+  });
 </script>
  
 <style>
